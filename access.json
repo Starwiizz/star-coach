@@ -1,9 +1,9 @@
 {
   "revoked": [],
   "latest": {
-    "version": "4.0.5",
-    "code": 40005,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.0.5/star-coach.apk",
+    "version": "4.0.6",
+    "code": 40006,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.0.6/star-coach.apk",
     "notes": ["Annonces vocales dans le casque", "Encouragements de tes proches", "Connexion montre intervals.icu", "Séances faites ou non, avec analyse", "Demande à ton coach"]
   }
 }
