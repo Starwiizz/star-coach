@@ -1,9 +1,9 @@
 {
   "revoked": [],
   "latest": {
-    "version": "4.0.6",
-    "code": 40006,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.0.6/star-coach.apk",
-    "notes": ["Autorisations vérifiées et demandées automatiquement", "État du GPS en direct et test du GPS", "Départ au mouvement même en marchant", "Annonces vocales et encouragements", "Connexion montre intervals.icu"]
+    "version": "4.0.7",
+    "code": 40007,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.0.7/star-coach.apk",
+    "notes": ["Barres Android lisibles en clair et en sombre", "Carte affichée dès l’arrivée sur la page Départ", "Position et trace en direct, bouton ↻"]
   }
 }
