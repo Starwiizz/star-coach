@@ -1,10 +1,9 @@
 {
   "revoked": [],
   "latest": {
-    "version": "4.0.1",
-    "code": 40001,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.0.1/star-coach.apk",
-    "notes": ["Première version de Star Coach"]
+    "version": "4.0.3",
+    "code": 40003,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.0.3/star-coach.apk",
+    "notes": ["Carte et trace en direct, même sans GPX", "Suivi à distance avec carte", "Test et choix du modèle d’IA", "Rappel de sauvegarde corrigé"]
   }
 }
-
