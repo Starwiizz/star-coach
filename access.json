@@ -1,1 +1,10 @@
+{
+  "revoked": [],
+  "latest": {
+    "version": "4.0.1",
+    "code": 40001,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.0.1/star-coach.apk",
+    "notes": ["Première version de Star Coach"]
+  }
+}
 
