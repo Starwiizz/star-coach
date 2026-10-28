@@ -1,9 +1,9 @@
 {
   "revoked": [],
   "latest": {
-    "version": "4.0.4",
-    "code": 40004,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.0.4/star-coach.apk",
-    "notes": ["Nouveau fond de carte IGN et trace en direct", "Réglages simplifiés et réorganisés", "IA plus stable et plus simple à régler", "Couleurs des cartes de course revues"]
+    "version": "4.0.5",
+    "code": 40005,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.0.5/star-coach.apk",
+    "notes": ["Annonces vocales dans le casque", "Encouragements de tes proches", "Connexion montre intervals.icu", "Séances faites ou non, avec analyse", "Demande à ton coach"]
   }
 }
