@@ -1,9 +1,9 @@
 {
   "revoked": [],
   "latest": {
-    "version": "4.0.9",
-    "code": 40009,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.0.9/star-coach.apk",
-    "notes": ["Import des fichiers .fit réparé", "Autorisations : batterie et réglages en un appui", "Premier lancement en 3 étapes", "Gemini plus fiable, IA du téléphone sur tous les téléphones"]
+    "version": "4.1.0",
+    "code": 40100,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.1.0/star-coach.apk",
+    "notes": ["Carte Aujourd’hui et coach intégré instantané", "Courses : fiche plein écran et défis intermédiaires", "IA du téléphone automatique, Gemini plus rapide", "Chaussures, séances supprimables, doublons bloqués", "Bouton retour Android et autorisations simplifiées"]
   }
 }
