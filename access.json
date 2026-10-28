@@ -1,9 +1,9 @@
 {
   "revoked": [],
   "latest": {
-    "version": "4.0.3",
-    "code": 40003,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.0.3/star-coach.apk",
-    "notes": ["Carte et trace en direct, même sans GPX", "Suivi à distance avec carte", "Test et choix du modèle d’IA", "Rappel de sauvegarde corrigé"]
+    "version": "4.0.4",
+    "code": 40004,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.0.4/star-coach.apk",
+    "notes": ["Nouveau fond de carte IGN et trace en direct", "Réglages simplifiés et réorganisés", "IA plus stable et plus simple à régler", "Couleurs des cartes de course revues"]
   }
 }
