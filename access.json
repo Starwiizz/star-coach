@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.6",
-    "code": 40606,
-    "build": "b194",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.6/star-coach.apk",
-    "sha256": "f9ac0d9eaa5dda478fc4049e4db17b9ca774b57bce73b073027f8eda6b14785f",
+    "version": "4.6.7",
+    "code": 40607,
+    "build": "b195",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.7/star-coach.apk",
+    "sha256": "72c0db4c8c771151de5ae39ab290855b2efd388e071bd7dd4f7c220317399750",
     "notes": [
-      "🔄 Mises à jour sans confirmation : à partir de la prochaine version, l’appli s’installe toute seule (Android 12 et plus). Pour celle-ci, Android demande encore une fois ton accord.",
-      "🔐 Mises à jour vérifiées : l’appli contrôle l’empreinte du fichier téléchargé avant de l’installer.",
-      "🧠 Bilan stable : ton bilan n’est refait que s’il y a de nouvelles séances (ou si tu le demandes). Les km par semaine et la plus longue sortie sont calculés par l’appli : mêmes séances, mêmes chiffres",
-      "🚀 « Nouvelle version » : la question de refaire l’analyse complète n’apparaît plus que si la mise à jour change les calculs du coach ou du programme.",
-      "🚀 Mises à jour : une nouvelle version est proposée dès l’ouverture de l’appli (vérification au plus une fois par heure), sans passer par « Rechercher »."
+      "🎯 Séance libre : l’activité de ta montre est rattachée à ta séance libre (une seule ligne, plus de « hors plan »), avec son analyse.",
+      "👥 Amis : une séance libre partagée s’affiche « Séance libre » et non plus « Course » (il faut que ton ami ait aussi cette version).",
+      "🧠 Bilan cohérent avec ton programme : ton coach connaît maintenant les km prévus, la sortie longue et ce que tu as déjà fait cette semaine. S’il conseille de changer ton programme, il te le propose a",
+      "📊 Bilan : le nombre de séances est expliqué (séances des 6 derniers mois, et total).",
+      "ℹ️ Pour en profiter, touche « Refaire mon bilan »."
     ]
   }
 }
