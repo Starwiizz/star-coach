@@ -1,9 +1,20 @@
 {
+  "invite": false,
+  "allowed": [
+    "sha256:aefd783de0ada1bc0d729ff99d251365cdd362053607541cc5ebf9eecef3c59d",
+    "sha256:40960661245b30715025c4a578c8e16942da39cd297bc6bd59ef488db76cb73f"
+  ],
   "revoked": [],
   "latest": {
     "version": "4.1.0",
     "code": 40100,
     "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.1.0/star-coach.apk",
-    "notes": ["Carte Aujourd’hui et coach intégré instantané", "Courses : fiche plein écran et défis intermédiaires", "IA du téléphone automatique, Gemini plus rapide", "Chaussures, séances supprimables, doublons bloqués", "Bouton retour Android et autorisations simplifiées"]
+    "notes": [
+      "Carte Aujourd’hui et coach intégré instantané",
+      "Courses : fiche plein écran et défis intermédiaires",
+      "IA du téléphone automatique, Gemini plus rapide",
+      "Chaussures, séances supprimables, doublons bloqués",
+      "Bouton retour Android et autorisations simplifiées"
+    ]
   }
 }
