@@ -16,5 +16,18 @@
       "Chaussures, séances supprimables, doublons bloqués",
       "Bouton retour Android et autorisations simplifiées"
     ]
+  },
+  "dev": {
+    "version": "4.6.4",
+    "code": 40604,
+    "build": "b192",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.4/star-coach.apk",
+    "notes": [
+      "💬 « Donner mon avis » : les messages longs (avec les infos techniques) partent bien, et un message gardé en attente ne part qu’une seule fois.",
+      "🔐 Sécurité : l’IA Star Coach et tes messages à l’auteur passent maintenant par un relais sécurisé. Plus aucune clé n’est rangée dans l’appli.",
+      "🚀 Mises à jour automatiques : quand une nouvelle version sort, l’appli la propose, la télécharge et lance elle-même l’installation (bouton « Installer »). Tes données sont conservées.",
+      "🔒 Confidentialité : ton adresse e-mail n’apparaît plus en clair dans le fichier d’accès ni dans l’appli. « Contacter » envoie ton message directement à l’auteur depuis l’appli.",
+      "📅 Semaines allégées : quand tes séances club suffisent déjà, les footings en plus deviennent du repos, pour respecter l’objectif de la semaine."
+    ]
   }
 }
