@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.7",
-    "code": 40607,
-    "build": "b195",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.7/star-coach.apk",
-    "sha256": "72c0db4c8c771151de5ae39ab290855b2efd388e071bd7dd4f7c220317399750",
+    "version": "4.6.8",
+    "code": 40608,
+    "build": "b196",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.8/star-coach.apk",
+    "sha256": "1d60a5cde1355a0a08b1c2753a28470575b71d4c48c9c5d94f3051c8fe21d6dc",
     "notes": [
-      "🎯 Séance libre : l’activité de ta montre est rattachée à ta séance libre (une seule ligne, plus de « hors plan »), avec son analyse.",
-      "👥 Amis : une séance libre partagée s’affiche « Séance libre » et non plus « Course » (il faut que ton ami ait aussi cette version).",
-      "🧠 Bilan cohérent avec ton programme : ton coach connaît maintenant les km prévus, la sortie longue et ce que tu as déjà fait cette semaine. S’il conseille de changer ton programme, il te le propose a",
-      "📊 Bilan : le nombre de séances est expliqué (séances des 6 derniers mois, et total).",
-      "ℹ️ Pour en profiter, touche « Refaire mon bilan »."
+      "🎯 Séance libre : elle ne compte plus jamais comme une course. Ton footing du 31/10 faisait croire à un 10 km en 1:04 et faussait tes prévisions (Tacan estimé à 53:00 au lieu de 46:25).",
+      "⏱️ Temps du bilan calculés par l’appli : 10 km et semi viennent de la même règle que « Mes allures » (VMA, courses récentes), plus de l’IA. Mêmes données, mêmes temps.",
+      "🏃 Allures cohérentes : les allures 10 km et semi du bilan sont le temps divisé par la distance ; le coach et les séances montre utilisent les mêmes allures.",
+      "📒 Ton profil n’est plus modifié par le bilan : les champs « chrono 10 km » et « chrono semi » restent ceux que tu as saisis.",
+      "📊 Bilan : les km par semaine ne comptent que la course (comme le programme), la marche est affichée à part ; la date de chaque sortie longue est la bonne."
     ]
   }
 }
