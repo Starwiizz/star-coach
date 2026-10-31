@@ -18,16 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.5",
-    "code": 40605,
-    "build": "b193",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.5/star-coach.apk",
+    "version": "4.6.6",
+    "code": 40606,
+    "build": "b194",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.6/star-coach.apk",
+    "sha256": "f9ac0d9eaa5dda478fc4049e4db17b9ca774b57bce73b073027f8eda6b14785f",
     "notes": [
-      "🚀 Mises à jour : une nouvelle version est proposée dès l’ouverture de l’appli (vérification au plus une fois par heure), sans passer par « Rechercher ».",
-      "💬 « Donner mon avis » : les messages longs (avec les infos techniques) partent bien, et un message gardé en attente ne part qu’une seule fois.",
-      "🔐 Sécurité : l’IA Star Coach et tes messages à l’auteur passent maintenant par un relais sécurisé. Plus aucune clé n’est rangée dans l’appli.",
-      "🚀 Mises à jour automatiques : quand une nouvelle version sort, l’appli la propose, la télécharge et lance elle-même l’installation (bouton « Installer »). Tes données sont conservées.",
-      "🔒 Confidentialité : ton adresse e-mail n’apparaît plus en clair dans le fichier d’accès ni dans l’appli. « Contacter » envoie ton message directement à l’auteur depuis l’appli."
+      "🔄 Mises à jour sans confirmation : à partir de la prochaine version, l’appli s’installe toute seule (Android 12 et plus). Pour celle-ci, Android demande encore une fois ton accord.",
+      "🔐 Mises à jour vérifiées : l’appli contrôle l’empreinte du fichier téléchargé avant de l’installer.",
+      "🧠 Bilan stable : ton bilan n’est refait que s’il y a de nouvelles séances (ou si tu le demandes). Les km par semaine et la plus longue sortie sont calculés par l’appli : mêmes séances, mêmes chiffres",
+      "🚀 « Nouvelle version » : la question de refaire l’analyse complète n’apparaît plus que si la mise à jour change les calculs du coach ou du programme.",
+      "🚀 Mises à jour : une nouvelle version est proposée dès l’ouverture de l’appli (vérification au plus une fois par heure), sans passer par « Rechercher »."
     ]
   }
 }
