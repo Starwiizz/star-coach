@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.8",
-    "code": 40608,
-    "build": "b196",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.8/star-coach.apk",
-    "sha256": "1d60a5cde1355a0a08b1c2753a28470575b71d4c48c9c5d94f3051c8fe21d6dc",
+    "version": "4.6.9",
+    "code": 40609,
+    "build": "b197",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.9/star-coach.apk",
+    "sha256": "bf01cb5599da77f51e00cc945d3b82f0b141b924787403c65c356e77d330885b",
     "notes": [
-      "🎯 Séance libre : elle ne compte plus jamais comme une course. Ton footing du 31/10 faisait croire à un 10 km en 1:04 et faussait tes prévisions (Tacan estimé à 53:00 au lieu de 46:25).",
-      "⏱️ Temps du bilan calculés par l’appli : 10 km et semi viennent de la même règle que « Mes allures » (VMA, courses récentes), plus de l’IA. Mêmes données, mêmes temps.",
-      "🏃 Allures cohérentes : les allures 10 km et semi du bilan sont le temps divisé par la distance ; le coach et les séances montre utilisent les mêmes allures.",
-      "📒 Ton profil n’est plus modifié par le bilan : les champs « chrono 10 km » et « chrono semi » restent ceux que tu as saisis.",
-      "📊 Bilan : les km par semaine ne comptent que la course (comme le programme), la marche est affichée à part ; la date de chaque sortie longue est la bonne."
+      "🌙 Courses de nuit : le temps prévu tient compte de la vraie heure de départ (minutes comprises) et de l’heure où il fait noir ce jour-là, à l’endroit de la course (coucher du soleil et crépuscule).",
+      "📈 Une seule règle, progressive : plus la course se fait dans le noir, plus elle ralentit, sans saut. Partir un peu plus tard ne change plus le temps prévu d’un coup.",
+      "🏙️ Selon le terrain : presque rien sur route en ville (1 %), un peu plus sur chemins (3 %), plus en trail à la frontale (7 %), le plus en montagne (10 %), pour une course entièrement de nuit.",
+      "🎯 Tacan : plus de +3 % fixe ; en ville, la nuit ne compte presque plus (+1 %), la prévision redevient plus rapide que ton temps de référence 10 km.",
+      "⏰ Ultra du Périgord : heure de départ 5 h inscrite dans la fiche."
     ]
   }
 }
