@@ -18,17 +18,16 @@
     ]
   },
   "dev": {
-    "version": "4.6.13",
-    "code": 40613,
-    "build": "b201",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.13/star-coach.apk",
-    "sha256": "3103d6c285023dd42454853c5e57b4d3ea2ce8334e33cbb12dda68d4f566a255",
+    "version": "4.6.14",
+    "code": 40614,
+    "build": "b202",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.14/star-coach.apk",
+    "sha256": "34d50fd52b4c79ff8438067709f46411931e02a6e109356facdabbb4dcfef4a6",
     "notes": [
-      "🏆 Nouvelle Salle des trophées (Version 2) : le bouton en haut à gauche devient « Trophées ». Ton défi reste dans l’onglet Courses et sur l’accueil (« Mon objectif »).",
-      "🥇 Tes 9 records retrouvés dans tout ton historique : 5 km, 10 km, semi, marathon (meilleur passage dans n’importe quelle sortie), plus longue sortie, durée, D+, semaine et mois. Tes chronos déclarés ",
-      "🔎 Un temps peu crédible (au-delà de ta VMA, ou nettement meilleur qu’un vrai chrono) est « à confirmer » dans la fiche, jamais accepté d’office. Ton premier vrai effort après des footings, lui, compt",
-      "🏅 Une coupe par course officielle : réelle quand la course est terminée, en hologramme avec le compte à rebours avant. Choisis les 6 courses exposées avec « Modifier ».",
-      "🎖️ Les badges comptent tes sorties à partir de ton arrivée dans la salle ; ils s’allumeront dans une prochaine version."
+      "🔍 Salle des trophées plus nette : elle utilise toute la finesse de ton écran (jusqu’à 3 fois plus de points). La qualité réduite ne se déclenche plus à tort ; quand elle est active, « Qualité réduite",
+      "🥈 Records : les « sauts » de distance dans le détail d’intervals.icu ne font plus perdre un passage. Ton semi est retrouvé dans ta sortie du 4 octobre. Les sorties concernées sont relues une seule fo",
+      "📏 Si une sortie fait la distance mais que son détail ne permet pas de trouver le passage, le temps est compté au prorata : plus de « — » avec la distance atteinte.",
+      "ℹ️ Les calculs du coach ne changent pas. L’appli ne remplace pas un médecin."
     ]
   }
 }
