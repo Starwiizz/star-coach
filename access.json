@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.12",
-    "code": 40612,
-    "build": "b200",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.12/star-coach.apk",
-    "sha256": "7d5b738decf33752edea59bdb2c1e4dc078ad766388ecf517763657c77edd833",
+    "version": "4.6.13",
+    "code": 40613,
+    "build": "b201",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.13/star-coach.apk",
+    "sha256": "3103d6c285023dd42454853c5e57b4d3ea2ce8334e33cbb12dda68d4f566a255",
     "notes": [
-      "📅 Ton choix entre l’ancien et le nouveau programme est maintenant rangé à part : plus aucune mise à jour, synchronisation ou bilan ne peut l’effacer. Le programme ne change jamais sans ton accord.",
-      "❤️ FC repos et FC max : celles que tu saisis ne sont plus jamais remplacées (montre, réglages d’intervals.icu, bilan). Une fenêtre te propose une fois de vérifier tes FC si elles venaient des réglages",
-      "📈 FC max mesurée : celle de tes courses et efforts maximaux d’abord ; sinon une valeur confirmée par deux séances, sans les pics impossibles (au-dessus de 200, en descente, ou presque au maximum à al",
-      "🏁 Bouton « C’est un chrono » bien visible sur tes séances. Un chrono de ton profil marque tout seul la séance du même jour, reprend sa vraie distance, et l’appli te demande si c’était une course offi",
-      "🧠 Le bilan connaît tes chronos (date, vraie distance, nature) et l’analyse d’une séance compare à la séance affichée ce jour-là : une sortie longue est jugée sur sa durée (et son D+ en trail), jamais"
+      "🏆 Nouvelle Salle des trophées (Version 2) : le bouton en haut à gauche devient « Trophées ». Ton défi reste dans l’onglet Courses et sur l’accueil (« Mon objectif »).",
+      "🥇 Tes 9 records retrouvés dans tout ton historique : 5 km, 10 km, semi, marathon (meilleur passage dans n’importe quelle sortie), plus longue sortie, durée, D+, semaine et mois. Tes chronos déclarés ",
+      "🔎 Un temps peu crédible (au-delà de ta VMA, ou nettement meilleur qu’un vrai chrono) est « à confirmer » dans la fiche, jamais accepté d’office. Ton premier vrai effort après des footings, lui, compt",
+      "🏅 Une coupe par course officielle : réelle quand la course est terminée, en hologramme avec le compte à rebours avant. Choisis les 6 courses exposées avec « Modifier ».",
+      "🎖️ Les badges comptent tes sorties à partir de ton arrivée dans la salle ; ils s’allumeront dans une prochaine version."
     ]
   }
 }
