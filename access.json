@@ -18,17 +18,16 @@
     ]
   },
   "dev": {
-    "version": "4.6.9",
-    "code": 40609,
-    "build": "b197",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.9/star-coach.apk",
-    "sha256": "bf01cb5599da77f51e00cc945d3b82f0b141b924787403c65c356e77d330885b",
+    "version": "4.6.10",
+    "code": 40610,
+    "build": "b198",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.10/star-coach.apk",
+    "sha256": "6cd8a978d488164fc25ef01ac13f491662b565ab63420605cc67aa26d1ca8ca1",
     "notes": [
-      "🌙 Courses de nuit : le temps prévu tient compte de la vraie heure de départ (minutes comprises) et de l’heure où il fait noir ce jour-là, à l’endroit de la course (coucher du soleil et crépuscule).",
-      "📈 Une seule règle, progressive : plus la course se fait dans le noir, plus elle ralentit, sans saut. Partir un peu plus tard ne change plus le temps prévu d’un coup.",
-      "🏙️ Selon le terrain : presque rien sur route en ville (1 %), un peu plus sur chemins (3 %), plus en trail à la frontale (7 %), le plus en montagne (10 %), pour une course entièrement de nuit.",
-      "🎯 Tacan : plus de +3 % fixe ; en ville, la nuit ne compte presque plus (+1 %), la prévision redevient plus rapide que ton temps de référence 10 km.",
-      "⏰ Ultra du Périgord : heure de départ 5 h inscrite dans la fiche."
+      "📤 Réglages → Profil → Sauvegarde : nouveau bouton « Envoyer ma sauvegarde maintenant » (seulement sur l’appli de l’administrateur, V1 et V2).",
+      "🔒 La sauvegarde est chiffrée sur le téléphone avant de partir : seul le PC de Boris peut la lire. Le relais la range dans un dépôt privé.",
+      "🔑 Code d’envoi saisi une seule fois, gardé seulement sur ce téléphone ; 10 envois par jour au plus.",
+      "ℹ️ Aucun changement dans les calculs du coach ni du programme."
     ]
   }
 }
