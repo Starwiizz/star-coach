@@ -18,16 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.10",
-    "code": 40610,
-    "build": "b198",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.10/star-coach.apk",
-    "sha256": "6cd8a978d488164fc25ef01ac13f491662b565ab63420605cc67aa26d1ca8ca1",
+    "version": "4.6.11",
+    "code": 40611,
+    "build": "b199",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.11/star-coach.apk",
+    "sha256": "f736beb38b7c83ffd2cee6a8c51062d48749fed6f5cdee4486edeea4ad6a3a3e",
     "notes": [
-      "📤 Réglages → Profil → Sauvegarde : nouveau bouton « Envoyer ma sauvegarde maintenant » (seulement sur l’appli de l’administrateur, V1 et V2).",
-      "🔒 La sauvegarde est chiffrée sur le téléphone avant de partir : seul le PC de Boris peut la lire. Le relais la range dans un dépôt privé.",
-      "🔑 Code d’envoi saisi une seule fois, gardé seulement sur ce téléphone ; 10 envois par jour au plus.",
-      "ℹ️ Aucun changement dans les calculs du coach ni du programme."
+      "⏱️ Chronos datés (5 km, 10 km, semi, marathon) dans ton profil : un chrono récent pèse plus, il ne compte plus après 8 mois. La montre et le bilan n’écrivent plus jamais dans tes chronos.",
+      "🏁 Nouveau bouton « Effort maximal (chrono) » sur une séance : elle ne compte plus comme un footing, et l’appli propose de l’enregistrer comme chrono.",
+      "🫁 Allure d’endurance : une plage selon ton niveau (débutant ≈ 60-65 % de ta VMA), placée d’après tes vrais footings faciles (sans tapis, séances courtes ni efforts maximaux).",
+      "🧠 Bilan : tous les chiffres (temps, allures, volumes, FC, sorties de 20 km et plus) sont calculés par l’appli, et le texte reprend exactement ces chiffres. Deux bilans de suite donnent les mêmes chif",
+      "😴 Sommeil, VFC et FC repos de nuit : utilisés seulement avec au moins 4 vraies nuits sur 7 (jamais les siestes). Une FC max au-dessus de 200 est ignorée (erreur probable du cardio)."
     ]
   }
 }
