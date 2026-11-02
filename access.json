@@ -18,16 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.14",
-    "code": 40614,
-    "build": "b202",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.14/star-coach.apk",
-    "sha256": "34d50fd52b4c79ff8438067709f46411931e02a6e109356facdabbb4dcfef4a6",
+    "version": "4.6.15",
+    "code": 40615,
+    "build": "b203",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.15/star-coach.apk",
+    "sha256": "02feb5fe0ec209a187b0d532bd9369456413ba7b5afd2909891da9debe4f890b",
     "notes": [
-      "🔍 Salle des trophées plus nette : elle utilise toute la finesse de ton écran (jusqu’à 3 fois plus de points). La qualité réduite ne se déclenche plus à tort ; quand elle est active, « Qualité réduite",
-      "🥈 Records : les « sauts » de distance dans le détail d’intervals.icu ne font plus perdre un passage. Ton semi est retrouvé dans ta sortie du 4 octobre. Les sorties concernées sont relues une seule fo",
-      "📏 Si une sortie fait la distance mais que son détail ne permet pas de trouver le passage, le temps est compté au prorata : plus de « — » avec la distance atteinte.",
-      "ℹ️ Les calculs du coach ne changent pas. L’appli ne remplace pas un médecin."
+      "👥 Amis : ta position n’est plus jamais partagée par défaut. Si elle l’était, elle a été coupée une fois : recoche « Ma position » pour un ami si tu le souhaites. Une réponse « acceptée » n’est prise ",
+      "🛡️ Amis et suivi en direct : les messages reçus sont vérifiés avant d’être affichés.",
+      "🧠 Bilan : ton coach ne remplace plus un chiffre de l’IA par un autre « proche ». Un temps, une allure, une FC ou des km par semaine que l’appli n’a pas calculés sont suivis de « (chiffre de l’IA, à v",
+      "⌚ Séances : une muscu et une course de même durée le même jour ne s’écrasent plus. À la prochaine synchronisation, les séances écartées à tort reviennent (une seule fois, elle peut être un peu plus lo",
+      "❤️ Pics de fréquence cardiaque jugés selon le terrain sans être faussés par les « sauts » de distance d’intervals.icu."
     ]
   }
 }
