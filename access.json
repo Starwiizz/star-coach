@@ -18,15 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.17",
-    "code": 40617,
-    "build": "b205",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.17/star-coach.apk",
-    "sha256": "ef67a84217393d52c605330c9f5311c7e53d3245767eea849faa9086a38ee3fe",
+    "version": "4.6.18",
+    "code": 40618,
+    "build": "b206",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.18/star-coach.apk",
+    "sha256": "b4f554f6bef525b74039a0924d72263620b066aed64afa3a96906fae2980ff47",
     "notes": [
-      "📦 Appli plus légère : 14,6 Mo au lieu de 32,8 Mo (polices inutilisées retirées, apparence inchangée).",
-      "🔒 Plus aucune requête vers Google au démarrage : les polices sont toutes dans l’appli.",
-      "🔋 Page Semaine : plus de calcul en boucle quand la bande des semaines est cachée."
+      "🏃 Fractionné : ton fractionné du 20/10 est reconnu avec ses 10 fractions.",
+      "🚶 Footing : des accélérations ou une alternance marche/course repérées dans un footing sont indiquées comme telles, et ne comptent jamais comme une séance d’intensité.",
+      "🏷️ Étiquettes : une séance est étiquetée d’après son type écrit en tête (« Footing très facile… (lendemain de sortie longue) » n’est plus une « Sortie longue »).",
+      "🏊 Natation : reconnue à l’import (plus classée en renfo), jamais comptée dans tes km de course.",
+      "✏️ Modifier une séance ne fige plus les autres jours de la semaine : ils suivent toujours ton programme et ton planning club."
     ]
   }
 }
