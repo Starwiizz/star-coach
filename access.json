@@ -18,15 +18,15 @@
     ]
   },
   "dev": {
-    "version": "4.6.16",
-    "code": 40616,
-    "build": "b204",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.16/star-coach.apk",
-    "sha256": "8e277723743c273ffce637fe4e8564549fd9c1c8b25ec63121a7de179cd8248a",
+    "version": "4.6.17",
+    "code": 40617,
+    "build": "b205",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.17/star-coach.apk",
+    "sha256": "ef67a84217393d52c605330c9f5311c7e53d3245767eea849faa9086a38ee3fe",
     "notes": [
-      "🎯 Allures des séances : les séances au seuil, à allure 10 km, semi ou marathon, l’analyse d’une séance par l’IA et les propositions du coach utilisent maintenant les mêmes allures que « Mes allures »",
-      "📊 Bilan : une seule valeur de km par semaine, la moyenne des 4 dernières semaines (la moyenne sur 6 mois est donnée en second, avec son nom).",
-      "🧠 Bilan : un chiffre de l’IA qui figure dans tes séances, tes fractions, tes chronos ou ton programme n’est plus signalé « à vérifier »."
+      "📦 Appli plus légère : 14,6 Mo au lieu de 32,8 Mo (polices inutilisées retirées, apparence inchangée).",
+      "🔒 Plus aucune requête vers Google au démarrage : les polices sont toutes dans l’appli.",
+      "🔋 Page Semaine : plus de calcul en boucle quand la bande des semaines est cachée."
     ]
   }
 }
