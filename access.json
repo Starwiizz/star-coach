@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.19",
-    "code": 40619,
-    "build": "b207",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.19/star-coach.apk",
-    "sha256": "dd0f0634c5144b451e71bd9a19503a18475d1cafaeb95b80b6c28129361ad739",
+    "version": "4.6.20",
+    "code": 40620,
+    "build": "b208",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.20/star-coach.apk",
+    "sha256": "b38812a8ecac2f6169d1460f50364582332194d22219a61be413b8baa3604a17",
     "notes": [
-      "📅 Programme : tes choix et tes semaines passées sont gardés dans ta sauvegarde ; une nouvelle fenêtre lisible te repropose le choix entre l’ancien et le nouveau calcul (résumé, graphique, détail par ",
-      "🪟 Démarrage : une seule fenêtre à la fois, toujours dans le même ordre.",
-      "🏃 Club : « Je n’y vais pas », choix de l’option quand la séance en propose plusieurs, semaine allégée expliquée avec « Reprendre la séance du club » ; l’assemblée générale n’est plus une séance.",
-      "🎯 Temps visé : jamais plus lent que ton chrono récent, avec un temps de sécurité à part ; chances, endurance, volume habituel et objectif de D+ ont chacun une seule source.",
-      "⛰️ Dénivelé : celui de ta montre plutôt que celui recalculé par intervals.icu ; tes tours manuels sont des repères, jamais des fractions ; la pénalité de dénivelé monte progressivement."
+      "✨ Nouvelle interface, désormais la seule : en haut Trophées, ta bannière, ＋ et réglages ; en bas Accueil, Programme, Départ, Courses, Amis. Départ ouvrira bientôt l’assistant de course.",
+      "⚙️ Réglages rangés en 8 groupes (profil, montre, coach, notifications, apparence, amis, données, aide), chaque réglage à un seul endroit ; « Prudence des estimations » ne change plus le ton du coach, ",
+      "📈 Accueil : pages « Ma forme » et « Mes progrès » (records dans la salle des trophées) ; Programme → Historique pour retrouver tes séances mois par mois.",
+      "🎨 Nouvelle icône Star Coach ; une couleur par type de séance (le rouge est réservé aux alertes) ; texte toujours lisible sur ta couleur ; visages du ressenti dessinés par l’appli.",
+      "🗑️ Une séance supprimée n’est plus jamais réimportée depuis ta montre ; la journée est décochée s’il ne reste rien."
     ]
   }
 }
