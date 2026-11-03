@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.18",
-    "code": 40618,
-    "build": "b206",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.18/star-coach.apk",
-    "sha256": "b4f554f6bef525b74039a0924d72263620b066aed64afa3a96906fae2980ff47",
+    "version": "4.6.19",
+    "code": 40619,
+    "build": "b207",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.19/star-coach.apk",
+    "sha256": "dd0f0634c5144b451e71bd9a19503a18475d1cafaeb95b80b6c28129361ad739",
     "notes": [
-      "🏃 Fractionné : ton fractionné du 20/10 est reconnu avec ses 10 fractions.",
-      "🚶 Footing : des accélérations ou une alternance marche/course repérées dans un footing sont indiquées comme telles, et ne comptent jamais comme une séance d’intensité.",
-      "🏷️ Étiquettes : une séance est étiquetée d’après son type écrit en tête (« Footing très facile… (lendemain de sortie longue) » n’est plus une « Sortie longue »).",
-      "🏊 Natation : reconnue à l’import (plus classée en renfo), jamais comptée dans tes km de course.",
-      "✏️ Modifier une séance ne fige plus les autres jours de la semaine : ils suivent toujours ton programme et ton planning club."
+      "📅 Programme : tes choix et tes semaines passées sont gardés dans ta sauvegarde ; une nouvelle fenêtre lisible te repropose le choix entre l’ancien et le nouveau calcul (résumé, graphique, détail par ",
+      "🪟 Démarrage : une seule fenêtre à la fois, toujours dans le même ordre.",
+      "🏃 Club : « Je n’y vais pas », choix de l’option quand la séance en propose plusieurs, semaine allégée expliquée avec « Reprendre la séance du club » ; l’assemblée générale n’est plus une séance.",
+      "🎯 Temps visé : jamais plus lent que ton chrono récent, avec un temps de sécurité à part ; chances, endurance, volume habituel et objectif de D+ ont chacun une seule source.",
+      "⛰️ Dénivelé : celui de ta montre plutôt que celui recalculé par intervals.icu ; tes tours manuels sont des repères, jamais des fractions ; la pénalité de dénivelé monte progressivement."
     ]
   }
 }
