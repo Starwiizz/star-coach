@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.21",
-    "code": 40621,
-    "build": "b209",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.21/star-coach.apk",
-    "sha256": "67e302f3e363158722a8803fbf9d155d4bc17f85233ad613a0fe250a50885716",
+    "version": "4.6.22",
+    "code": 40622,
+    "build": "b210",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.22/star-coach.apk",
+    "sha256": "4e76fd17aee12cbb95c9eb132b3bbbdf12198cd7f1181744bdcd2e5b218b16be",
     "notes": [
-      "🏃 Départ : l’assistant de course. La séance du jour préremplie (allure, zone, gels et eau), découpée en blocs que tu valides ; bips seulement quand tu sors de l’allure, compte à rebours en récupérati",
-      "⚡ Test VMA dans l’assistant (6 minutes ou paliers) : ta nouvelle VMA t’est proposée, jamais changée sans ton accord. La position n’est demandée qu’au départ.",
-      "🏟️ Planning du club en entier (plus jamais coupé), avec la règle qui correspond à ta VMA et les allures AS42 / AS21 / AS10. Réimporte ton planning pour récupérer les textes complets.",
-      "🔎 Analyses de séance : sprints repérés seconde par seconde selon ta propre allure, et le contexte du jour de la séance (forme, semaine, douleurs).",
-      "💬 « Demande à ton coach » : réponses courtes, dates justes, jamais d’intensité si tu as mal ni un jour de club."
+      "📅 Ta semaine : réécrire un jour (bilan, douleur, coach) ne remet plus les autres jours au programme de base ; la semaine type reste en place.",
+      "⏱️ Prévisions plus justes sur route : le dénivelé d’une course sur route ne compte plus comme sur un trail (un 10 km avec 50 m de D+ était prévu 5 % trop lent). Trail et ultra inchangés. Refais une an",
+      "🗓️ La journée dans Programme : d’abord le prévu, puis le réalisé (distance, durée, FC, D+, sprints repérés), puis une seule ligne « Partir avec le coach · Ressenti · Importer ». « Partir avec le coac",
+      "😊 Une seule façon de noter ton ressenti : une fenêtre simple (visages et « J’ai mal »), même un jour sans séance.",
+      "🏟️ Planning du club : choix du fichier direct, puis « Planning chargé : N séances ». Séances à choix bien découpées (« Test ou trail »), ton option en couleur. Une ligne du club hors de tes jours n’e"
     ]
   }
 }
