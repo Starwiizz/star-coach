@@ -18,17 +18,16 @@
     ]
   },
   "dev": {
-    "version": "4.6.22",
-    "code": 40622,
-    "build": "b210",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.22/star-coach.apk",
-    "sha256": "4e76fd17aee12cbb95c9eb132b3bbbdf12198cd7f1181744bdcd2e5b218b16be",
+    "version": "4.6.23",
+    "code": 40623,
+    "build": "b211",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.23/star-coach.apk",
+    "sha256": "023b06e74c026eefd2d6257accf344f8a12e5ba293141582daeacebd56182564",
     "notes": [
-      "📅 Ta semaine : réécrire un jour (bilan, douleur, coach) ne remet plus les autres jours au programme de base ; la semaine type reste en place.",
-      "⏱️ Prévisions plus justes sur route : le dénivelé d’une course sur route ne compte plus comme sur un trail (un 10 km avec 50 m de D+ était prévu 5 % trop lent). Trail et ultra inchangés. Refais une an",
-      "🗓️ La journée dans Programme : d’abord le prévu, puis le réalisé (distance, durée, FC, D+, sprints repérés), puis une seule ligne « Partir avec le coach · Ressenti · Importer ». « Partir avec le coac",
-      "😊 Une seule façon de noter ton ressenti : une fenêtre simple (visages et « J’ai mal »), même un jour sans séance.",
-      "🏟️ Planning du club : choix du fichier direct, puis « Planning chargé : N séances ». Séances à choix bien découpées (« Test ou trail »), ton option en couleur. Une ligne du club hors de tes jours n’e"
+      "🧹 Grand ménage : l’ancienne interface (Version 1) est retirée, l’appli est plus légère. Rien ne change dans ce que tu vois ni dans les calculs de ton coach.",
+      "🏆 Le bouton Trophées affiche « Nouvelle salle en préparation » : la nouvelle salle arrive bientôt. Tes records et tes trophées sont gardés.",
+      "🔒 Ta clé intervals.icu n’est plus jamais copiée dans une sauvegarde exportée ou envoyée : elle reste sur ton téléphone.",
+      "📅 « ✎ Réorganiser » ouvre le nouvel écran de ta semaine type."
     ]
   }
 }
