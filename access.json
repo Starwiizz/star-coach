@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.20",
-    "code": 40620,
-    "build": "b208",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.20/star-coach.apk",
-    "sha256": "b38812a8ecac2f6169d1460f50364582332194d22219a61be413b8baa3604a17",
+    "version": "4.6.21",
+    "code": 40621,
+    "build": "b209",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.21/star-coach.apk",
+    "sha256": "67e302f3e363158722a8803fbf9d155d4bc17f85233ad613a0fe250a50885716",
     "notes": [
-      "✨ Nouvelle interface, désormais la seule : en haut Trophées, ta bannière, ＋ et réglages ; en bas Accueil, Programme, Départ, Courses, Amis. Départ ouvrira bientôt l’assistant de course.",
-      "⚙️ Réglages rangés en 8 groupes (profil, montre, coach, notifications, apparence, amis, données, aide), chaque réglage à un seul endroit ; « Prudence des estimations » ne change plus le ton du coach, ",
-      "📈 Accueil : pages « Ma forme » et « Mes progrès » (records dans la salle des trophées) ; Programme → Historique pour retrouver tes séances mois par mois.",
-      "🎨 Nouvelle icône Star Coach ; une couleur par type de séance (le rouge est réservé aux alertes) ; texte toujours lisible sur ta couleur ; visages du ressenti dessinés par l’appli.",
-      "🗑️ Une séance supprimée n’est plus jamais réimportée depuis ta montre ; la journée est décochée s’il ne reste rien."
+      "🏃 Départ : l’assistant de course. La séance du jour préremplie (allure, zone, gels et eau), découpée en blocs que tu valides ; bips seulement quand tu sors de l’allure, compte à rebours en récupérati",
+      "⚡ Test VMA dans l’assistant (6 minutes ou paliers) : ta nouvelle VMA t’est proposée, jamais changée sans ton accord. La position n’est demandée qu’au départ.",
+      "🏟️ Planning du club en entier (plus jamais coupé), avec la règle qui correspond à ta VMA et les allures AS42 / AS21 / AS10. Réimporte ton planning pour récupérer les textes complets.",
+      "🔎 Analyses de séance : sprints repérés seconde par seconde selon ta propre allure, et le contexte du jour de la séance (forme, semaine, douleurs).",
+      "💬 « Demande à ton coach » : réponses courtes, dates justes, jamais d’intensité si tu as mal ni un jour de club."
     ]
   }
 }
