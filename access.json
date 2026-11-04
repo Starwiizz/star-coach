@@ -18,16 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.23",
-    "code": 40623,
-    "build": "b211",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.23/star-coach.apk",
-    "sha256": "023b06e74c026eefd2d6257accf344f8a12e5ba293141582daeacebd56182564",
+    "version": "4.6.24",
+    "code": 40624,
+    "build": "b212",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.24/star-coach.apk",
+    "sha256": "b48c9de26bbd6435f42dad18d86ba1e3246d4f89836e2e7994e3bfce58345e86",
     "notes": [
-      "🧹 Grand ménage : l’ancienne interface (Version 1) est retirée, l’appli est plus légère. Rien ne change dans ce que tu vois ni dans les calculs de ton coach.",
-      "🏆 Le bouton Trophées affiche « Nouvelle salle en préparation » : la nouvelle salle arrive bientôt. Tes records et tes trophées sont gardés.",
-      "🔒 Ta clé intervals.icu n’est plus jamais copiée dans une sauvegarde exportée ou envoyée : elle reste sur ton téléphone.",
-      "📅 « ✎ Réorganiser » ouvre le nouvel écran de ta semaine type."
+      "🗓️ Nouvel écran « Organiser ma semaine » : il s’ouvre sur ta semaine enregistrée, chaque séance a son nom complet et un ✕ pour la retirer, un seul renfo par jour, et tes jours de renfo sont ceux que ",
+      "💪 Ton renfo perso compte dans ta charge, sans jamais être jugé ni compté « non fait ». Ton programme ajoute seulement le renfo utile à ton objectif s’il manque.",
+      "⏱️ Tes footings progressent avec ta préparation (de 30 min vers 1 h pour un ultra), sans dépasser ton temps disponible de plus de 10 %.",
+      "🟠 Ta semaine est vérifiée : un halo sur Programme te signale ce qui mérite d’être regardé, avec la raison et une proposition. Tu acceptes, refuses ou décides plus tard ; rien ne change sans ton accor",
+      "🔒 « Enregistrer et calculer mes estimations » ne touche plus jamais à ta semaine type."
     ]
   }
 }
