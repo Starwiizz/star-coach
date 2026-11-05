@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.27",
-    "code": 40627,
-    "build": "b215",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.27/star-coach.apk",
-    "sha256": "2d6fdb945658ad7a6d1bbc4b9fab7ab36e359e0e0ed63d268587544b502ef939",
+    "version": "4.6.28",
+    "code": 40628,
+    "build": "b216",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.28/star-coach.apk",
+    "sha256": "d151ad811694ec61fe3cc4b768881c07017f41206d94c5794201c577564c7e54",
     "notes": [
-      "🏠 Accueil plus simple : Aujourd’hui (avec Demain dedans), puis « Demande à ton coach » avec la question que ton coach se pose, puis ton objectif et tes courses.",
-      "⭐ Nouvelle carte du défi : cadre lumineux, chiffres sur une ligne, charge Léger / Normal / Intense en un geste (avec confirmation).",
-      "🎒 Onglet Prépa : ton programme (charge, téléchargement, pause), le règlement avec les prochaines dates, tes étapes clés.",
-      "🗓️ « Organiser ma semaine » refait : touche un jour, choisis Libre, Club, Séance d’intensité, Sortie longue ou Repos, ton renfo et ton temps disponible ; vérification en direct.",
-      "🏃 Le bouton du milieu devient « Assistant » et affiche « En cours » pendant une sortie."
+      "👋 Nouvelle installation en 10 écrans courts : tes accords, ta montre, ton profil pendant l’import, ce que ton coach retient (et d’où vient chaque chiffre), ton défi, ta semaine type, c’est parti.",
+      "💬 Carte « Ton coach » en haut de l’Accueil : ses conseils et ses questions, une à la fois (glisse du doigt) ; ta réponse va dans son carnet avec la question.",
+      "🗓️ « Coach · en attente » dans la case du jour concerné, étiquette turquoise « Coach » dans le bandeau du Programme.",
+      "🌙 Bilan du dimanche dès 20 h : ta semaine, une phrase de bilan, la semaine qui vient et ce que ton coach propose.",
+      "😊 Nouvelle fenêtre du ressenti, une fois par séance importée."
     ]
   }
 }
