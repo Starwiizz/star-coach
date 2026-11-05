@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.24",
-    "code": 40624,
-    "build": "b212",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.24/star-coach.apk",
-    "sha256": "b48c9de26bbd6435f42dad18d86ba1e3246d4f89836e2e7994e3bfce58345e86",
+    "version": "4.6.25",
+    "code": 40625,
+    "build": "b213",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.25/star-coach.apk",
+    "sha256": "c5e1dfa5dd1feaab3fbc8f0df543ab8eb4ef32bb15ba0fcbb0439a4a8247152d",
     "notes": [
-      "🗓️ Nouvel écran « Organiser ma semaine » : il s’ouvre sur ta semaine enregistrée, chaque séance a son nom complet et un ✕ pour la retirer, un seul renfo par jour, et tes jours de renfo sont ceux que ",
-      "💪 Ton renfo perso compte dans ta charge, sans jamais être jugé ni compté « non fait ». Ton programme ajoute seulement le renfo utile à ton objectif s’il manque.",
-      "⏱️ Tes footings progressent avec ta préparation (de 30 min vers 1 h pour un ultra), sans dépasser ton temps disponible de plus de 10 %.",
-      "🟠 Ta semaine est vérifiée : un halo sur Programme te signale ce qui mérite d’être regardé, avec la raison et une proposition. Tu acceptes, refuses ou décides plus tard ; rien ne change sans ton accor",
-      "🔒 « Enregistrer et calculer mes estimations » ne touche plus jamais à ta semaine type."
+      "🔢 Un seul chiffre par mesure : tes temps (5 km, 10 km, semi, marathon) sont les mêmes partout, jamais plus lents que ton chrono récent ; chaque course montre « aujourd’hui », « le jour J » et tes cha",
+      "❤️ Une seule FC seuil, avec sa source. Tu peux saisir celle de ta montre dans « Mon profil » : elle passe avant celle d’intervals.icu. VO2max en fourchette, « estimée d’après ta VMA ».",
+      "⛰️ Le trail ne sert plus à estimer ton niveau sur route (il compte toujours pour le volume, la charge et les sorties longues).",
+      "📅 Un seul calcul du programme : le choix « ancien / nouveau calcul » disparaît (une fenêtre te montre une fois ce qui change).",
+      "🎯 Chances de finir : une fourchette expliquée (barrière la plus serrée, préparation, risques, expérience), qui se resserre au fil des étapes ; « pas encore de données » quand il n’y a pas de base."
     ]
   }
 }
