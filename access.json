@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.28",
-    "code": 40628,
-    "build": "b216",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.28/star-coach.apk",
-    "sha256": "d151ad811694ec61fe3cc4b768881c07017f41206d94c5794201c577564c7e54",
+    "version": "4.6.29",
+    "code": 40629,
+    "build": "b217",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.29/star-coach.apk",
+    "sha256": "fe1530d1f4768ff3deeedf407a047da9285f441caf8d8c80db99a8f575a04588",
     "notes": [
-      "👋 Nouvelle installation en 10 écrans courts : tes accords, ta montre, ton profil pendant l’import, ce que ton coach retient (et d’où vient chaque chiffre), ton défi, ta semaine type, c’est parti.",
-      "💬 Carte « Ton coach » en haut de l’Accueil : ses conseils et ses questions, une à la fois (glisse du doigt) ; ta réponse va dans son carnet avec la question.",
-      "🗓️ « Coach · en attente » dans la case du jour concerné, étiquette turquoise « Coach » dans le bandeau du Programme.",
-      "🌙 Bilan du dimanche dès 20 h : ta semaine, une phrase de bilan, la semaine qui vient et ce que ton coach propose.",
-      "😊 Nouvelle fenêtre du ressenti, une fois par séance importée."
+      "🏁 Page d’une course en deux onglets : « Infos course » (à surveiller, tes chances, ton plan de course tronçon par tronçon de barrière en barrière, alimentation, veille et jour J, dates clés, règlemen",
+      "🏃 Assistant de course en quatre écrans : que lances-tu, réglages proposés (gardés même sans partir), départ (voyants GPS, casque, ceinture), en course (plan de course en direct, pause, J’abandonne).",
+      "⚡ Test VMA guidé : 6 minutes au GPS ou par paliers, bip « détecteur de métaux », annonces 30 s et 10 s, voix sans casque en option ; le résultat te propose de mettre à jour ta VMA.",
+      "🔊 Bips d’allure pour tes fractionnés (aigus trop vite, graves trop lent, silence dans les montées) ; ceinture cardio Bluetooth (FC annoncée, alerte au-dessus d’un seuil) ; l’accéléromètre prend le re",
+      "👥 Amis par le relais Star Coach (plus d’adresse e-mail) : code et QR, suivi en direct, encouragements dans le casque, assistance aux ravitos ; « Je suis un proche » dans l’installation. Santé jamais "
     ]
   }
 }
