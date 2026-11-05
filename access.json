@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.25",
-    "code": 40625,
-    "build": "b213",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.25/star-coach.apk",
-    "sha256": "c5e1dfa5dd1feaab3fbc8f0df543ab8eb4ef32bb15ba0fcbb0439a4a8247152d",
+    "version": "4.6.26",
+    "code": 40626,
+    "build": "b214",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.26/star-coach.apk",
+    "sha256": "0b7fac0a401005f95c4ea0f9208c997696fb7a3caf2ad6eed63980a35311bd10",
     "notes": [
-      "🔢 Un seul chiffre par mesure : tes temps (5 km, 10 km, semi, marathon) sont les mêmes partout, jamais plus lents que ton chrono récent ; chaque course montre « aujourd’hui », « le jour J » et tes cha",
-      "❤️ Une seule FC seuil, avec sa source. Tu peux saisir celle de ta montre dans « Mon profil » : elle passe avant celle d’intervals.icu. VO2max en fourchette, « estimée d’après ta VMA ».",
-      "⛰️ Le trail ne sert plus à estimer ton niveau sur route (il compte toujours pour le volume, la charge et les sorties longues).",
-      "📅 Un seul calcul du programme : le choix « ancien / nouveau calcul » disparaît (une fenêtre te montre une fois ce qui change).",
-      "🎯 Chances de finir : une fourchette expliquée (barrière la plus serrée, préparation, risques, expérience), qui se resserre au fil des étapes ; « pas encore de données » quand il n’y a pas de base."
+      "⏱️ Un seul temps pour ton ultra : la carte du défi, le tableau des passages, la Stratégie, les gels et le suivi en course affichent tous le même temps estimé (le jour J si l’entraînement se passe bien",
+      "🎯 Une seule fourchette de chances, partout (carte, anneau, Stratégie), plafonnée à 90 % tant que tu n’as terminé aucun ultra ; touche « Pourquoi ? » pour le détail. À l’arrivée sans barrière : « pas ",
+      "🔐 Tes données, tes choix : deux accords séparés (envoi chiffré à ton coach, lecture par l’IA), chacun avec « Lire ». Page Confidentialité : statut, export, tout supprimer.",
+      "📤 Si tu l’acceptes, ta sauvegarde part seule, chiffrée, après chaque séance (regroupée, sans prénom ni identifiant). Le bouton manuel reste.",
+      "💪 Ton coach peut s’améliorer sans mise à jour de l’appli (réglages à distance, bornés) : tu verras « Ton coach est plus fort » une fois quand c’est le cas."
     ]
   }
 }
