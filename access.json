@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.26",
-    "code": 40626,
-    "build": "b214",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.26/star-coach.apk",
-    "sha256": "0b7fac0a401005f95c4ea0f9208c997696fb7a3caf2ad6eed63980a35311bd10",
+    "version": "4.6.27",
+    "code": 40627,
+    "build": "b215",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.27/star-coach.apk",
+    "sha256": "2d6fdb945658ad7a6d1bbc4b9fab7ab36e359e0e0ed63d268587544b502ef939",
     "notes": [
-      "⏱️ Un seul temps pour ton ultra : la carte du défi, le tableau des passages, la Stratégie, les gels et le suivi en course affichent tous le même temps estimé (le jour J si l’entraînement se passe bien",
-      "🎯 Une seule fourchette de chances, partout (carte, anneau, Stratégie), plafonnée à 90 % tant que tu n’as terminé aucun ultra ; touche « Pourquoi ? » pour le détail. À l’arrivée sans barrière : « pas ",
-      "🔐 Tes données, tes choix : deux accords séparés (envoi chiffré à ton coach, lecture par l’IA), chacun avec « Lire ». Page Confidentialité : statut, export, tout supprimer.",
-      "📤 Si tu l’acceptes, ta sauvegarde part seule, chiffrée, après chaque séance (regroupée, sans prénom ni identifiant). Le bouton manuel reste.",
-      "💪 Ton coach peut s’améliorer sans mise à jour de l’appli (réglages à distance, bornés) : tu verras « Ton coach est plus fort » une fois quand c’est le cas."
+      "🏠 Accueil plus simple : Aujourd’hui (avec Demain dedans), puis « Demande à ton coach » avec la question que ton coach se pose, puis ton objectif et tes courses.",
+      "⭐ Nouvelle carte du défi : cadre lumineux, chiffres sur une ligne, charge Léger / Normal / Intense en un geste (avec confirmation).",
+      "🎒 Onglet Prépa : ton programme (charge, téléchargement, pause), le règlement avec les prochaines dates, tes étapes clés.",
+      "🗓️ « Organiser ma semaine » refait : touche un jour, choisis Libre, Club, Séance d’intensité, Sortie longue ou Repos, ton renfo et ton temps disponible ; vérification en direct.",
+      "🏃 Le bouton du milieu devient « Assistant » et affiche « En cours » pendant une sortie."
     ]
   }
 }
