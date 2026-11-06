@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.30",
-    "code": 40630,
-    "build": "b218",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.30/star-coach.apk",
-    "sha256": "488cbb7781e3119998a9015dc11e32fc6390139a26bc85779f2e600227fd09f3",
+    "version": "4.6.31",
+    "code": 40631,
+    "build": "b219",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.31/star-coach.apk",
+    "sha256": "4e3477a98dc8a06450d168761288ea66eae96442d7b15bf000873fc46527db8e",
     "notes": [
-      "🧭 Ton niveau tient compte de ta pratique réelle (volume, plus longue sortie, VMA), pas seulement de ton ancienneté ; « séances par semaine » compte tes jours de course.",
-      "🎯 Chances : la molette « finir en moins de X » ne dépasse plus jamais tes chances de finir ; une seule « barrière la plus serrée » partout ; le même temps estimé dans « Modifier la course ».",
-      "🌙 Plan de course : départ plus prudent (la nuit compte), fin de course moins effondrée, même temps total.",
-      "🧠 Bilan : tes chronos et efforts à fond ne comptent plus comme des footings ; tes footings sont jugés par l’appli sur les 8 dernières semaines. Analyses : « facile » seulement si l’allure et la FC le",
-      "💬 Demande à ton coach : une vraie réponse même quand l’IA ne répond pas (sortie de X km tel jour, chrono, programme) ; ta question passe avant tout le reste ; le coach sait ce que tu as déjà fait dan"
+      "🏠 Accueil, Ma forme, Mes progrès : plus courts et plus clairs ; la carte « Douleurs » remplace la barre de vie ; VO2max d’après ta VMA, ou d’après tes sorties dès 5 sorties régulières ; « Mon bilan »",
+      "💬 Demande à ton coach : une demande de séance donne une séance prête (étapes avec tes allures), « Quand ? » et « Ajouter au programme ».",
+      "📅 Programme : titres courts partout, la journée comme sur l’Accueil, la fenêtre d’une séance avec « C’est un chrono » et « Supprimer » ; sorties longues une par une jusqu’au défi.",
+      "🏁 Courses : une seule piste pour viser ton allure (temps, allure, chance, repère de ton record) ; « Préparation » = l’entraînement réellement fait ; page d’une course allégée.",
+      "🏃 Assistant : plus coloré, aux couleurs de ton thème ; temps restant qui décompte ; à « Arrêter », tu choisis de garder ou non l’enregistrement ; test VMA : aucun bip au 6 minutes, guidage à l’oreill"
     ]
   }
 }
