@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.31",
-    "code": 40631,
-    "build": "b219",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.31/star-coach.apk",
-    "sha256": "4e3477a98dc8a06450d168761288ea66eae96442d7b15bf000873fc46527db8e",
+    "version": "4.6.32",
+    "code": 40632,
+    "build": "b220",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.32/star-coach.apk",
+    "sha256": "6687e4dc783f0de71f0916f991c1f83eff20f947e3dbf6f7f3b1552b5e8990ff",
     "notes": [
-      "🏠 Accueil, Ma forme, Mes progrès : plus courts et plus clairs ; la carte « Douleurs » remplace la barre de vie ; VO2max d’après ta VMA, ou d’après tes sorties dès 5 sorties régulières ; « Mon bilan »",
-      "💬 Demande à ton coach : une demande de séance donne une séance prête (étapes avec tes allures), « Quand ? » et « Ajouter au programme ».",
-      "📅 Programme : titres courts partout, la journée comme sur l’Accueil, la fenêtre d’une séance avec « C’est un chrono » et « Supprimer » ; sorties longues une par une jusqu’au défi.",
-      "🏁 Courses : une seule piste pour viser ton allure (temps, allure, chance, repère de ton record) ; « Préparation » = l’entraînement réellement fait ; page d’une course allégée.",
-      "🏃 Assistant : plus coloré, aux couleurs de ton thème ; temps restant qui décompte ; à « Arrêter », tu choisis de garder ou non l’enregistrement ; test VMA : aucun bip au 6 minutes, guidage à l’oreill"
+      "🏁 Tes chronos : ton coach propose « C’est un chrono ? » pour une séance à fond sur 5 km, 10 km, semi ou marathon (effort maximal ou cœur proche de ta FC max) ; un passage dans un trail ne fait plus u",
+      "⛰️ Courses : un D+ ou une heure de départ inconnus ne valent plus 0 : l’appli les demande (« D+ inconnu : à saisir », « Heure de départ à saisir ») ; un trail sans D+ n’a ni chances ni piste.",
+      "🗺️ Plan de course : le D+ de chaque tronçon vient du règlement ou de la trace GPX, sinon le D+ total est réparti sur la course (avant : tout tombait sur le dernier kilomètre) ; le règlement donne aus",
+      "🎯 Un seul temps visé par course (Accueil et carte) ; la piste reste à 99 %, plus précise dès que tu as un vrai chrono récent, jamais plus lente que ton record.",
+      "🗓️ Ma semaine type : un renfo possible un jour de repos ; le temps disponible par jour est retiré (ton coach calcule les durées)."
     ]
   }
 }
