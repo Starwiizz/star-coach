@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.29",
-    "code": 40629,
-    "build": "b217",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.29/star-coach.apk",
-    "sha256": "fe1530d1f4768ff3deeedf407a047da9285f441caf8d8c80db99a8f575a04588",
+    "version": "4.6.30",
+    "code": 40630,
+    "build": "b218",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.30/star-coach.apk",
+    "sha256": "488cbb7781e3119998a9015dc11e32fc6390139a26bc85779f2e600227fd09f3",
     "notes": [
-      "🏁 Page d’une course en deux onglets : « Infos course » (à surveiller, tes chances, ton plan de course tronçon par tronçon de barrière en barrière, alimentation, veille et jour J, dates clés, règlemen",
-      "🏃 Assistant de course en quatre écrans : que lances-tu, réglages proposés (gardés même sans partir), départ (voyants GPS, casque, ceinture), en course (plan de course en direct, pause, J’abandonne).",
-      "⚡ Test VMA guidé : 6 minutes au GPS ou par paliers, bip « détecteur de métaux », annonces 30 s et 10 s, voix sans casque en option ; le résultat te propose de mettre à jour ta VMA.",
-      "🔊 Bips d’allure pour tes fractionnés (aigus trop vite, graves trop lent, silence dans les montées) ; ceinture cardio Bluetooth (FC annoncée, alerte au-dessus d’un seuil) ; l’accéléromètre prend le re",
-      "👥 Amis par le relais Star Coach (plus d’adresse e-mail) : code et QR, suivi en direct, encouragements dans le casque, assistance aux ravitos ; « Je suis un proche » dans l’installation. Santé jamais "
+      "🧭 Ton niveau tient compte de ta pratique réelle (volume, plus longue sortie, VMA), pas seulement de ton ancienneté ; « séances par semaine » compte tes jours de course.",
+      "🎯 Chances : la molette « finir en moins de X » ne dépasse plus jamais tes chances de finir ; une seule « barrière la plus serrée » partout ; le même temps estimé dans « Modifier la course ».",
+      "🌙 Plan de course : départ plus prudent (la nuit compte), fin de course moins effondrée, même temps total.",
+      "🧠 Bilan : tes chronos et efforts à fond ne comptent plus comme des footings ; tes footings sont jugés par l’appli sur les 8 dernières semaines. Analyses : « facile » seulement si l’allure et la FC le",
+      "💬 Demande à ton coach : une vraie réponse même quand l’IA ne répond pas (sortie de X km tel jour, chrono, programme) ; ta question passe avant tout le reste ; le coach sait ce que tu as déjà fait dan"
     ]
   }
 }
