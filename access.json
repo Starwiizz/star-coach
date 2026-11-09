@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.34",
-    "code": 40634,
-    "build": "b222",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.34/star-coach.apk",
-    "sha256": "e0f5ba194410e61adc31fa4f07b46d535ccfa733217875d031c38a0c98da3325",
+    "version": "4.6.35",
+    "code": 40635,
+    "build": "b223",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.35/star-coach.apk",
+    "sha256": "d0d9eba0b38d386302e0ca97740dd2d46be91e4672fb009dd337b8d4e0e0ae44",
     "notes": [
-      "🧠 Un seul calcul pour chaque chiffre : VMA, allures, zones cardio, volume, plus longue sortie, VO2max et avancement sont calculés une fois et lus par tous les écrans, le bilan et ton coach.",
-      "🏁 Un seul verdict par course : temps estimé, chances, temps à 99 %, temps visé, barrière la plus serrée et gels identiques sur la carte, la page de la course, l’Accueil, la fenêtre des chances et che",
-      "⏱️ Ton temps visé n’est jamais plus lent que le 99 %, et le 99 % jamais plus lent que ton record récent (course officielle : temps officiel tel quel).",
-      "🍯 Une seule règle des gels : un gel à 40 min puis toutes les 35 min (sorties longues, plan de course, Assistant).",
-      "📏 Sorties longues partout sous la même forme : « 2h40 · ≈ 19 km · 500 m D+ » (distance estimée d’après ton allure d’endurance et le D+)."
+      "📅 Ton programme part de tes vraies capacités : ta plus longue sortie des 4 dernières semaines, un seul seuil de hausse (+10 % ou +3 km par semaine). Il se recalcule le dimanche, ou quand ton objectif",
+      "💬 Les conseils de ton coach ont tous la même forme : quoi, pourquoi, les jours conseillés (ou un autre jour), ce que ça remplace, Accepter ou Refuser. Jamais sur une séance faite ni en semaine allégé",
+      "🤕 Une douleur agit tout de suite : ton coach propose de remplacer tes séances dures par un footing facile (ou du repos à 4/5).",
+      "🔗 Une sortie faite le jour d’une sortie longue compte comme ta sortie longue (raccourcie si elle fait moins des 2/3).",
+      "❤️ Zone d’endurance tirée de ton seuil (140-154 avec un seuil à 182), la même partout ; prévisions de course d’abord sur tes chronos."
     ]
   }
 }
