@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.33",
-    "code": 40633,
-    "build": "b221",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.33/star-coach.apk",
-    "sha256": "87d85f0cdf3d92e31cf1ecd7dccf24a96b1b829edd8aab89119dbb7f93e6be12",
+    "version": "4.6.34",
+    "code": 40634,
+    "build": "b222",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.34/star-coach.apk",
+    "sha256": "e0f5ba194410e61adc31fa4f07b46d535ccfa733217875d031c38a0c98da3325",
     "notes": [
-      "🏠 Accueil : la carte du défi revient tout de suite quand tu recoches « Mon objectif » ; nouvelle case « Mes courses », à part ; « Mes records » montre les records de ta salle ; plus d’« Alimentation ",
-      "✅ Aujourd’hui : une fois ta séance faite, le réalisé s’affiche juste dessous (« Fait : 5,79 km · 40 min · FC 134 ») ; « C’est un chrono » et « Supprimer » sont dans la fenêtre de la séance.",
-      "📅 Programme : toucher une journée la déplie, toucher une séance ouvre sa fenêtre (une seule action par toucher) ; plus de changement de page en glissant le doigt.",
-      "🏁 Un seul chrono partout : pour une course officielle, le temps officiel tel quel (Tes chronos, salle, piste de la course).",
-      "🏃 Séances du club : allures du club (AS10, AS21, AS42) et fractions comptées acceptées, les « si compétition… » restent des variantes ; les séances refusées sont retraduites."
+      "🧠 Un seul calcul pour chaque chiffre : VMA, allures, zones cardio, volume, plus longue sortie, VO2max et avancement sont calculés une fois et lus par tous les écrans, le bilan et ton coach.",
+      "🏁 Un seul verdict par course : temps estimé, chances, temps à 99 %, temps visé, barrière la plus serrée et gels identiques sur la carte, la page de la course, l’Accueil, la fenêtre des chances et che",
+      "⏱️ Ton temps visé n’est jamais plus lent que le 99 %, et le 99 % jamais plus lent que ton record récent (course officielle : temps officiel tel quel).",
+      "🍯 Une seule règle des gels : un gel à 40 min puis toutes les 35 min (sorties longues, plan de course, Assistant).",
+      "📏 Sorties longues partout sous la même forme : « 2h40 · ≈ 19 km · 500 m D+ » (distance estimée d’après ton allure d’endurance et le D+)."
     ]
   }
 }
