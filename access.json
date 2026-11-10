@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.37",
-    "code": 40637,
-    "build": "b225",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.37/star-coach.apk",
-    "sha256": "8cbeda7d30383c7263f248dfe498e19704c9c3fa417a753029ec4a79c914c047",
+    "version": "4.6.38",
+    "code": 40638,
+    "build": "b226",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.38/star-coach.apk",
+    "sha256": "3e3e9e444e56ec89f9841a8263b750ee3ef596265483b76a2d29da767ed9409b",
     "notes": [
-      "🍌 « Combien je prends de gels ? » : ton coach répond avec ton programme (séance du jour, puis ta prochaine sortie longue : gels, iso et eau).",
-      "🏃 « Qu’est-ce que je fais au club ce soir ? » : le titre de la séance et son intensité, en une phrase ; le détail reste dans la séance.",
-      "📋 Séances du club : les anciennes traductions sont remplacées ; si l’IA n’a pas pu répondre, le texte du club reste visible et la traduction est retentée quand la réserve revient.",
-      "⚡ Réserve d’IA vide : ton coach le dit simplement et te donne l’essentiel en deux phrases.",
-      "½ Onglet Sorties longues : une sortie faite en partie n’est plus cochée comme faite (même règle que la semaine)."
+      "🏔️ « Je fais un trail de 20 km demain » : réponse courte, et ton coach choisit une seule action (le trail compte comme ta sortie longue et dimanche est allégé, ou la séance dure du lendemain est allé",
+      "📋 Séances du club : r'3' (3 min de récup), 15'' (15 secondes) et la variante « si compet » sont compris ; les séances refusées sont retraduites une fois.",
+      "🏠 Accueil : la séance du club en titre et une ligne ; les étapes au toucher.",
+      "⚡ Jauge de l’IA : le nombre de tes demandes du jour.",
+      "💬 Demande à ton coach : la question en haut, la réponse dessous ; la proposition reste affichée jusqu’à Accepter ou Refuser."
     ]
   }
 }
