@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.35",
-    "code": 40635,
-    "build": "b223",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.35/star-coach.apk",
-    "sha256": "d0d9eba0b38d386302e0ca97740dd2d46be91e4672fb009dd337b8d4e0e0ae44",
+    "version": "4.6.36",
+    "code": 40636,
+    "build": "b224",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.36/star-coach.apk",
+    "sha256": "5b15b5ce5ee9b547be0a19173a2997b584e1f01468833471d47f29a2b2963261",
     "notes": [
-      "📅 Ton programme part de tes vraies capacités : ta plus longue sortie des 4 dernières semaines, un seul seuil de hausse (+10 % ou +3 km par semaine). Il se recalcule le dimanche, ou quand ton objectif",
-      "💬 Les conseils de ton coach ont tous la même forme : quoi, pourquoi, les jours conseillés (ou un autre jour), ce que ça remplace, Accepter ou Refuser. Jamais sur une séance faite ni en semaine allégé",
-      "🤕 Une douleur agit tout de suite : ton coach propose de remplacer tes séances dures par un footing facile (ou du repos à 4/5).",
-      "🔗 Une sortie faite le jour d’une sortie longue compte comme ta sortie longue (raccourcie si elle fait moins des 2/3).",
-      "❤️ Zone d’endurance tirée de ton seuil (140-154 avec un seuil à 182), la même partout ; prévisions de course d’abord sur tes chronos."
+      "💬 Ton coach répond court (3 phrases au plus), avec tes vrais chiffres, et te propose une action quand il y en a une : séance test, renfo, alléger, déplacer, nouvelle VMA ou FC max… L’appli construit ",
+      "🔒 L’IA ne peut plus inventer un chiffre : chaque allure, durée, distance ou FC de sa réponse est vérifiée ; sinon tu reçois la réponse calculée par l’appli.",
+      "🏃 Analyses de séance en 2 ou 3 phrases, qui tiennent compte de ton ressenti et des passages en zone haute.",
+      "🏟️ Séances du club retraduites avec le lexique du club : une notation inconnue est montrée telle quelle (« à préciser au club »), jamais devinée.",
+      "📅 Ta semaine en cours suit les nouvelles règles du programme (une fois) ; « barrière la plus à risque » ; sorties longues écrites « 2h40 · ≈ 19 km · 500 m D+ » partout."
     ]
   }
 }
