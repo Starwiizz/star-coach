@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.40",
-    "code": 40640,
-    "build": "b228",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.40/star-coach.apk",
-    "sha256": "928f2e13adec81212c8fd7f684adf96cea0e8f5a7c9d4464059196bf998f25ba",
+    "version": "4.6.41",
+    "code": 40641,
+    "build": "b229",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.41/star-coach.apk",
+    "sha256": "49c54b99d9c3a34dfc9a49a02ee007a68ad2b186077468a46fb103e220b2bf9f",
     "notes": [
-      "🏃 Assistant de course : nouvelle interface, un seul écran de départ pour toutes tes sorties, avec la carte de ton parcours.",
-      "🗺️ Mes traces GPX : importe une trace, récupère celles de ta montre, mets-les en favori ; la carte de ta trace reste lisible sans réseau.",
-      "🔊 Réglages de l’assistance plus clairs : une ligne par annonce, et tu choisis voix, montre ou proches.",
-      "⛰️ En course : prochain ravito, barrière horaire et alimentation sous la carte ; fins de sortie plus justes.",
-      "🎯 Piste des courses : le trait vert devient ton objectif conseillé, le temps que tu peux viser avec 9 chances sur 10 ; il devient ton temps visé par défaut."
+      "📋 Historique : touche une activité pour ouvrir sa fiche complète : carte, chiffres clés, courbes d’allure, de cœur et d’altitude, tours km par km, ressenti et analyse.",
+      "🏅 « C’était une course » : déclare une course depuis son activité ; elle rejoint tes courses terminées et ta salle des trophées, et son temps officiel devient ton RP seulement s’il est meilleur.",
+      "🗓️ Programme : une séance sans activité importée à minuit est notée non faite ; ton coach attend midi le jour suivant avant d’en tenir compte, et une activité arrivée plus tard est rapprochée de sa s",
+      "✋ « Je n’y vais pas » en petit sous chaque séance, pour prévenir à l’avance ; ton coach peut te proposer un autre jour, et ton binôme est prévenu pour une séance à deux.",
+      "➕ Séances à placer : dans Ma semaine type, ajoute des séances faciles à faire quand tu peux ; elles se cochent seules quand une sortie arrive un jour libre."
     ]
   }
 }
