@@ -18,17 +18,15 @@
     ]
   },
   "dev": {
-    "version": "4.6.38",
-    "code": 40638,
-    "build": "b226",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.38/star-coach.apk",
-    "sha256": "3e3e9e444e56ec89f9841a8263b750ee3ef596265483b76a2d29da767ed9409b",
+    "version": "4.6.39",
+    "code": 40639,
+    "build": "b227",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.39/star-coach.apk",
+    "sha256": "f0d9c3e32ca4e4305838a446472f9b65c086a87d9f1e00b8d1d73190871f8dce",
     "notes": [
-      "🏔️ « Je fais un trail de 20 km demain » : réponse courte, et ton coach choisit une seule action (le trail compte comme ta sortie longue et dimanche est allégé, ou la séance dure du lendemain est allé",
-      "📋 Séances du club : r'3' (3 min de récup), 15'' (15 secondes) et la variante « si compet » sont compris ; les séances refusées sont retraduites une fois.",
-      "🏠 Accueil : la séance du club en titre et une ligne ; les étapes au toucher.",
-      "⚡ Jauge de l’IA : le nombre de tes demandes du jour.",
-      "💬 Demande à ton coach : la question en haut, la réponse dessous ; la proposition reste affichée jusqu’à Accepter ou Refuser."
+      "🎚️ Piste des courses : un repère « prévision » (ton temps le plus probable) à côté du trait vert ; curseur plus net et bien centré.",
+      "📋 Séances du club : les variantes s’affichent à part, sous les étapes ; l’explication n’est plus coupée.",
+      "💬 Demande à ton coach : réponses plus courtes, une seule proposition à la fois, et un peu d’espace sous le bouton."
     ]
   }
 }
