@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.44",
-    "code": 40644,
-    "build": "b232",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.44/star-coach.apk",
-    "sha256": "94e1e584232aacb6f008fdcb4ef49a764a905de00aae46ae9a68236bd17427da",
+    "version": "4.6.45",
+    "code": 40645,
+    "build": "b233",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.45/star-coach.apk",
+    "sha256": "079180299d4dfb0495b7e9d22ed2dc6dbb247c88c2364fd89126e1522afbeee1",
     "notes": [
-      "Toutes les montres : tes activités sont reconnues par leur type (course, trail, tapis, marche, vélo, renfo…), avec un nom en français ; un nom que tu as choisi est gardé.",
-      "Autres sports : football, padel, tennis, HIIT, crossfit… comptent dans ta fatigue d’après ton cœur, et le jour suivant ta séance intense devient un footing facile.",
-      "Propositions : une seule par jour au plus, et aucune proposition d’alléger après une séance réussie sans fatigue.",
-      "« J’ai mal » : plus d’intensité tant que la douleur dure, repos 3 jours à 4/5, et le conseil de consulter si elle dure.",
-      "Mots du coach (VMA, seuil, allure, D+…) : touche un mot souligné pour une explication courte."
+      "Analyses : un compte rendu de ta sortie, avec un conseil seulement quand un chiffre montre un vrai problème ; les analyses de la dernière semaine sont refaites une fois.",
+      "Plusieurs séances de course le même jour : chacune a son analyse juste sous elle, dans Programme et sur l’Accueil.",
+      "Assistant de course : carte centrée sur toi dès le départ, aucun gel sous 1h15 de sortie, textes plus clairs (capteur cardio, casque, boisson).",
+      "Régler ton téléphone : un bouton par réglage de ta marque, qui ouvre directement le bon écran.",
+      "Ton coach cette semaine : ses conseils s’affichent dans la page Programme, sans fenêtre par-dessus."
     ]
   }
 }
