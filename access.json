@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.41",
-    "code": 40641,
-    "build": "b229",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.41/star-coach.apk",
-    "sha256": "49c54b99d9c3a34dfc9a49a02ee007a68ad2b186077468a46fb103e220b2bf9f",
+    "version": "4.6.42",
+    "code": 40642,
+    "build": "b230",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.42/star-coach.apk",
+    "sha256": "c68d5cf05ed1134e4081983700887751d8f2c5fd8ddadb03cf095548c5b6829a",
     "notes": [
-      "📋 Historique : touche une activité pour ouvrir sa fiche complète : carte, chiffres clés, courbes d’allure, de cœur et d’altitude, tours km par km, ressenti et analyse.",
-      "🏅 « C’était une course » : déclare une course depuis son activité ; elle rejoint tes courses terminées et ta salle des trophées, et son temps officiel devient ton RP seulement s’il est meilleur.",
-      "🗓️ Programme : une séance sans activité importée à minuit est notée non faite ; ton coach attend midi le jour suivant avant d’en tenir compte, et une activité arrivée plus tard est rapprochée de sa s",
-      "✋ « Je n’y vais pas » en petit sous chaque séance, pour prévenir à l’avance ; ton coach peut te proposer un autre jour, et ton binôme est prévenu pour une séance à deux.",
-      "➕ Séances à placer : dans Ma semaine type, ajoute des séances faciles à faire quand tu peux ; elles se cochent seules quand une sortie arrive un jour libre."
+      "Demande à ton coach devient une conversation : tes 5 derniers échanges restent affichés, et ton coach suit le fil de tes questions.",
+      "Je n’y vais pas : pour une séance du club, fais-la seul à tes allures ou choisis un footing facile ; la journée l’affiche, et la bande de la semaine la grise.",
+      "Courses terminées : la prévision du jour de la course est gardée et comparée à ton temps officiel ; joins ton résultat, ton coach lit le temps et les classements pour toi.",
+      "Cartes : fond Plan IGN en France, et courbe de dénivelé des parcours de course même sans altitudes dans la trace.",
+      "Mise en service : envoi de ta sauvegarde à ton coach pour tous ceux qui l’acceptent, suppression complète de ton compte, aide pour relier ta montre et bouton Faire un don dans les Réglages."
     ]
   }
 }
