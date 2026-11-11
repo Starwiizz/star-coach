@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.43",
-    "code": 40643,
-    "build": "b231",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.43/star-coach.apk",
-    "sha256": "9fcdfeda2c209331b4f45f87c5ea83259364319e30bf46f2bd04df259aabbba1",
+    "version": "4.6.44",
+    "code": 40644,
+    "build": "b232",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.44/star-coach.apk",
+    "sha256": "94e1e584232aacb6f008fdcb4ef49a764a905de00aae46ae9a68236bd17427da",
     "notes": [
-      "Analyse de tes séances : ton coach découpe maintenant chaque séance à partir de tes données seconde par seconde et de la séance prévue (échauffement, fractions, récupérations, retour au calme), puis l",
-      "Sorties longues et footings : régularité, marche en côte, dérive cardiaque avec un conseil, et une sortie très facile reconnue comme telle.",
-      "Assistant de course : le départ ne reste plus bloqué, la voix parle aussi téléphone verrouillé (avec un casque), le cœur s’annonce par sa zone (« Zone 4, 165, ralentis »), une sortie sans fractions es",
-      "Déroulé complet de l’assistance : dans l’ordre dès le départ, avec la durée et les ravitos de la sortie que tu prépares ; une petite phrase sous chaque réglage dit ce que l’annonce dira.",
-      "Demande à ton coach : ta demande passe en premier, chaque modification a son bouton, et le coach sait ajouter une sortie à ton programme."
+      "Toutes les montres : tes activités sont reconnues par leur type (course, trail, tapis, marche, vélo, renfo…), avec un nom en français ; un nom que tu as choisi est gardé.",
+      "Autres sports : football, padel, tennis, HIIT, crossfit… comptent dans ta fatigue d’après ton cœur, et le jour suivant ta séance intense devient un footing facile.",
+      "Propositions : une seule par jour au plus, et aucune proposition d’alléger après une séance réussie sans fatigue.",
+      "« J’ai mal » : plus d’intensité tant que la douleur dure, repos 3 jours à 4/5, et le conseil de consulter si elle dure.",
+      "Mots du coach (VMA, seuil, allure, D+…) : touche un mot souligné pour une explication courte."
     ]
   }
 }
