@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.42",
-    "code": 40642,
-    "build": "b230",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.42/star-coach.apk",
-    "sha256": "c68d5cf05ed1134e4081983700887751d8f2c5fd8ddadb03cf095548c5b6829a",
+    "version": "4.6.43",
+    "code": 40643,
+    "build": "b231",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.43/star-coach.apk",
+    "sha256": "9fcdfeda2c209331b4f45f87c5ea83259364319e30bf46f2bd04df259aabbba1",
     "notes": [
-      "Demande à ton coach devient une conversation : tes 5 derniers échanges restent affichés, et ton coach suit le fil de tes questions.",
-      "Je n’y vais pas : pour une séance du club, fais-la seul à tes allures ou choisis un footing facile ; la journée l’affiche, et la bande de la semaine la grise.",
-      "Courses terminées : la prévision du jour de la course est gardée et comparée à ton temps officiel ; joins ton résultat, ton coach lit le temps et les classements pour toi.",
-      "Cartes : fond Plan IGN en France, et courbe de dénivelé des parcours de course même sans altitudes dans la trace.",
-      "Mise en service : envoi de ta sauvegarde à ton coach pour tous ceux qui l’acceptent, suppression complète de ton compte, aide pour relier ta montre et bouton Faire un don dans les Réglages."
+      "Analyse de tes séances : ton coach découpe maintenant chaque séance à partir de tes données seconde par seconde et de la séance prévue (échauffement, fractions, récupérations, retour au calme), puis l",
+      "Sorties longues et footings : régularité, marche en côte, dérive cardiaque avec un conseil, et une sortie très facile reconnue comme telle.",
+      "Assistant de course : le départ ne reste plus bloqué, la voix parle aussi téléphone verrouillé (avec un casque), le cœur s’annonce par sa zone (« Zone 4, 165, ralentis »), une sortie sans fractions es",
+      "Déroulé complet de l’assistance : dans l’ordre dès le départ, avec la durée et les ravitos de la sortie que tu prépares ; une petite phrase sous chaque réglage dit ce que l’annonce dira.",
+      "Demande à ton coach : ta demande passe en premier, chaque modification a son bouton, et le coach sait ajouter une sortie à ton programme."
     ]
   }
 }
