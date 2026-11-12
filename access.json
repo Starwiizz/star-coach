@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.45",
-    "code": 40645,
-    "build": "b233",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.45/star-coach.apk",
-    "sha256": "079180299d4dfb0495b7e9d22ed2dc6dbb247c88c2364fd89126e1522afbeee1",
+    "version": "4.6.46",
+    "code": 40646,
+    "build": "b234",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.46/star-coach.apk",
+    "sha256": "a1ba64eea36f032a8867a3aa8441bb5dac302068d5e9d3ae3411e6f3d3e4410f",
     "notes": [
-      "Analyses : un compte rendu de ta sortie, avec un conseil seulement quand un chiffre montre un vrai problème ; les analyses de la dernière semaine sont refaites une fois.",
-      "Plusieurs séances de course le même jour : chacune a son analyse juste sous elle, dans Programme et sur l’Accueil.",
-      "Assistant de course : carte centrée sur toi dès le départ, aucun gel sous 1h15 de sortie, textes plus clairs (capteur cardio, casque, boisson).",
-      "Régler ton téléphone : un bouton par réglage de ta marque, qui ouvre directement le bon écran.",
-      "Ton coach cette semaine : ses conseils s’affichent dans la page Programme, sans fenêtre par-dessus."
+      "Comptes rendus de séance : écrits par ton coach à partir de tes vraies données, sans conseil quand tout s’est bien passé ; si l’IA ne répond pas, l’appli réessaie à l’ouverture suivante.",
+      "Séances du club en circuit (côtes, descentes, relances, renfo) : toutes les étapes et le nombre de tours, même avec deux programmes de club.",
+      "Demande à ton coach : tes échanges des derniers jours sont bien gardés d’une ouverture à l’autre.",
+      "Inscription : un temps écrit « 1h04 » est bien compris, un temps illisible est signalé, et les boutons ne restent plus grisés.",
+      "Sauvegarde automatique : elle ne peut plus remplacer une bonne sauvegarde par une sauvegarde vide."
     ]
   }
 }
