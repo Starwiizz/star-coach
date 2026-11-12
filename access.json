@@ -6,15 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.1.0",
-    "code": 40100,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/v4.1.0/star-coach.apk",
+    "version": "4.6.46",
+    "code": 40646,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.46/star-coach.apk",
+    "sha256": "a1ba64eea36f032a8867a3aa8441bb5dac302068d5e9d3ae3411e6f3d3e4410f",
     "notes": [
-      "Carte Aujourd’hui et coach intégré instantané",
-      "Courses : fiche plein écran et défis intermédiaires",
-      "IA du téléphone automatique, Gemini plus rapide",
-      "Chaussures, séances supprimables, doublons bloqués",
-      "Bouton retour Android et autorisations simplifiées"
+      "Comptes rendus de séance : écrits par ton coach à partir de tes vraies données, sans conseil quand tout s’est bien passé ; si l’IA ne répond pas, l’appli réessaie à l’ouverture suivante.",
+      "Séances du club en circuit (côtes, descentes, relances, renfo) : toutes les étapes et le nombre de tours, même avec deux programmes de club.",
+      "Demande à ton coach : tes échanges des derniers jours sont bien gardés d’une ouverture à l’autre.",
+      "Inscription : un temps écrit « 1h04 » est bien compris, un temps illisible est signalé, et les boutons ne restent plus grisés.",
+      "Sauvegarde automatique : elle ne peut plus remplacer une bonne sauvegarde par une sauvegarde vide."
     ]
   },
   "dev": {
@@ -30,5 +31,6 @@
       "Inscription : un temps écrit « 1h04 » est bien compris, un temps illisible est signalé, et les boutons ne restent plus grisés.",
       "Sauvegarde automatique : elle ne peut plus remplacer une bonne sauvegarde par une sauvegarde vide."
     ]
-  }
+  },
+  "ouvert": true
 }
