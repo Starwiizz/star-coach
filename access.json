@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.46",
-    "code": 40646,
-    "build": "b234",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.46/star-coach.apk",
-    "sha256": "a1ba64eea36f032a8867a3aa8441bb5dac302068d5e9d3ae3411e6f3d3e4410f",
+    "version": "4.6.47",
+    "code": 40647,
+    "build": "b235",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.47/star-coach.apk",
+    "sha256": "bf1ab45bfc2b4fc9716a8ea38bbfdc719fa79b6038a5031814f055bbadd2def0",
     "notes": [
-      "Comptes rendus de séance : écrits par ton coach à partir de tes vraies données, sans conseil quand tout s’est bien passé ; si l’IA ne répond pas, l’appli réessaie à l’ouverture suivante.",
-      "Séances du club en circuit (côtes, descentes, relances, renfo) : toutes les étapes et le nombre de tours, même avec deux programmes de club.",
-      "Demande à ton coach : tes échanges des derniers jours sont bien gardés d’une ouverture à l’autre.",
-      "Inscription : un temps écrit « 1h04 » est bien compris, un temps illisible est signalé, et les boutons ne restent plus grisés.",
-      "Sauvegarde automatique : elle ne peut plus remplacer une bonne sauvegarde par une sauvegarde vide."
+      "Test VMA, correctif : pour un débutant ou après un arrêt, l’écran cochait « Par paliers » mais c’est le test de six minutes à fond qui pouvait partir si tu appuyais tout de suite sur « Départ ». Le te",
+      "Test VMA : il n’est plus jamais imposé à un débutant ni pendant une reprise. Ta journée garde un footing facile, et le test reste possible à la place, dans l’Assistant.",
+      "Test VMA : pour un débutant ou après un arrêt, le test par paliers commence par un échauffement. Avant ton premier test, ton coach te demande de valider un avertissement santé, une seule fois.",
+      "Test VMA : « Départ » est bloqué, avec la raison, si tu as noté une douleur forte, ou le jour d’avant et le jour d’après une séance dure, une sortie longue ou une course.",
+      "Reprise après un arrêt : ton coach te demande « Blessure, ou simple coupure ? ». Simple coupure : la reprise est deux fois plus courte, et les séances dures reviennent dès la deuxième semaine. Sans ré"
     ]
   },
   "ouvert": true
