@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.47",
-    "code": 40647,
-    "build": "b235",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.47/star-coach.apk",
-    "sha256": "bf1ab45bfc2b4fc9716a8ea38bbfdc719fa79b6038a5031814f055bbadd2def0",
+    "version": "4.6.48",
+    "code": 40648,
+    "build": "b236",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.48/star-coach.apk",
+    "sha256": "0f3adcb38fe0e95f289d0c8c5adaa4d635f0b52be59037e1de45f20ccaa0243c",
     "notes": [
-      "Test VMA, correctif : pour un débutant ou après un arrêt, l’écran cochait « Par paliers » mais c’est le test de six minutes à fond qui pouvait partir si tu appuyais tout de suite sur « Départ ». Le te",
-      "Test VMA : il n’est plus jamais imposé à un débutant ni pendant une reprise. Ta journée garde un footing facile, et le test reste possible à la place, dans l’Assistant.",
-      "Test VMA : pour un débutant ou après un arrêt, le test par paliers commence par un échauffement. Avant ton premier test, ton coach te demande de valider un avertissement santé, une seule fois.",
-      "Test VMA : « Départ » est bloqué, avec la raison, si tu as noté une douleur forte, ou le jour d’avant et le jour d’après une séance dure, une sortie longue ou une course.",
-      "Reprise après un arrêt : ton coach te demande « Blessure, ou simple coupure ? ». Simple coupure : la reprise est deux fois plus courte, et les séances dures reviennent dès la deuxième semaine. Sans ré"
+      "Séances du club : ton coach ne les remet plus en question. Le conseil « fais l’une des deux en footing » est retiré.",
+      "Mots soulignés en pointillés : retirés partout, avec leurs fenêtres d’explication.",
+      "Programme, journée avec deux séances : chaque ligne garde sa propre étiquette, sa coche et ses chiffres.",
+      "Nouvelle course : le temps visé s’écrit comme tu veux, par exemple 1h04, 1:04:00 ou 48:30.",
+      "Après une installation : plus de message « Nouvelle version », et ton coach ne propose aucun changement pendant trois jours."
     ]
   },
   "ouvert": true
