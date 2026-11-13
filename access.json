@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.50",
-    "code": 40650,
-    "build": "b238",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.50/star-coach.apk",
-    "sha256": "5498aa30dddfd599bd1c985e21d9d9b138a926444f9f478740d3ddc40bab4b94",
+    "version": "4.6.51",
+    "code": 40651,
+    "build": "b239",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.51/star-coach.apk",
+    "sha256": "3db72d8194c636395c949e3ede3724b67fa711c87c6a244079ea31451c08196c",
     "notes": [
-      "Compte rendu d’une séance : la durée affichée est celle de ta séance, la même que dans l’historique (avant, les pauses étaient comptées en plus).",
-      "Bilan : la FC max et la FC de repos affichées sont celles de ton profil d’aujourd’hui, même si tu les as saisies après le bilan.",
-      "Organiser ma semaine : un jour que tu avais toi-même changé (un footing ajouté par exemple) ne cache plus ta nouvelle semaine. L’appli te le montre et te propose de le remplacer.",
-      "Compte rendu d’une séance : il est refait avec les règles de cette version quand tu ouvres la séance ou que tu le relances.",
-      "Textes du coach (comptes rendus, bilan, réponses à tes questions) : ton coach explique ce que les chiffres veulent dire au lieu de les aligner."
+      "« Mon bilan » devient « Analyse du coach » (Mes progrès) : le mot de ton coach, ta semaine (entraînement, distance, dénivelé monté et descendu, séances, temps en endurance et en intensité), ce qu’elle",
+      "Elle se fait toute seule le dimanche à 20 h, et tu peux la refaire avant avec « Refaire l’analyse maintenant ».",
+      "La fenêtre du dimanche soir arrive à 20 h et reprend la même analyse, avec la semaine qui vient.",
+      "Ma forme : une phrase de ton coach en haut de la carte quand il y a quelque chose à signaler (beaucoup d’intensité, charge haute, douleur).",
+      "Demande à ton coach : il te donne d’abord son avis, franchement, puis seulement sa proposition."
     ]
   },
   "ouvert": true
