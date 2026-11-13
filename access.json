@@ -19,16 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.49",
-    "code": 40649,
-    "build": "b237",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.49/star-coach.apk",
-    "sha256": "06803493597188fba48c12b9e35bfdcb0ecdbb348a9eeb533d3f7fa1e49d689b",
+    "version": "4.6.50",
+    "code": 40650,
+    "build": "b238",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.50/star-coach.apk",
+    "sha256": "5498aa30dddfd599bd1c985e21d9d9b138a926444f9f478740d3ddc40bab4b94",
     "notes": [
-      "Débutant : l’intensité commence dès la première semaine, adaptée à ton profil. Si tu débutes vraiment ou si ta VMA n’est pas connue : un fractionné doux en course et marche, par exemple huit fois tren",
-      "Amis : les pastilles de la semaine du binôme sont lisibles en thème sombre, et le rond du prénom garde sa taille dans le fil d’activité.",
-      "Compte rendu d’une séance : une sortie n’est dite « facile » que si ton cœur est resté dans ta zone d’endurance. Sinon le compte rendu le dit : cœur moyen au-dessus de la zone, ou une partie de la sor",
-      "Programme : une séance du club sans détail s’appelle « Séance du club »."
+      "Compte rendu d’une séance : la durée affichée est celle de ta séance, la même que dans l’historique (avant, les pauses étaient comptées en plus).",
+      "Bilan : la FC max et la FC de repos affichées sont celles de ton profil d’aujourd’hui, même si tu les as saisies après le bilan.",
+      "Organiser ma semaine : un jour que tu avais toi-même changé (un footing ajouté par exemple) ne cache plus ta nouvelle semaine. L’appli te le montre et te propose de le remplacer.",
+      "Compte rendu d’une séance : il est refait avec les règles de cette version quand tu ouvres la séance ou que tu le relances.",
+      "Textes du coach (comptes rendus, bilan, réponses à tes questions) : ton coach explique ce que les chiffres veulent dire au lieu de les aligner."
     ]
   },
   "ouvert": true
