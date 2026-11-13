@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.51",
-    "code": 40651,
-    "build": "b239",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.51/star-coach.apk",
-    "sha256": "3db72d8194c636395c949e3ede3724b67fa711c87c6a244079ea31451c08196c",
+    "version": "4.6.52",
+    "code": 40652,
+    "build": "b240",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.52/star-coach.apk",
+    "sha256": "afbed231b099a9a253d7fba160b53ff54aafd0b32d75a59d3c39b2fef718650d",
     "notes": [
-      "« Mon bilan » devient « Analyse du coach » (Mes progrès) : le mot de ton coach, ta semaine (entraînement, distance, dénivelé monté et descendu, séances, temps en endurance et en intensité), ce qu’elle",
-      "Elle se fait toute seule le dimanche à 20 h, et tu peux la refaire avant avec « Refaire l’analyse maintenant ».",
-      "La fenêtre du dimanche soir arrive à 20 h et reprend la même analyse, avec la semaine qui vient.",
-      "Ma forme : une phrase de ton coach en haut de la carte quand il y a quelque chose à signaler (beaucoup d’intensité, charge haute, douleur).",
-      "Demande à ton coach : il te donne d’abord son avis, franchement, puis seulement sa proposition."
+      "Semaine d’affûtage : avant une course, ton coach barre le renfo jambes et les séances dures des derniers jours, et raccourcit tes footings.",
+      "Sa durée dépend de la course et de toi : 4, 7 ou 10 jours selon ce que la course représente par rapport à ta semaine habituelle.",
+      "Une séance barrée n’est jamais retirée : tu vois ce qui était prévu, et la raison est écrite dans le jour.",
+      "La semaine porte l’étiquette « Affûtage » (le terme « Course test » disparaît).",
+      "Quand tu ajoutes une course : « Tu vises un chrono ? ». Sans chrono, seul le renfo jambes des 2 derniers jours est barré."
     ]
   },
   "ouvert": true
