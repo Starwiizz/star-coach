@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.53",
-    "code": 40653,
-    "build": "b241",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.53/star-coach.apk",
-    "sha256": "fa653da29d59a76d67a46f50f7f2278d89dd7668ec9fc11e7ecd5a718a6d0a78",
+    "version": "4.6.54",
+    "code": 40654,
+    "build": "b242",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.54/star-coach.apk",
+    "sha256": "c5c0342330b1a95857923ed65e2ff1d1d21a7c07026e28e098f47bf892ecf05f",
     "notes": [
-      "Comptes rendus de séance : des phrases plus simples, qui se comprennent seules.",
-      "Une séance par blocs (côtes, relances, circuit) n’est plus décrite comme un footing continu.",
-      "« Tu vises un chrono ? » est demandé dès la création d’une course.",
-      "Le lendemain d’une course, ta sortie longue est barrée : la course la remplace.",
-      "Dans un week-end choc de ton programme, la course prend la place de la sortie du samedi et la sortie longue du dimanche reste."
+      "Comptes rendus de séance : une phrase par bloc ou par tour, avec son allure et son cardio, puis ce que cela veut dire.",
+      "Ton coach dit maintenant « cardio » et « bpm ».",
+      "Séance en circuit (côtes, relances) : ton coach la raconte tour par tour, avec le temps de chaque côte et ton cardio.",
+      "Les comptes rendus de tes dernières séances sont refaits une fois.",
+      "Assistant de course : un nouveau guidage est en essai sur la version de développement (interrupteur en bas des réglages de l’assistance pour revenir à l’ancien)."
     ]
   },
   "ouvert": true
