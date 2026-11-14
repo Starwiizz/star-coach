@@ -19,17 +19,16 @@
     ]
   },
   "dev": {
-    "version": "4.6.56",
-    "code": 40656,
-    "build": "b244",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.56/star-coach.apk",
-    "sha256": "7cf1bc0b18b9e45cd556a8b76d89bee294555f37d4b794376d6790be81cc4ea1",
+    "version": "4.6.57",
+    "code": 40657,
+    "build": "b245",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.57/star-coach.apk",
+    "sha256": "c7a71cc9ef7839e6ac3498669075411fa715464741e92002e51c4b613ce22976",
     "notes": [
-      "Comptes rendus : l’appli reconnaît la situation (footing, sortie trail, sortie longue, parties rapides, course) et chacune a sa forme. Une sortie simple n’est plus découpée en trois parties et le card",
-      "Assistant, pendant une course avec ravitos : le prochain ravito et la prochaine barrière passent au-dessus de la carte, « J’abandonne » tout en bas.",
-      "Course avec sa trace, nouveau guidage : les ravitos, les barrières et les kilomètres suivent ta position sur la trace, plus les kilomètres comptés par le GPS.",
-      "Trail avec une trace, nouveau guidage : une montée est annoncée à son vrai pied, son sommet au vrai sommet, et une montée raide est dite « raide ».",
-      "Nouveau guidage : l’appli suit ta position sur la trace ; la sortie de trace est dite une fois, elle n’est plus répétée chaque minute."
+      "Comptes rendus : l’intensité se dit en zones cardio, de la zone 1 (endurance fondamentale) à la zone 5 (VMA), d’après le temps réellement passé dans chaque zone. Plus de « facile » ni de « dur ».",
+      "Chaque compte rendu finit par une courte conclusion : ce que la séance fait travailler (endurance, seuil, VMA, force en côte).",
+      "Mes zones cardio : la zone 1 s’appelle « Endurance fondamentale ».",
+      "Les comptes rendus de la semaine sont refaits une fois."
     ]
   },
   "ouvert": true
