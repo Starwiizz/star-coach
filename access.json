@@ -15,13 +15,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.58",
-    "code": 40658,
-    "build": "b246",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.58/star-coach.apk",
-    "sha256": "830c32b610e0c2c629ea47ba9fc714b64fe9d1505cee301e033ed9d51a86d7af",
+    "version": "4.6.59",
+    "code": 40659,
+    "build": "b247",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.59/star-coach.apk",
+    "sha256": "b9595f099c5edcf11b6bb1ef753427279b4f67f682a9643cb7dd953482360367",
     "notes": [
-      "Accueil : la carte « Mes chaussures » s’affiche de nouveau en entier, avec tes paires, leurs kilomètres et leur photo. Elle restait repliée sur une installation neuve."
+      "Zones cardio : la zone 1 est la récupération, la zone 2 l’endurance fondamentale (EF), la même que ta zone d’endurance de Mes allures ; puis tempo, seuil et VMA.",
+      "Sorties longues : la carte donne l’intensité à tenir, avec ton cardio et l’allure à ne pas dépasser sur le plat.",
+      "Comptes rendus : une zone se dit par son numéro ou par son nom court (EF, tempo…). Ceux de la semaine sont refaits une fois.",
+      "Sauvegarde envoyée à ton coach, si tu l’as acceptée : elle part aussi quand tes données changent (chaussures, ressenti…) et après une mise à jour.",
+      "Assistant de course : son code a été remis au propre. Rien ne doit changer pour toi."
     ]
   },
   "ouvert": true
