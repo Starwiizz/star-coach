@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.6.46",
-    "code": 40646,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.46/star-coach.apk",
-    "sha256": "a1ba64eea36f032a8867a3aa8441bb5dac302068d5e9d3ae3411e6f3d3e4410f",
+    "version": "4.6.56",
+    "code": 40656,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.56/star-coach.apk",
+    "sha256": "7cf1bc0b18b9e45cd556a8b76d89bee294555f37d4b794376d6790be81cc4ea1",
     "notes": [
-      "Comptes rendus de séance : écrits par ton coach à partir de tes vraies données, sans conseil quand tout s’est bien passé ; si l’IA ne répond pas, l’appli réessaie à l’ouverture suivante.",
-      "Séances du club en circuit (côtes, descentes, relances, renfo) : toutes les étapes et le nombre de tours, même avec deux programmes de club.",
-      "Demande à ton coach : tes échanges des derniers jours sont bien gardés d’une ouverture à l’autre.",
-      "Inscription : un temps écrit « 1h04 » est bien compris, un temps illisible est signalé, et les boutons ne restent plus grisés.",
-      "Sauvegarde automatique : elle ne peut plus remplacer une bonne sauvegarde par une sauvegarde vide."
+      "Comptes rendus : l’appli reconnaît la situation (footing, sortie trail, sortie longue, parties rapides, course) et chacune a sa forme. Une sortie simple n’est plus découpée en trois parties et le card",
+      "Assistant, pendant une course avec ravitos : le prochain ravito et la prochaine barrière passent au-dessus de la carte, « J’abandonne » tout en bas.",
+      "Course avec sa trace, nouveau guidage : les ravitos, les barrières et les kilomètres suivent ta position sur la trace, plus les kilomètres comptés par le GPS.",
+      "Trail avec une trace, nouveau guidage : une montée est annoncée à son vrai pied, son sommet au vrai sommet, et une montée raide est dite « raide ».",
+      "Nouveau guidage : l’appli suit ta position sur la trace ; la sortie de trace est dite une fois, elle n’est plus répétée chaque minute."
     ]
   },
   "dev": {
