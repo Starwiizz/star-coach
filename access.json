@@ -6,12 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.6.58",
-    "code": 40658,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.58/star-coach.apk",
-    "sha256": "830c32b610e0c2c629ea47ba9fc714b64fe9d1505cee301e033ed9d51a86d7af",
+    "version": "4.6.60",
+    "code": 40660,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.60/star-coach.apk",
+    "sha256": "7339059085cffe825b80163dde1fd60ffe80ae8bfd3c705ec8a2eb9442bd2c53",
     "notes": [
-      "Accueil : la carte « Mes chaussures » s’affiche de nouveau en entier, avec tes paires, leurs kilomètres et leur photo. Elle restait repliée sur une installation neuve."
+      "Comptes rendus : ton coach te parle. Il commence par ce que tu as fait, sans répéter la distance, la durée et le D+ déjà affichés au-dessus.",
+      "La conclusion de chaque compte rendu est écrite comme une phrase : ce que la sortie t’apporte.",
+      "Programme : la carte d’un jour ne s’allonge plus. Deux phrases, puis « Lire le compte rendu › », qui ouvre le texte complet dans une fenêtre.",
+      "Depuis cette fenêtre, « Voir la carte et les courbes › » ouvre la fiche de l’activité.",
+      "Une séance du club ou une séance détaillée l’annonce sous son titre : « Détail de la séance › »."
     ]
   },
   "dev": {
