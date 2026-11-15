@@ -15,17 +15,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.59",
-    "code": 40659,
-    "build": "b247",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.59/star-coach.apk",
-    "sha256": "b9595f099c5edcf11b6bb1ef753427279b4f67f682a9643cb7dd953482360367",
+    "version": "4.6.60",
+    "code": 40660,
+    "build": "b248",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.60/star-coach.apk",
+    "sha256": "7339059085cffe825b80163dde1fd60ffe80ae8bfd3c705ec8a2eb9442bd2c53",
     "notes": [
-      "Zones cardio : la zone 1 est la récupération, la zone 2 l’endurance fondamentale (EF), la même que ta zone d’endurance de Mes allures ; puis tempo, seuil et VMA.",
-      "Sorties longues : la carte donne l’intensité à tenir, avec ton cardio et l’allure à ne pas dépasser sur le plat.",
-      "Comptes rendus : une zone se dit par son numéro ou par son nom court (EF, tempo…). Ceux de la semaine sont refaits une fois.",
-      "Sauvegarde envoyée à ton coach, si tu l’as acceptée : elle part aussi quand tes données changent (chaussures, ressenti…) et après une mise à jour.",
-      "Assistant de course : son code a été remis au propre. Rien ne doit changer pour toi."
+      "Comptes rendus : ton coach te parle. Il commence par ce que tu as fait, sans répéter la distance, la durée et le D+ déjà affichés au-dessus.",
+      "La conclusion de chaque compte rendu est écrite comme une phrase : ce que la sortie t’apporte.",
+      "Programme : la carte d’un jour ne s’allonge plus. Deux phrases, puis « Lire le compte rendu › », qui ouvre le texte complet dans une fenêtre.",
+      "Depuis cette fenêtre, « Voir la carte et les courbes › » ouvre la fiche de l’activité.",
+      "Une séance du club ou une séance détaillée l’annonce sous son titre : « Détail de la séance › »."
     ]
   },
   "ouvert": true
