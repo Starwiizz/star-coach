@@ -19,14 +19,14 @@
     ]
   },
   "dev": {
-    "version": "4.6.63",
-    "code": 40663,
-    "build": "b251",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.63/star-coach.apk",
-    "sha256": "4f187974f208589ffe58887bd0c9cc84c045cc3fcdd88bf828d39f42d1e17f09",
+    "version": "4.6.64",
+    "code": 40664,
+    "build": "b252",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.64/star-coach.apk",
+    "sha256": "dde1e240e62bd2de11eef8ecfc5dba60a533f9d0cc065ea86c8029f60f9aa9b6",
     "notes": [
-      "Comptes rendus : la montée du cardio en fin de sortie est maintenant vue sur un vrai fichier de trail (les petits pas de marche et les allures rares ne la cachent plus).",
-      "Ta sortie longue du 15/11 et les séances des 7 derniers jours sont analysées de nouveau, une fois."
+      "Comptes rendus d’un footing, d’un trail ou d’une sortie longue : ton coach dit ce qui s’est passé, sans inventer de cause (fatigue, chaleur, boisson…) que tes données ne montrent pas.",
+      "Les comptes rendus des 7 derniers jours sont réécrits une fois."
     ]
   },
   "ouvert": true
