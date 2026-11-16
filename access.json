@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.6.60",
-    "code": 40660,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.60/star-coach.apk",
-    "sha256": "7339059085cffe825b80163dde1fd60ffe80ae8bfd3c705ec8a2eb9442bd2c53",
+    "version": "4.6.66",
+    "code": 40666,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.66/star-coach.apk",
+    "sha256": "224d08b6923e44181e1351ef2ad065866ddbb4e3cbae028d6ebf4f3f6395b97e",
     "notes": [
-      "Comptes rendus : ton coach te parle. Il commence par ce que tu as fait, sans répéter la distance, la durée et le D+ déjà affichés au-dessus.",
-      "La conclusion de chaque compte rendu est écrite comme une phrase : ce que la sortie t’apporte.",
-      "Programme : la carte d’un jour ne s’allonge plus. Deux phrases, puis « Lire le compte rendu › », qui ouvre le texte complet dans une fenêtre.",
-      "Depuis cette fenêtre, « Voir la carte et les courbes › » ouvre la fiche de l’activité.",
-      "Une séance du club ou une séance détaillée l’annonce sous son titre : « Détail de la séance › »."
+      "Temps estimé et chances : quand tu as déjà fait la distance d’une course sur le même terrain (une course, ou une sortie des 6 derniers mois), ton coach part de ce temps-là. Le refaire, c’est 99 % ; le",
+      "Page d’une course ou d’un défi : « Tes chances » plus courte (le détail et la molette en touchant « Détail »), « Analyse du défi » à la place d’« À surveiller » (barrières passées à l’entraînement, ce",
+      "Plan de course : « à 09h43 » est l’heure, « 4h43 de course » le temps depuis le départ ; l’alimentation de chaque tronçon en flasques de 500 ml (eau + iso) d’après ton poids, la caféine sur un long ef",
+      "« Infos générales » regroupe les dates, les infos trouvées sur internet, le règlement et la trace ; les dates des autres courses de l’événement n’y sont plus.",
+      "Ultra : la molette s’arrête au temps le plus lent que permettent les barrières."
     ]
   },
   "dev": {
