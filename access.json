@@ -6,11 +6,12 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.6.68",
-    "code": 40668,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.68/star-coach.apk",
-    "sha256": "22eb6e9757695d6ba59bc47c987b6f48342ce67a9407866f99070ab35b073848",
+    "version": "4.6.69",
+    "code": 40669,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.69/star-coach.apk",
+    "sha256": "4ecf6f8803c89361e1009078a5cdf50ff2d4bea5267a370c22cb874c2626ec8b",
     "notes": [
+      "Plan de course jusqu’au marathon : le nouveau texte (départ calme, « accroche-toi à un coureur » au milieu, fin, arrivée) ; la 4.6.68 avait gardé l’ancien par erreur.",
       "Page d’une course ou d’un défi : toutes les cartes se replient, et seules « Tes chances » sont ouvertes au départ.",
       "Plan de course d’une course jusqu’au marathon : ton objectif en grand, puis quatre étapes courtes (départ, mi-course, derniers km, arrivée).",
       "Analyse : « Ajouter la séance à mon programme » place la séance à l’allure de ta course au bon jour (jamais un jour de club), après ton accord."
