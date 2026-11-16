@@ -19,13 +19,13 @@
     ]
   },
   "dev": {
-    "version": "4.6.64",
-    "code": 40664,
-    "build": "b252",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.64/star-coach.apk",
-    "sha256": "dde1e240e62bd2de11eef8ecfc5dba60a533f9d0cc065ea86c8029f60f9aa9b6",
+    "version": "4.6.65",
+    "code": 40665,
+    "build": "b253",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.65/star-coach.apk",
+    "sha256": "00bc35b67ee2469dd3228f35ae672384f0c22e2810ce26e18b595a6b6c2aef38",
     "notes": [
-      "Comptes rendus d’un footing, d’un trail ou d’une sortie longue : ton coach dit ce qui s’est passé, sans inventer de cause (fatigue, chaleur, boisson…) que tes données ne montrent pas.",
+      "Comptes rendus d’un footing, d’un trail ou d’une sortie longue : encore moins de causes inventées (« c’est ce qui a gardé ton cardio bas », « tu n’as pas puisé dans tes réserves », « tes jambes digère",
       "Les comptes rendus des 7 derniers jours sont réécrits une fois."
     ]
   },
