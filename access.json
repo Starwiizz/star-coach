@@ -19,16 +19,15 @@
     ]
   },
   "dev": {
-    "version": "4.6.61",
-    "code": 40661,
-    "build": "b249",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.61/star-coach.apk",
-    "sha256": "63205cf2ddd2de0e7e994408a0ddb85b8d673c8581fccfd56c265e71f91353ff",
+    "version": "4.6.62",
+    "code": 40662,
+    "build": "b250",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.62/star-coach.apk",
+    "sha256": "11ee41c7b9a34f7ad800414ba06db861d6798c21fc132b7d085e19fe95e1ae15",
     "notes": [
-      "Règlement d’une course : quand il décrit plusieurs courses, seules les barrières et les ravitos de la tienne sont gardés, même si le nom de l’autre course est écrit dans le nom du lieu. Les points d’u",
-      "Tes chances, ton temps de course, ta stratégie et l’Assistant ne comptent plus les ravitos et les barrières des autres courses.",
-      "Ma forme : plus de fausse baisse de la VO2max ni de l’allure marathon après une mise à jour.",
-      "Comptes rendus : un cardio qui monte à la même allure est signalé, même s’il arrive en fin de sortie, avec un conseil. Ceux des 7 derniers jours sont refaits une fois."
+      "Comptes rendus : la fin de la sortie est comparée au reste, à la même allure et sur la même pente. Si ton cardio monte nettement en fin de sortie, le compte rendu le dit, avec un conseil.",
+      "Ta sortie longue du 15/11 et les séances des 7 derniers jours sont analysées de nouveau, une fois.",
+      "Ma forme : la baisse de VO2max de 2,9 notée le 15/11 était une erreur de calcul, sans lien avec ta sortie. Elle est retirée."
     ]
   },
   "ouvert": true
