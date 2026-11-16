@@ -6,15 +6,15 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.6.70",
-    "code": 40670,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.70/star-coach.apk",
-    "sha256": "467b3b0331b7bfbbb37fd448f7ff1337cf2f214e919e5fb46523d56f3b28ec9e",
+    "version": "4.6.71",
+    "code": 40671,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.71/star-coach.apk",
+    "sha256": "7e162263eb38207543fb0e1fe8d2358d61986ff3baf7489b8e7026e6f0fc3f20",
     "notes": [
-      "Séance ajoutée depuis la page d’une course : elle s’affiche enfin avec son vrai titre dans ton programme (« 3 × 2 km à 5’01/km »), et le « ✓ Ajoutée » n’est plus écrasé.",
-      "Plan de course jusqu’au marathon : le nouveau texte (départ calme, « accroche-toi à un coureur » au milieu, fin, arrivée) ; la 4.6.68 avait gardé l’ancien par erreur.",
-      "Page d’une course ou d’un défi : toutes les cartes se replient, et seules « Tes chances » sont ouvertes au départ.",
-      "Plan de course d’une course jusqu’au marathon : ton objectif en grand, puis quatre étapes courtes (départ, mi-course, derniers km, arrivée)."
+      "Séance pour ta course : elle se place à la place de la sortie longue, 8 à 14 jours avant ; elle dépend de la distance, de ton niveau et du terrain (sortie vallonnée pour un trail) ; tu peux la retirer",
+      "Assistant de course : les annonces doivent maintenant arriver téléphone verrouillé (la page reste active pendant une sortie) ; il guide les blocs de la séance ajoutée.",
+      "Plan d’une course en trail : à l’effort, plus à l’allure au kilomètre (marche dans les montées, relance, frontale de nuit).",
+      "Mes progrès : « Analyses de la semaine », sous le bilan, avec l’écart d’une semaine à l’autre."
     ]
   },
   "dev": {
