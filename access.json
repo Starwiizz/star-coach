@@ -19,17 +19,16 @@
     ]
   },
   "dev": {
-    "version": "4.6.66",
-    "code": 40666,
-    "build": "b254",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.66/star-coach.apk",
-    "sha256": "224d08b6923e44181e1351ef2ad065866ddbb4e3cbae028d6ebf4f3f6395b97e",
+    "version": "4.6.67",
+    "code": 40667,
+    "build": "b255",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.67/star-coach.apk",
+    "sha256": "bdc1f8a084c3454418667dd308c800d328fea750568c8ae3f32f5190765af7b5",
     "notes": [
-      "Temps estimé et chances : quand tu as déjà fait la distance d’une course sur le même terrain (une course, ou une sortie des 6 derniers mois), ton coach part de ce temps-là. Le refaire, c’est 99 % ; le",
-      "Page d’une course ou d’un défi : « Tes chances » plus courte (le détail et la molette en touchant « Détail »), « Analyse du défi » à la place d’« À surveiller » (barrières passées à l’entraînement, ce",
-      "Plan de course : « à 09h43 » est l’heure, « 4h43 de course » le temps depuis le départ ; l’alimentation de chaque tronçon en flasques de 500 ml (eau + iso) d’après ton poids, la caféine sur un long ef",
-      "« Infos générales » regroupe les dates, les infos trouvées sur internet, le règlement et la trace ; les dates des autres courses de l’événement n’y sont plus.",
-      "Ultra : la molette s’arrête au temps le plus lent que permettent les barrières."
+      "Courses jusqu’au marathon : le trait vert de la barre est la projection de ton coach le jour de la course, si tout va bien (90 %) ; ton record est presque sûr (99 %). Glisse le curseur : le pourcentag",
+      "Page d’une course : la même barre que sur la carte, et un seul temps partout (celui du curseur) ; le plan de course le suit.",
+      "Ultra : sur la page de la course, le trait vert est ta projection et un trait rouge fin marque la limite des barrières (« BH ») ; la carte du défi ne change pas.",
+      "Analyse du défi : ta progression depuis ton record, et des notes utiles pour la course (allure visée déjà courue, plus longue sortie, D+ par semaine)."
     ]
   },
   "ouvert": true
