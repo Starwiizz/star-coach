@@ -19,17 +19,16 @@
     ]
   },
   "dev": {
-    "version": "4.6.60",
-    "code": 40660,
-    "build": "b248",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.60/star-coach.apk",
-    "sha256": "7339059085cffe825b80163dde1fd60ffe80ae8bfd3c705ec8a2eb9442bd2c53",
+    "version": "4.6.61",
+    "code": 40661,
+    "build": "b249",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.61/star-coach.apk",
+    "sha256": "63205cf2ddd2de0e7e994408a0ddb85b8d673c8581fccfd56c265e71f91353ff",
     "notes": [
-      "Comptes rendus : ton coach te parle. Il commence par ce que tu as fait, sans répéter la distance, la durée et le D+ déjà affichés au-dessus.",
-      "La conclusion de chaque compte rendu est écrite comme une phrase : ce que la sortie t’apporte.",
-      "Programme : la carte d’un jour ne s’allonge plus. Deux phrases, puis « Lire le compte rendu › », qui ouvre le texte complet dans une fenêtre.",
-      "Depuis cette fenêtre, « Voir la carte et les courbes › » ouvre la fiche de l’activité.",
-      "Une séance du club ou une séance détaillée l’annonce sous son titre : « Détail de la séance › »."
+      "Règlement d’une course : quand il décrit plusieurs courses, seules les barrières et les ravitos de la tienne sont gardés, même si le nom de l’autre course est écrit dans le nom du lieu. Les points d’u",
+      "Tes chances, ton temps de course, ta stratégie et l’Assistant ne comptent plus les ravitos et les barrières des autres courses.",
+      "Ma forme : plus de fausse baisse de la VO2max ni de l’allure marathon après une mise à jour.",
+      "Comptes rendus : un cardio qui monte à la même allure est signalé, même s’il arrive en fin de sortie, avec un conseil. Ceux des 7 derniers jours sont refaits une fois."
     ]
   },
   "ouvert": true
