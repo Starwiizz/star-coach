@@ -18,16 +18,16 @@
     ]
   },
   "dev": {
-    "version": "4.6.71",
-    "code": 40671,
-    "build": "b259",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.71/star-coach.apk",
-    "sha256": "7e162263eb38207543fb0e1fe8d2358d61986ff3baf7489b8e7026e6f0fc3f20",
+    "version": "4.6.72",
+    "code": 40672,
+    "build": "b260",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.72/star-coach.apk",
+    "sha256": "9d602ed10ba1654dc64879381ee3bd54b88008330108f0ae0ff4e26152fd2d19",
     "notes": [
-      "Séance pour ta course : elle se place à la place de la sortie longue, 8 à 14 jours avant ; elle dépend de la distance, de ton niveau et du terrain (sortie vallonnée pour un trail) ; tu peux la retirer",
-      "Assistant de course : les annonces doivent maintenant arriver téléphone verrouillé (la page reste active pendant une sortie) ; il guide les blocs de la séance ajoutée.",
-      "Plan d’une course en trail : à l’effort, plus à l’allure au kilomètre (marche dans les montées, relance, frontale de nuit).",
-      "Mes progrès : « Analyses de la semaine », sous le bilan, avec l’écart d’une semaine à l’autre."
+      "Démarrage : plus d’Accueil vide qui clignote avant l’arrivée de tes données (un rond de chargement à la place).",
+      "Programme : la page ne travaille plus en boucle en arrière-plan (plus fluide, moins de batterie).",
+      "Réglages : le nombre d’amis affiché est le bon. L’ancien partage entre amis est retiré : refais ta demande d’ami depuis la page Amis.",
+      "Code remis au propre (Accueil, Programme, Amis) : rien ne change à l’écran."
     ]
   },
   "ouvert": true
