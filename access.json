@@ -18,14 +18,15 @@
     ]
   },
   "dev": {
-    "version": "4.6.75",
-    "code": 40675,
-    "build": "b263",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.75/star-coach.apk",
-    "sha256": "2e3fcb4de00d2db1d25bbbcb61891c1d924475e11ceec0804cd525a70df003ae",
+    "version": "4.6.76",
+    "code": 40676,
+    "build": "b264",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.76/star-coach.apk",
+    "sha256": "d017c8ee39fbaa8edcfff96608f0d155914b8f90c878b743f634fbe38cb65c80",
     "notes": [
-      "Démarrage : la page d’origine (boutons du haut avec leurs anciennes émoticônes) ne se voit plus une fraction de seconde au lancement.",
-      "Plan de course d’un ultra : les pastilles d’alimentation sont plus petites, toutes de la même taille, avec les arrondis de ton thème."
+      "Compte rendu d’une séance du club : un bloc composé (15/15 + 20/20 + 30/30) est maintenant reconnu, même fait en partie ; l’appli compte tes efforts, donne leur vitesse en km/h et la compare à celle d",
+      "Si tu es parti trop vite et que la suite n’a pas été faite, le compte rendu le dit et en tire un conseil, avec le repère en mètres.",
+      "Tes comptes rendus des 7 derniers jours sont refaits une fois."
     ]
   },
   "ouvert": true
