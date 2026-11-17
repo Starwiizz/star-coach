@@ -18,16 +18,14 @@
     ]
   },
   "dev": {
-    "version": "4.6.74",
-    "code": 40674,
-    "build": "b262",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.74/star-coach.apk",
-    "sha256": "9e6c038cd026a4ea0d30c332447941328cafd0e0a2eaac9b64f6ea7071d447ac",
+    "version": "4.6.75",
+    "code": 40675,
+    "build": "b263",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.75/star-coach.apk",
+    "sha256": "2e3fcb4de00d2db1d25bbbcb61891c1d924475e11ceec0804cd525a70df003ae",
     "notes": [
-      "Plan de course du 5 km au marathon : les étapes couvrent toute la course, avec le chrono à lire sur ta montre et tes gels placés au kilomètre ; pour un marathon, le mur a son étape.",
-      "Alimentation du plan de course : des pastilles avec leur icône (gel, caféine, eau, iso, solide, salé) à la place du bloc gris, aussi sur un ultra.",
-      "Semi et marathon : « À noter » montre d’abord ta plus longue sortie et ton volume.",
-      "Après une séance dure ou une sortie longue : « Une douleur ? », en un geste. Ton coach ne peut alléger que si tu le lui dis."
+      "Démarrage : la page d’origine (boutons du haut avec leurs anciennes émoticônes) ne se voit plus une fraction de seconde au lancement.",
+      "Plan de course d’un ultra : les pastilles d’alimentation sont plus petites, toutes de la même taille, avec les arrondis de ton thème."
     ]
   },
   "ouvert": true
