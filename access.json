@@ -18,14 +18,15 @@
     ]
   },
   "dev": {
-    "version": "4.6.76",
-    "code": 40676,
-    "build": "b264",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.76/star-coach.apk",
-    "sha256": "d017c8ee39fbaa8edcfff96608f0d155914b8f90c878b743f634fbe38cb65c80",
+    "version": "4.6.77",
+    "code": 40677,
+    "build": "b265",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.77/star-coach.apk",
+    "sha256": "977b2ba0ce399c68584168f03c8640c54991dbb0739c29948b1a0edc2ba633fe",
     "notes": [
-      "Compte rendu d’une séance du club : un bloc composé (15/15 + 20/20 + 30/30) est maintenant reconnu, même fait en partie ; l’appli compte tes efforts, donne leur vitesse en km/h et la compare à celle d",
-      "Si tu es parti trop vite et que la suite n’a pas été faite, le compte rendu le dit et en tire un conseil, avec le repère en mètres.",
+      "Séance sans planning : quand elle contient une série d’efforts courts, le compte rendu la raconte par moments (échauffement, gammes, série en km/h), même si tu ne mets jamais ta montre en pause.",
+      "Quand ta séance s’écarte du planning, ton coach te demande ce qui s’est passé, en un geste ; ta réponse entre dans le compte rendu.",
+      "Cardio : « au-dessus de ta fréquence maximale » n’est signalé que pour une valeur tenue plusieurs secondes.",
       "Tes comptes rendus des 7 derniers jours sont refaits une fois."
     ]
   },
