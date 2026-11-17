@@ -18,16 +18,16 @@
     ]
   },
   "dev": {
-    "version": "4.6.73",
-    "code": 40673,
-    "build": "b261",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.73/star-coach.apk",
-    "sha256": "555625fe8a89b940f3d30f110e5903afcdb15a09354fb7a14364a493534912d4",
+    "version": "4.6.74",
+    "code": 40674,
+    "build": "b262",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.74/star-coach.apk",
+    "sha256": "9e6c038cd026a4ea0d30c332447941328cafd0e0a2eaac9b64f6ea7071d447ac",
     "notes": [
-      "Salle des trophées : ta date d’arrivée est enfin gardée (elle repartait d’aujourd’hui à chaque ouverture, et tes badges avec).",
-      "Programme : un footing est bien étiqueté « Footing » (plus de fausse alerte « deux jours intenses de suite » entre deux footings).",
-      "Programme : quand un footing remplace une séance de qualité, la raison est écrite à côté.",
-      "Analyses de la semaine : « D’une semaine à l’autre » en tableau, avec des flèches vertes ou rouges pour ton niveau et tes séances faites."
+      "Plan de course du 5 km au marathon : les étapes couvrent toute la course, avec le chrono à lire sur ta montre et tes gels placés au kilomètre ; pour un marathon, le mur a son étape.",
+      "Alimentation du plan de course : des pastilles avec leur icône (gel, caféine, eau, iso, solide, salé) à la place du bloc gris, aussi sur un ultra.",
+      "Semi et marathon : « À noter » montre d’abord ta plus longue sortie et ton volume.",
+      "Après une séance dure ou une sortie longue : « Une douleur ? », en un geste. Ton coach ne peut alléger que si tu le lui dis."
     ]
   },
   "ouvert": true
