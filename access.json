@@ -18,16 +18,16 @@
     ]
   },
   "dev": {
-    "version": "4.6.72",
-    "code": 40672,
-    "build": "b260",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.72/star-coach.apk",
-    "sha256": "9d602ed10ba1654dc64879381ee3bd54b88008330108f0ae0ff4e26152fd2d19",
+    "version": "4.6.73",
+    "code": 40673,
+    "build": "b261",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.73/star-coach.apk",
+    "sha256": "555625fe8a89b940f3d30f110e5903afcdb15a09354fb7a14364a493534912d4",
     "notes": [
-      "Démarrage : plus d’Accueil vide qui clignote avant l’arrivée de tes données (un rond de chargement à la place).",
-      "Programme : la page ne travaille plus en boucle en arrière-plan (plus fluide, moins de batterie).",
-      "Réglages : le nombre d’amis affiché est le bon. L’ancien partage entre amis est retiré : refais ta demande d’ami depuis la page Amis.",
-      "Code remis au propre (Accueil, Programme, Amis) : rien ne change à l’écran."
+      "Salle des trophées : ta date d’arrivée est enfin gardée (elle repartait d’aujourd’hui à chaque ouverture, et tes badges avec).",
+      "Programme : un footing est bien étiqueté « Footing » (plus de fausse alerte « deux jours intenses de suite » entre deux footings).",
+      "Programme : quand un footing remplace une séance de qualité, la raison est écrite à côté.",
+      "Analyses de la semaine : « D’une semaine à l’autre » en tableau, avec des flèches vertes ou rouges pour ton niveau et tes séances faites."
     ]
   },
   "ouvert": true
