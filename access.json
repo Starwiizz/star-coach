@@ -6,15 +6,15 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.6.71",
-    "code": 40671,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.71/star-coach.apk",
-    "sha256": "7e162263eb38207543fb0e1fe8d2358d61986ff3baf7489b8e7026e6f0fc3f20",
+    "version": "4.6.74",
+    "code": 40674,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.74/star-coach.apk",
+    "sha256": "9e6c038cd026a4ea0d30c332447941328cafd0e0a2eaac9b64f6ea7071d447ac",
     "notes": [
-      "Séance pour ta course : elle se place à la place de la sortie longue, 8 à 14 jours avant ; elle dépend de la distance, de ton niveau et du terrain (sortie vallonnée pour un trail) ; tu peux la retirer",
-      "Assistant de course : les annonces doivent maintenant arriver téléphone verrouillé (la page reste active pendant une sortie) ; il guide les blocs de la séance ajoutée.",
-      "Plan d’une course en trail : à l’effort, plus à l’allure au kilomètre (marche dans les montées, relance, frontale de nuit).",
-      "Mes progrès : « Analyses de la semaine », sous le bilan, avec l’écart d’une semaine à l’autre."
+      "Plan de course du 5 km au marathon : les étapes couvrent toute la course, avec le chrono à lire sur ta montre et tes gels placés au kilomètre ; pour un marathon, le mur a son étape.",
+      "Alimentation du plan de course : des pastilles avec leur icône (gel, caféine, eau, iso, solide, salé) à la place du bloc gris, aussi sur un ultra.",
+      "Semi et marathon : « À noter » montre d’abord ta plus longue sortie et ton volume.",
+      "Après une séance dure ou une sortie longue : « Une douleur ? », en un geste. Ton coach ne peut alléger que si tu le lui dis."
     ]
   },
   "dev": {
