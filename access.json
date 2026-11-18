@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.82",
-    "code": 40682,
-    "build": "b270",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.82/star-coach.apk",
-    "sha256": "963e93df638949acb00f0a0efabeaa7680d1bb48d55f0b4ffd8f334c84b3b9f5",
+    "version": "4.6.83",
+    "code": 40683,
+    "build": "b271",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.83/star-coach.apk",
+    "sha256": "a4c7b7b05ca1e1cd1bdb0a216c097cbc56663334622e3622c01bd9ed882aa396",
     "notes": [
-      "Un seul programme : le choix Léger / Normal / Intense disparaît. Si tu avais choisi Léger ou Intense, ton coach te montre ce qui change avant de l’appliquer.",
-      "Ton niveau suit ce que tu cours vraiment : si tu cours déjà beaucoup, tes objectifs de km et tes séances dures en tiennent compte. Le rythme des semaines allégées ne change pas.",
-      "Sans club : tes séances de seuil, de VMA et de tempo progressent d’une semaine à l’autre. Pour un ultra : une seule séance dure par semaine, côtes et descentes en alternance.",
-      "Le lendemain d’une course : footing très facile possible après une course courte et plate, repos ou marche sinon.",
-      "Cardio : une valeur tenue 5 secondes compte, même au-dessus de 200. Si elle dépasse ta FC max, ton coach te propose de la mettre à jour ; il ne la change jamais seul."
+      "« Impact sur mon défi » : la fenêtre dit maintenant ce que ton programme affiche vraiment (la veille, le lendemain, les sorties longues qui changent).",
+      "Objectif de km de la semaine : il suit tes séances. Il n’est plus jamais au-dessus de ce que ton programme prévoit.",
+      "Alimentation sur un effort long : après 4 heures, un gel sur deux seulement, un sur trois après 8 heures. Le solide et le salé prennent le relais.",
+      "Plan de course : avec tes produits, ton coach te dit combien de grammes de glucides par heure tu prends, face au repère pour la durée de ta course.",
+      "Mon stock : « Chercher ce produit » remplit la fiche d’après la page du fabricant. Vérifie toujours sur ton emballage."
     ]
   },
   "ouvert": true
