@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.80",
-    "code": 40680,
-    "build": "b268",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.80/star-coach.apk",
-    "sha256": "5e39b3b2553fba83d49b9970eabdde5351f2ffc0896cfa2d0ef00e028b3d2a2f",
+    "version": "4.6.81",
+    "code": 40681,
+    "build": "b269",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.81/star-coach.apk",
+    "sha256": "7d008f1a3454fd7682c2f9fdfee29b007e2ac6c55aea98d6ef6a096e5282123d",
     "notes": [
-      "Compte rendu : quand ton coach n’a pas compris une séance, il ne l’invente plus. Il te pose une question dans la fenêtre de la séance, tu réponds en quelques mots, et le compte rendu est écrit ensuite",
-      "Séance d’efforts courts : le compte rendu analyse tes efforts groupe par groupe (trop vite, dans la consigne, trop lent) et dit comment ils ont évolué du début à la fin.",
-      "« Refaire le compte rendu » est de retour dans la fenêtre du compte rendu, avec la date du texte.",
-      "Alimentation : une seule carte sur l’Accueil. Elle montre ce qu’il te faut pour le mois, ce que tu as, et ce qui manque. Ton stock et le détail par sortie s’ouvrent depuis la carte ; un produit s’ajou",
-      "Carte « Ton coach » : les réponses proposées ont toutes la même largeur."
+      "Sorties longues : ton programme regarde maintenant ce que tu as vraiment couru. Une sortie longue à venir n’est jamais beaucoup plus longue que ta plus longue sortie des huit dernières semaines ; une ",
+      "La sortie longue du dimanche qui précède une course est raccourcie.",
+      "Ton programme peut donc changer à cette mise à jour : seules les sorties longues trop éloignées de ce que tu as couru sont raccourcies.",
+      "Un jour de repos où tu as quand même couru : ta sortie apparaît de nouveau dans ta journée et dans le Programme (elle n’était visible que dans l’Historique).",
+      "Accueil : sous « Aujourd’hui », deux vignettes (Ma forme avec l’état de ta charge, Mes progrès avec ta VO2max) ; titres des cartes à la couleur de ton thème."
     ]
   },
   "ouvert": true
