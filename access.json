@@ -18,17 +18,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.81",
-    "code": 40681,
-    "build": "b269",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.81/star-coach.apk",
-    "sha256": "7d008f1a3454fd7682c2f9fdfee29b007e2ac6c55aea98d6ef6a096e5282123d",
+    "version": "4.6.82",
+    "code": 40682,
+    "build": "b270",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.82/star-coach.apk",
+    "sha256": "963e93df638949acb00f0a0efabeaa7680d1bb48d55f0b4ffd8f334c84b3b9f5",
     "notes": [
-      "Sorties longues : ton programme regarde maintenant ce que tu as vraiment couru. Une sortie longue à venir n’est jamais beaucoup plus longue que ta plus longue sortie des huit dernières semaines ; une ",
-      "La sortie longue du dimanche qui précède une course est raccourcie.",
-      "Ton programme peut donc changer à cette mise à jour : seules les sorties longues trop éloignées de ce que tu as couru sont raccourcies.",
-      "Un jour de repos où tu as quand même couru : ta sortie apparaît de nouveau dans ta journée et dans le Programme (elle n’était visible que dans l’Historique).",
-      "Accueil : sous « Aujourd’hui », deux vignettes (Ma forme avec l’état de ta charge, Mes progrès avec ta VO2max) ; titres des cartes à la couleur de ton thème."
+      "Un seul programme : le choix Léger / Normal / Intense disparaît. Si tu avais choisi Léger ou Intense, ton coach te montre ce qui change avant de l’appliquer.",
+      "Ton niveau suit ce que tu cours vraiment : si tu cours déjà beaucoup, tes objectifs de km et tes séances dures en tiennent compte. Le rythme des semaines allégées ne change pas.",
+      "Sans club : tes séances de seuil, de VMA et de tempo progressent d’une semaine à l’autre. Pour un ultra : une seule séance dure par semaine, côtes et descentes en alternance.",
+      "Le lendemain d’une course : footing très facile possible après une course courte et plate, repos ou marche sinon.",
+      "Cardio : une valeur tenue 5 secondes compte, même au-dessus de 200. Si elle dépasse ta FC max, ton coach te propose de la mettre à jour ; il ne la change jamais seul."
     ]
   },
   "ouvert": true
