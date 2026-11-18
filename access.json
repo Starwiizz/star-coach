@@ -6,15 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.6.74",
-    "code": 40674,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.74/star-coach.apk",
-    "sha256": "9e6c038cd026a4ea0d30c332447941328cafd0e0a2eaac9b64f6ea7071d447ac",
+    "version": "4.6.82",
+    "code": 40682,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.82/star-coach.apk",
+    "sha256": "963e93df638949acb00f0a0efabeaa7680d1bb48d55f0b4ffd8f334c84b3b9f5",
     "notes": [
-      "Plan de course du 5 km au marathon : les étapes couvrent toute la course, avec le chrono à lire sur ta montre et tes gels placés au kilomètre ; pour un marathon, le mur a son étape.",
-      "Alimentation du plan de course : des pastilles avec leur icône (gel, caféine, eau, iso, solide, salé) à la place du bloc gris, aussi sur un ultra.",
-      "Semi et marathon : « À noter » montre d’abord ta plus longue sortie et ton volume.",
-      "Après une séance dure ou une sortie longue : « Une douleur ? », en un geste. Ton coach ne peut alléger que si tu le lui dis."
+      "Un seul programme : le choix Léger / Normal / Intense disparaît. Si tu avais choisi Léger ou Intense, ton coach te montre ce qui change avant de l’appliquer.",
+      "Ton niveau suit ce que tu cours vraiment : si tu cours déjà beaucoup, tes objectifs de km et tes séances dures en tiennent compte. Le rythme des semaines allégées ne change pas.",
+      "Sans club : tes séances de seuil, de VMA et de tempo progressent d’une semaine à l’autre. Pour un ultra : une seule séance dure par semaine, côtes et descentes en alternance.",
+      "Le lendemain d’une course : footing très facile possible après une course courte et plate, repos ou marche sinon.",
+      "Cardio : une valeur tenue 5 secondes compte, même au-dessus de 200. Si elle dépasse ta FC max, ton coach te propose de la mettre à jour ; il ne la change jamais seul."
     ]
   },
   "dev": {
