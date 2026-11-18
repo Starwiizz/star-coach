@@ -18,13 +18,15 @@
     ]
   },
   "dev": {
-    "version": "4.6.78",
-    "code": 40678,
-    "build": "b266",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.78/star-coach.apk",
-    "sha256": "c7936904be05a340f1c274a3cbb2eb5f555ff28bac6ef620c25ba7a7bd93e3ea",
+    "version": "4.6.79",
+    "code": 40679,
+    "build": "b267",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.79/star-coach.apk",
+    "sha256": "aa274ca6cdcf7a42c5275bb10a48b477aa0d5ff837bdde37bf15482705343df5",
     "notes": [
-      "Salle des trophées : tes records de 5 km, 10 km, semi et marathon sont de nouveau cherchés à l’intérieur de tes sorties plus longues (une lecture de ton historique à la première ouverture, puis seulem"
+      "Nouveau : « Mon stock », sur l’Accueil sous « Alimentation à prévoir ». Ajoute tes gels, tes barres, ta boisson, avec leurs parfums et leurs quantités : ton coach te dit ce qu’il te manque pour le moi",
+      "Pour chaque produit, tu notes ce qui est écrit sur l’emballage (glucides, caféine, sodium) : l’appli ne devine jamais ces chiffres.",
+      "Salle des trophées : tes records par distance, jusqu’au marathon, sont de nouveau cherchés à l’intérieur de tes sorties plus longues."
     ]
   },
   "ouvert": true
