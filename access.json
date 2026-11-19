@@ -16,14 +16,14 @@
     ]
   },
   "dev": {
-    "version": "4.6.90",
-    "code": 40690,
-    "build": "b278",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.90/star-coach.apk",
-    "sha256": "dbde1d410dd81b25d3bd01b88d31328ed8115380ca70e6a7a899a148380fec66",
+    "version": "4.6.91",
+    "code": 40691,
+    "build": "b279",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.91/star-coach.apk",
+    "sha256": "fad0bbf548ce4cd3dd249c6468c21a4fee7b9b433784303dd018f41eb3960493",
     "notes": [
-      "Alimentation : une boisson d’électrolytes sans glucides ne compte plus comme une dose de boisson isotonique. Elle reste dans ton stock, avec l’icône de l’eau.",
-      "Le code de l’appli continue d’être rangé : rien d’autre ne change pour toi."
+      "Compte rendu d’une séance en pyramide (1, 2, 3, 5, 3, 2, 1 minutes) : les efforts sont retrouvés à leur vraie place. Si un compte rendu te paraît faux, « Refaire le compte rendu » refait aussi le déco",
+      "Photo d’un produit : quand ta réserve d’IA du jour est vide, l’appli te le dit clairement au lieu de « Lecture impossible »."
     ]
   },
   "ouvert": true,
