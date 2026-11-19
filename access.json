@@ -19,17 +19,14 @@
     ]
   },
   "dev": {
-    "version": "4.6.83",
-    "code": 40683,
-    "build": "b271",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.83/star-coach.apk",
-    "sha256": "a4c7b7b05ca1e1cd1bdb0a216c097cbc56663334622e3622c01bd9ed882aa396",
+    "version": "4.6.84",
+    "code": 40684,
+    "build": "b272",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.84/star-coach.apk",
+    "sha256": "fef8883308a608dc13752aeacc82aaa7e322b775bc37ccb28b3b36594a1f086b",
     "notes": [
-      "« Impact sur mon défi » : la fenêtre dit maintenant ce que ton programme affiche vraiment (la veille, le lendemain, les sorties longues qui changent).",
-      "Objectif de km de la semaine : il suit tes séances. Il n’est plus jamais au-dessus de ce que ton programme prévoit.",
-      "Alimentation sur un effort long : après 4 heures, un gel sur deux seulement, un sur trois après 8 heures. Le solide et le salé prennent le relais.",
-      "Plan de course : avec tes produits, ton coach te dit combien de grammes de glucides par heure tu prends, face au repère pour la durée de ta course.",
-      "Mon stock : « Chercher ce produit » remplit la fiche d’après la page du fabricant. Vérifie toujours sur ton emballage."
+      "Rien ne change pour toi dans cette version : le code de l’appli a été rangé (réglages, « Demander », programme, fiche d’une activité, planning du club, affûtage).",
+      "Si un écran ne se comporte plus comme avant, dis-le par « Donner mon avis »."
     ]
   },
   "ouvert": true
