@@ -26,5 +26,9 @@
       "Le code de l’appli continue d’être rangé : rien d’autre ne change pour toi."
     ]
   },
-  "ouvert": true
+  "ouvert": true,
+  "ia": {
+    "max": 60,
+    "maxNew": 120
+  }
 }
