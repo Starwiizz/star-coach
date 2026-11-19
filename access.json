@@ -28,7 +28,7 @@
   },
   "ouvert": true,
   "ia": {
-    "max": 60,
+    "max": 120,
     "maxNew": 120
   }
 }
