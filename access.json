@@ -19,16 +19,14 @@
     ]
   },
   "dev": {
-    "version": "4.6.87",
-    "code": 40687,
-    "build": "b275",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.87/star-coach.apk",
-    "sha256": "b934ccc516145d68056b727a4898420516a76d783cb2b35561fd0c2b56d759d3",
+    "version": "4.6.88",
+    "code": 40688,
+    "build": "b276",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.88/star-coach.apk",
+    "sha256": "24bfb297f7a3a10a8aaaf79bf23ce20dc804d0443d0931ece4a02026c96db60a",
     "notes": [
-      "Sorties longues et trails : leur durée est maintenant celle du chrono de ta montre (avant : le temps « en mouvement », plus court en trail). Tes prévisions de course longue suivent cette vraie durée :",
-      "Chances de finir une très longue course : la projection ne descend plus jamais sous ce que tu as déjà couru.",
-      "Temps prévu d’une longue course : le temps passé aux ravitos monte en douceur avec la distance, sans saut.",
-      "Mon stock : la poubelle est plus discrète, dans le coin de chaque produit."
+      "Tu prépares une course avec du dénivelé : un footing de la semaine devient « footing vallonné » (même durée, même intensité, sur un terrain avec du relief). Jamais la veille d’une séance dure, de ta s",
+      "Kilomètres annoncés pour tes sorties longues : ils suivent ta VMA et le relief de ta course, sans saut. La durée reste le repère."
     ]
   },
   "ouvert": true
