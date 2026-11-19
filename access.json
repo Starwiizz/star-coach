@@ -19,14 +19,16 @@
     ]
   },
   "dev": {
-    "version": "4.6.84",
-    "code": 40684,
-    "build": "b272",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.84/star-coach.apk",
-    "sha256": "fef8883308a608dc13752aeacc82aaa7e322b775bc37ccb28b3b36594a1f086b",
+    "version": "4.6.85",
+    "code": 40685,
+    "build": "b273",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.85/star-coach.apk",
+    "sha256": "dfa322f60b05eb3c90f98a556ee1778c9f40f87fb1276af0b0c068ecd0da8170",
     "notes": [
-      "Rien ne change pour toi dans cette version : le code de l’appli a été rangé (réglages, « Demander », programme, fiche d’une activité, planning du club, affûtage).",
-      "Si un écran ne se comporte plus comme avant, dis-le par « Donner mon avis »."
+      "Ajouter un produit : prends en photo le devant du produit, ton coach lit son nom et cherche ses valeurs. Tu vérifies, puis tu enregistres. Si le parfum n’est pas lisible, il te le demande.",
+      "Fiche d’un produit : calories et électrolytes en plus.",
+      "Séance de qualité de ton programme : son titre est maintenant la séance elle-même (par exemple « 3 × 8 × 30/30 »), et l’échauffement, la récupération et le retour au calme sont écrits dessous.",
+      "Carte repliée d’un jour de repos : ton activité porte le même nom en français que sur la carte ouverte."
     ]
   },
   "ouvert": true
