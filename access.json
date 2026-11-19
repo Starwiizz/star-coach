@@ -19,16 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.85",
-    "code": 40685,
-    "build": "b273",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.85/star-coach.apk",
-    "sha256": "dfa322f60b05eb3c90f98a556ee1778c9f40f87fb1276af0b0c068ecd0da8170",
+    "version": "4.6.86",
+    "code": 40686,
+    "build": "b274",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.86/star-coach.apk",
+    "sha256": "02257db0f99d889c9713afe0308ed88fcd6919a2229aa616020c30a31f1782e8",
     "notes": [
-      "Ajouter un produit : prends en photo le devant du produit, ton coach lit son nom et cherche ses valeurs. Tu vérifies, puis tu enregistres. Si le parfum n’est pas lisible, il te le demande.",
-      "Fiche d’un produit : calories et électrolytes en plus.",
-      "Séance de qualité de ton programme : son titre est maintenant la séance elle-même (par exemple « 3 × 8 × 30/30 »), et l’échauffement, la récupération et le retour au calme sont écrits dessous.",
-      "Carte repliée d’un jour de repos : ton activité porte le même nom en français que sur la carte ouverte."
+      "Mon stock : une poubelle sur chaque produit pour le supprimer ; le lien de la carte s’appelle « Gérer mon stock ».",
+      "Photo d’un produit : un second essai tout seul avant de dire que rien n’a été trouvé ; les gommes sont rangées avec les solides ; le nom est écrit d’une seule façon ; un autre parfum d’un produit déjà",
+      "Cardio : quand ta montre a enregistré plus haut que ce que l’appli affichait (valeur coupée à ta FC max), l’appli relit le fichier de ta montre. Si tu as tenu plus haut que ta FC max pendant plusieurs",
+      "Alimentation sur un effort de plus de 5 heures : avec tes produits, ton coach te dit aussi combien de calories par heure tu prends. Pour aller plus loin, vois un nutritionniste du sport.",
+      "Séance du club faite autrement que prévu (par exemple l’entraîneur change les blocs sur place) : ton coach te pose la question avant d’écrire le compte rendu, au lieu de conclure qu’il manque des bloc"
     ]
   },
   "ouvert": true
