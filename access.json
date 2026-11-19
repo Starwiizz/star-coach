@@ -16,13 +16,14 @@
     ]
   },
   "dev": {
-    "version": "4.6.92",
-    "code": 40692,
-    "build": "b280",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.92/star-coach.apk",
-    "sha256": "1bdeaa5f1ceac4b92d025d8ddfbf65453cf88a21f6607bef6b56f20de79047c9",
+    "version": "4.6.93",
+    "code": 40693,
+    "build": "b281",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.93/star-coach.apk",
+    "sha256": "6a739662036933231169fb3d0c649e0adc93641367ea62e86531b8e3fd77c58f",
     "notes": [
-      "Réserve d’IA : quand elle est relevée en cours de journée, ton téléphone en tient compte tout de suite (avant : seulement après minuit)."
+      "Compte rendu d’une pyramide : un effort n’est plus jamais placé dans une pause de ta montre. Si ton compte rendu de la pyramide te paraît faux, touche « Refaire le compte rendu ».",
+      "Réserve d’IA : quand elle est relevée en cours de journée, ton téléphone en tient compte tout de suite."
     ]
   },
   "ouvert": true,
