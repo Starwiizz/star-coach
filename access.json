@@ -16,14 +16,14 @@
     ]
   },
   "dev": {
-    "version": "4.6.89",
-    "code": 40689,
-    "build": "b277",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.89/star-coach.apk",
-    "sha256": "6b50e9f519aadc1c2df53e8b4b84de79e604a1cebf45550192fb03ec142242de",
+    "version": "4.6.90",
+    "code": 40690,
+    "build": "b278",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.90/star-coach.apk",
+    "sha256": "dbde1d410dd81b25d3bd01b88d31328ed8115380ca70e6a7a899a148380fec66",
     "notes": [
-      "Photo d’un produit : ce qui est écrit en gros sur l’emballage (caféine, glucides, BCAA, électrolytes) est lu directement sur ta photo. Plus besoin de remplir la caféine à la main quand elle y est écri",
-      "Les parfums ajoutés par une photo commencent par une majuscule."
+      "Alimentation : une boisson d’électrolytes sans glucides ne compte plus comme une dose de boisson isotonique. Elle reste dans ton stock, avec l’icône de l’eau.",
+      "Le code de l’appli continue d’être rangé : rien d’autre ne change pour toi."
     ]
   },
   "ouvert": true
