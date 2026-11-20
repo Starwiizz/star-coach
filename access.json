@@ -16,17 +16,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.94",
-    "code": 40694,
-    "build": "b282",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.94/star-coach.apk",
-    "sha256": "fa7ee89b5dc2c3ba3803700b9206192ffe41a4990af5a44940b9dfefda820fc7",
+    "version": "4.6.95",
+    "code": 40695,
+    "build": "b283",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.95/star-coach.apk",
+    "sha256": "e54c8f442dc8b2c1f8979224c0a12bf2289ac75596d97fa76e68409513c2a8e3",
     "notes": [
-      "Assistant de course refait : 2 séances et 2 courses sur l’accueil, « Voix seulement avec un casque » sur le départ, « Choisir une trace » et « Choisir un lièvre » (ton plan de course, les barrières ho",
-      "« Assistant complet » en tête des réglages de l’assistance : un coach à la voix qui suit toute ta sortie (séance, allure, cardio avec une ceinture, terrain avec une trace). Les annonces sont plus natu",
-      "« Suivre mon plan d’alimentation » : en course, l’Assistant te dit tes gels (caféine comprise), le solide, le salé et les flasques à remplir aux ravitos, comme ton plan de course ; la montre est toujo",
-      "En course : ce qui est fait à gauche, ce qui reste à droite (distance et D+), le prochain gel, le prochain ravito et le suivant ; « Partager ma position », et « Couper le partage » quand tes proches t",
-      "Sécurité : « Appeler un proche en cas de chute » (choc puis immobile, ou appui de 3 s sur « J’ai un problème ») : alarme et 30 s pour annuler, puis appel. Ne remplace pas le 112."
+      "Sorties longues sans saut : une sortie longue ne dépasse jamais de plus de 30 min la plus longue des 4 semaines d’avant (tes sorties, tes courses, ton programme) ; quand elle est raccourcie, la montée",
+      "Séance du club au choix (« footing ou séance allure… ») : ton coach te demande laquelle tu fais, ou « Je n’y vais pas » ; ton choix devient la séance du jour partout.",
+      "Assistant : la trace et le lièvre choisis sont gardés avec chaque sortie (sortie longue, course, séance spéciale), comme ses annonces : le jour J, tout est prêt.",
+      "Assistant : avant le départ d’une course, la même carte « Plan de course » qu’Infos course ; en course, la carte se centre tout de suite sur toi ; plus de conseils en haut du départ ; « Capteur cardio",
+      "Binôme et « Vos sorties longues » : les étiquettes de la page Programme, la durée seulement pour les footings et les sorties longues ; la durée et les sorties longues de ton ami s’affichent (elles éta"
     ]
   },
   "ouvert": true,
