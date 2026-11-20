@@ -16,14 +16,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.93",
-    "code": 40693,
-    "build": "b281",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.93/star-coach.apk",
-    "sha256": "6a739662036933231169fb3d0c649e0adc93641367ea62e86531b8e3fd77c58f",
+    "version": "4.6.94",
+    "code": 40694,
+    "build": "b282",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.94/star-coach.apk",
+    "sha256": "fa7ee89b5dc2c3ba3803700b9206192ffe41a4990af5a44940b9dfefda820fc7",
     "notes": [
-      "Compte rendu d’une pyramide : un effort n’est plus jamais placé dans une pause de ta montre. Si ton compte rendu de la pyramide te paraît faux, touche « Refaire le compte rendu ».",
-      "Réserve d’IA : quand elle est relevée en cours de journée, ton téléphone en tient compte tout de suite."
+      "Assistant de course refait : 2 séances et 2 courses sur l’accueil, « Voix seulement avec un casque » sur le départ, « Choisir une trace » et « Choisir un lièvre » (ton plan de course, les barrières ho",
+      "« Assistant complet » en tête des réglages de l’assistance : un coach à la voix qui suit toute ta sortie (séance, allure, cardio avec une ceinture, terrain avec une trace). Les annonces sont plus natu",
+      "« Suivre mon plan d’alimentation » : en course, l’Assistant te dit tes gels (caféine comprise), le solide, le salé et les flasques à remplir aux ravitos, comme ton plan de course ; la montre est toujo",
+      "En course : ce qui est fait à gauche, ce qui reste à droite (distance et D+), le prochain gel, le prochain ravito et le suivant ; « Partager ma position », et « Couper le partage » quand tes proches t",
+      "Sécurité : « Appeler un proche en cas de chute » (choc puis immobile, ou appui de 3 s sur « J’ai un problème ») : alarme et 30 s pour annuler, puis appel. Ne remplace pas le 112."
     ]
   },
   "ouvert": true,
