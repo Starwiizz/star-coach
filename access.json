@@ -16,13 +16,15 @@
     ]
   },
   "dev": {
-    "version": "4.6.96",
-    "code": 40696,
-    "build": "b284",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.96/star-coach.apk",
-    "sha256": "b779c8b979a5fb2092d53d56bccf9c24132069e06b79555c515a4d7e8c6f607e",
+    "version": "4.6.97",
+    "code": 40697,
+    "build": "b285",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.97/star-coach.apk",
+    "sha256": "42f3c9707423ece2cd731fdb3e2e7c99bd9f008bf53db5c5f6236a5485b049f6",
     "notes": [
-      "Amis sur une seule page : tes amis en haut ; l’ami choisi a tout son détail juste en dessous : le suivre s’il court, vos deux semaines côte à côte, vos sorties longues des 4 prochaines semaines, son d"
+      "Amis : ta semaine et celle de ton ami en deux bandeaux, une icône par séance et un trait vert les jours où vous courez ensemble ; touche un jour pour voir vos séances, « Je viens » ou « On court ensem",
+      "Vos sorties longues des 4 prochaines semaines en barres côte à côte, avec la durée et le D+ ; le même jour, « Partir ensemble ? » avec la partie commune et qui continue.",
+      "Une séance du club n’affiche plus de durée dans Amis."
     ]
   },
   "ouvert": true,
