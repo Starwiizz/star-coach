@@ -16,17 +16,13 @@
     ]
   },
   "dev": {
-    "version": "4.6.95",
-    "code": 40695,
-    "build": "b283",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.95/star-coach.apk",
-    "sha256": "e54c8f442dc8b2c1f8979224c0a12bf2289ac75596d97fa76e68409513c2a8e3",
+    "version": "4.6.96",
+    "code": 40696,
+    "build": "b284",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.96/star-coach.apk",
+    "sha256": "b779c8b979a5fb2092d53d56bccf9c24132069e06b79555c515a4d7e8c6f607e",
     "notes": [
-      "Sorties longues sans saut : une sortie longue ne dépasse jamais de plus de 30 min la plus longue des 4 semaines d’avant (tes sorties, tes courses, ton programme) ; quand elle est raccourcie, la montée",
-      "Séance du club au choix (« footing ou séance allure… ») : ton coach te demande laquelle tu fais, ou « Je n’y vais pas » ; ton choix devient la séance du jour partout.",
-      "Assistant : la trace et le lièvre choisis sont gardés avec chaque sortie (sortie longue, course, séance spéciale), comme ses annonces : le jour J, tout est prêt.",
-      "Assistant : avant le départ d’une course, la même carte « Plan de course » qu’Infos course ; en course, la carte se centre tout de suite sur toi ; plus de conseils en haut du départ ; « Capteur cardio",
-      "Binôme et « Vos sorties longues » : les étiquettes de la page Programme, la durée seulement pour les footings et les sorties longues ; la durée et les sorties longues de ton ami s’affichent (elles éta"
+      "Amis sur une seule page : tes amis en haut ; l’ami choisi a tout son détail juste en dessous : le suivre s’il court, vos deux semaines côte à côte, vos sorties longues des 4 prochaines semaines, son d"
     ]
   },
   "ouvert": true,
