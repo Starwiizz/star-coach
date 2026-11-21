@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.7",
-    "code": 40707,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.7/star-coach.apk",
-    "sha256": "132ffb5392ca4cfae2fe1f09e596336886b1d702c74870371cbdc7dbfbeb9cd2",
+    "version": "4.7.8",
+    "code": 40708,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.8/star-coach.apk",
+    "sha256": "eb83c0e5471be6cf460986ab6044d47ece6c1262df169e35ce0450a00f7d6167",
     "notes": [
-      "Nouveau coureur : « Voici ce que je retiens » montre la VMA utilisée ; ce que ton bilan estime (VMA, FC max) t’est demandé à cette étape, et les chronos trouvés dans ta montre (5 km, 10 km, semi, mara",
+      "Trace GPX d’une course : chaque ravito et barrière est posé à son vrai kilomètre sur la carte et le profil, et l’Assistant suit ta position au bon kilomètre (avant : plusieurs kilomètres trop loin en ",
+      "Nouveau coureur : « Voici ce que je retiens » montre la VMA utilisée ; ce que ton bilan estime (VMA, FC max) t’est demandé à cette étape, et les chronos trouvés dans ta montre (distances de course) so",
       "Nouveau coureur : la semaine où tu crées ton programme, les jours d’avant n’ont plus de séance prévue inventée, et plus de conseil de volume pour cette semaine-là.",
       "Plus de jours de club par défaut : tes sorties du mardi et du jeudi soir ne deviennent des séances du club que si tu as un club ces jours-là.",
-      "Parcours : un écran plus long que le téléphone défile (avant : la fin était coupée).",
-      "Plan de course : une marge d’avance sur une barrière s’écrit en vert, un retard en rouge (pareil dans l’Assistant en course)."
+      "Parcours : un écran plus long que le téléphone défile (avant : la fin était coupée)."
     ]
   },
   "dev": {
