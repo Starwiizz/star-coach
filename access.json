@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.7.6",
-    "code": 40706,
-    "build": "b294",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.6/star-coach.apk",
-    "sha256": "24a147e16bb6a5b23bd3ef78a3eb603c2d505cd0de5ab82a68c42d6354a476ad",
+    "version": "4.7.7",
+    "code": 40707,
+    "build": "b295",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.7/star-coach.apk",
+    "sha256": "132ffb5392ca4cfae2fe1f09e596336886b1d702c74870371cbdc7dbfbeb9cd2",
     "notes": [
-      "Amis, « Vos sorties longues » : touche un dimanche pour l’ouvrir dans vos deux semaines, avec « Je te rejoins » et « Tu me rejoins ? ».",
-      "Le rappel « Demain : sortie longue » de la veille suit ta vraie journée : plus de rappel quand la sortie longue est remplacée (séance du club, séance partagée avec un ami), et un seul rappel au lieu d",
-      "Amis : dans la fiche de chaque ami, « Mon contact de secours » (si tu chutes pendant une sortie, son téléphone sonne comme le tien, même appli fermée, avec ta position) et « Prévenir quand je pars cou",
-      "Quand un ami qui t’a choisi part courir, ton téléphone te le dit, même appli fermée ; s’il partage sa position avec toi, la notification ouvre son suivi en direct.",
-      "Réglages de l’assistance : « Essayer l’alerte chez mes contacts de secours », pour vérifier que leur téléphone sonne, sans tomber."
+      "Nouveau coureur : « Voici ce que je retiens » montre la VMA utilisée ; ce que ton bilan estime (VMA, FC max) t’est demandé à cette étape, et les chronos trouvés dans ta montre (5 km, 10 km, semi, mara",
+      "Nouveau coureur : la semaine où tu crées ton programme, les jours d’avant n’ont plus de séance prévue inventée, et plus de conseil de volume pour cette semaine-là.",
+      "Plus de jours de club par défaut : tes sorties du mardi et du jeudi soir ne deviennent des séances du club que si tu as un club ces jours-là.",
+      "Parcours : un écran plus long que le téléphone défile (avant : la fin était coupée).",
+      "Plan de course : une marge d’avance sur une barrière s’écrit en vert, un retard en rouge (pareil dans l’Assistant en course)."
     ]
   },
   "ouvert": true,
