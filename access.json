@@ -6,16 +6,14 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.6.98",
-    "code": 40698,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.98/star-coach.apk",
-    "sha256": "12d080ac5ffec8af68f37b4c986e9a2981e2e44a7e649df35fde949a8ca4af73",
+    "version": "4.6.99",
+    "code": 40699,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.99/star-coach.apk",
+    "sha256": "72cbc01f9eaa65197a15a32a0735ccb0fbc83b59d508a0f5a7497ed7c2ad118e",
     "notes": [
-      "Amis sur une seule page : tes amis en haut ; pour l’ami choisi, vos deux semaines en deux bandeaux (une icône par séance, un trait vert les jours où vous courez ensemble) et vos sorties longues des 4 ",
-      "Touche un jour : « Je te rejoins » prévient ton ami que tu viens à sa séance, « Tu me rejoins ? » l’invite à la tienne, « Je ne viens plus » pour te désister. Deux séances ce jour-là : tu choisis laqu",
-      "Une invitation reçue arrive en notification et en haut de vos deux semaines (« Oui, j’y vais » ou « Pas cette fois ») ; un point rouge sur Amis tant qu’elle attend ta réponse.",
-      "Vos sorties longues le même jour : « Partir ensemble ? » montre la partie commune et qui continue.",
-      "Assistant de course : ce que tu prépares pour une sortie longue, une course ou une séance spéciale (trace, lièvre, annonces) est gardé avec elle pour le jour J ; plan de course identique à celui d’Inf"
+      "Sécurité de l’IA : ton téléphone a son propre code secret (créé tout seul, jamais dans tes sauvegardes) ; personne d’autre ne peut se servir de ta réserve d’IA du jour.",
+      "Programme : « Demain : sortie longue » n’apparaît que si demain porte vraiment la sortie longue, avec sa durée.",
+      "Règlement d’une course : l’heure de départ lue dans le PDF est récrite par l’appli (HH:MM)."
     ]
   },
   "dev": {
