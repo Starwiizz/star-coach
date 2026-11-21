@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.0",
-    "code": 40700,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.0/star-coach.apk",
-    "sha256": "996702d86dc7415aaad5539363a5ece3acf16204677e6a42da9b29f14fa674ec",
+    "version": "4.7.1",
+    "code": 40701,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.1/star-coach.apk",
+    "sha256": "6cd79bd4ae7050ba839d5ec7d4b11b23cbed382c5702cdd53870fbf8f50c15a2",
     "notes": [
-      "VO2max : un seul chiffre, calculé d’après ton meilleur chrono récent. Au toucher : ton niveau pour ton âge, le chrono qui te ferait passer au niveau suivant et ta tendance.",
-      "Tes chances d’un ultra : le pourcentage à côté du temps n’apparaît que quand tu déplaces le curseur, avec son sens écrit (« en 14h00 ou moins »).",
-      "Sorties longues : la page et l’objectif de D+ de la semaine suivent ce qui est vraiment prévu chaque jour (sortie remplacée, douleur).",
-      "VMA : celle qu’estime ton bilan t’est proposée par ton coach ; elle ne change que si tu dis oui.",
-      "Reprise après 14 à 20 jours sans courir : ta première sortie longue repart aux trois quarts de ta plus longue d’avant l’arrêt, puis remonte d’une demi-heure par semaine au plus."
+      "Ultra avec barrières horaires : ta carte et la page affichent ton objectif, le temps où tu as le plus de chances de finir dans les barrières, avec un seul chiffre (le plus haut de ta fourchette). Quan",
+      "Le temps probable de ta course reste dans le plan de course et l’analyse.",
+      "Compte rendu d’un circuit du club : les tours retrouvés avec le temps de chaque montée. Pour la séance du 12/11 : « Refaire le compte rendu ».",
+      "Sorties longues : le texte du réglage Défi / Libres est sous le réglage.",
+      "Chute pendant une sortie : l’alarme passe devant l’écran verrouillé, sans le déverrouiller, avec la sonnerie d’alarme du téléphone ; « Je vais bien » se touche sans code ; sans réponse, l’appel part a"
     ]
   },
   "dev": {
