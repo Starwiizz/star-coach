@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.7.5",
-    "code": 40705,
-    "build": "b293",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.5/star-coach.apk",
-    "sha256": "a48777241ea5d13df2b96bfb30dc6101d612720b06186a14a15ef90e89cd8807",
+    "version": "4.7.6",
+    "code": 40706,
+    "build": "b294",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.6/star-coach.apk",
+    "sha256": "24a147e16bb6a5b23bd3ef78a3eb603c2d505cd0de5ab82a68c42d6354a476ad",
     "notes": [
+      "Amis, « Vos sorties longues » : touche un dimanche pour l’ouvrir dans vos deux semaines, avec « Je te rejoins » et « Tu me rejoins ? ».",
       "Le rappel « Demain : sortie longue » de la veille suit ta vraie journée : plus de rappel quand la sortie longue est remplacée (séance du club, séance partagée avec un ami), et un seul rappel au lieu d",
       "Amis : dans la fiche de chaque ami, « Mon contact de secours » (si tu chutes pendant une sortie, son téléphone sonne comme le tien, même appli fermée, avec ta position) et « Prévenir quand je pars cou",
       "Quand un ami qui t’a choisi part courir, ton téléphone te le dit, même appli fermée ; s’il partage sa position avec toi, la notification ouvre son suivi en direct.",
-      "Réglages de l’assistance : « Essayer l’alerte chez mes contacts de secours », pour vérifier que leur téléphone sonne, sans tomber.",
-      "Appel d’un proche en cas de chute : un SMS avec ta position part juste avant l’appel, et pendant l’appel le haut-parleur répète que tu as peut-être chuté (Android te demande l’autorisation « SMS »)."
+      "Réglages de l’assistance : « Essayer l’alerte chez mes contacts de secours », pour vérifier que leur téléphone sonne, sans tomber."
     ]
   },
   "ouvert": true,
