@@ -17,15 +17,17 @@
     ]
   },
   "dev": {
-    "version": "4.6.99",
-    "code": 40699,
-    "build": "b287",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.99/star-coach.apk",
-    "sha256": "72cbc01f9eaa65197a15a32a0735ccb0fbc83b59d508a0f5a7497ed7c2ad118e",
+    "version": "4.7.0",
+    "code": 40700,
+    "build": "b288",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.0/star-coach.apk",
+    "sha256": "996702d86dc7415aaad5539363a5ece3acf16204677e6a42da9b29f14fa674ec",
     "notes": [
-      "Sécurité de l’IA : ton téléphone a son propre code secret (créé tout seul, jamais dans tes sauvegardes) ; personne d’autre ne peut se servir de ta réserve d’IA du jour.",
-      "Programme : « Demain : sortie longue » n’apparaît que si demain porte vraiment la sortie longue, avec sa durée.",
-      "Règlement d’une course : l’heure de départ lue dans le PDF est récrite par l’appli (HH:MM)."
+      "VO2max : un seul chiffre, calculé d’après ton meilleur chrono récent. Au toucher : ton niveau pour ton âge, le chrono qui te ferait passer au niveau suivant et ta tendance.",
+      "Tes chances d’un ultra : le pourcentage à côté du temps n’apparaît que quand tu déplaces le curseur, avec son sens écrit (« en 14h00 ou moins »).",
+      "Sorties longues : la page et l’objectif de D+ de la semaine suivent ce qui est vraiment prévu chaque jour (sortie remplacée, douleur).",
+      "VMA : celle qu’estime ton bilan t’est proposée par ton coach ; elle ne change que si tu dis oui.",
+      "Reprise après 14 à 20 jours sans courir : ta première sortie longue repart aux trois quarts de ta plus longue d’avant l’arrêt, puis remonte d’une demi-heure par semaine au plus."
     ]
   },
   "ouvert": true,
