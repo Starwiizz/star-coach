@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.1",
-    "code": 40701,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.1/star-coach.apk",
-    "sha256": "6cd79bd4ae7050ba839d5ec7d4b11b23cbed382c5702cdd53870fbf8f50c15a2",
+    "version": "4.7.2",
+    "code": 40702,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.2/star-coach.apk",
+    "sha256": "c9b6270654f7fc636f24a408e1aa444fb5d873c5a9d3cadbe63a311323c932f3",
     "notes": [
+      "Tes chances d’un ultra : la page s’ouvre toujours sur ton objectif, le même que la carte. Le curseur sert à tester un temps ; il n’est plus gardé.",
       "Ultra avec barrières horaires : ta carte et la page affichent ton objectif, le temps où tu as le plus de chances de finir dans les barrières, avec un seul chiffre (le plus haut de ta fourchette). Quan",
       "Le temps probable de ta course reste dans le plan de course et l’analyse.",
       "Compte rendu d’un circuit du club : les tours retrouvés avec le temps de chaque montée. Pour la séance du 12/11 : « Refaire le compte rendu ».",
-      "Sorties longues : le texte du réglage Défi / Libres est sous le réglage.",
-      "Chute pendant une sortie : l’alarme passe devant l’écran verrouillé, sans le déverrouiller, avec la sonnerie d’alarme du téléphone ; « Je vais bien » se touche sans code ; sans réponse, l’appel part a"
+      "Sorties longues : le texte du réglage Défi / Libres est sous le réglage."
     ]
   },
   "dev": {
