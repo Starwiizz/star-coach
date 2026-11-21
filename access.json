@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.3",
-    "code": 40703,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.3/star-coach.apk",
-    "sha256": "6b366d6918821cfa3b34a9194d05c103f04cdc78d8d21578cb6e8d4d67b86519",
+    "version": "4.7.4",
+    "code": 40704,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.4/star-coach.apk",
+    "sha256": "042cb9dc5e4374f6bbd6a169a922e984e7bd13e348ada24e8e88d737f166b353",
     "notes": [
-      "Amis : à l’ouverture, la semaine en cours (plus la suivante dès le vendredi).",
-      "Amis : une invitation à laquelle tu as répondu disparaît.",
-      "Une pastille sur Amis, en bas, quand quelque chose t’attend : une invitation, une demande d’ami, ou un ami qui court en ce moment.",
-      "Suivi en direct d’un ami : une vraie carte avec sa position, et « Itinéraire jusqu’à lui ».",
-      "Sorties longues de ton ami : si ton appli les avait lues avant ta mise à jour, elle lui demande de les renvoyer."
+      "Amis : dans la fiche de chaque ami, « Mon contact de secours » (si tu chutes pendant une sortie, son téléphone sonne comme le tien, même appli fermée, avec ta position) et « Prévenir quand je pars cou",
+      "Quand un ami qui t’a choisi part courir, ton téléphone te le dit, même appli fermée ; s’il partage sa position avec toi, la notification ouvre son suivi en direct.",
+      "Réglages de l’assistance : « Essayer l’alerte chez mes contacts de secours », pour vérifier que leur téléphone sonne, sans tomber.",
+      "Appel d’un proche en cas de chute : un SMS avec ta position part juste avant l’appel, et pendant l’appel le haut-parleur répète que tu as peut-être chuté (Android te demande l’autorisation « SMS »).",
+      "Amis : à l’ouverture, la semaine en cours (plus la suivante dès le vendredi)."
     ]
   },
   "dev": {
