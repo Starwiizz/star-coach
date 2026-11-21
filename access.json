@@ -6,13 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.6.93",
-    "code": 40693,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.93/star-coach.apk",
-    "sha256": "6a739662036933231169fb3d0c649e0adc93641367ea62e86531b8e3fd77c58f",
+    "version": "4.6.98",
+    "code": 40698,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.6.98/star-coach.apk",
+    "sha256": "12d080ac5ffec8af68f37b4c986e9a2981e2e44a7e649df35fde949a8ca4af73",
     "notes": [
-      "Compte rendu d’une pyramide : un effort n’est plus jamais placé dans une pause de ta montre. Si ton compte rendu de la pyramide te paraît faux, touche « Refaire le compte rendu ».",
-      "Réserve d’IA : quand elle est relevée en cours de journée, ton téléphone en tient compte tout de suite."
+      "Amis sur une seule page : tes amis en haut ; pour l’ami choisi, vos deux semaines en deux bandeaux (une icône par séance, un trait vert les jours où vous courez ensemble) et vos sorties longues des 4 ",
+      "Touche un jour : « Je te rejoins » prévient ton ami que tu viens à sa séance, « Tu me rejoins ? » l’invite à la tienne, « Je ne viens plus » pour te désister. Deux séances ce jour-là : tu choisis laqu",
+      "Une invitation reçue arrive en notification et en haut de vos deux semaines (« Oui, j’y vais » ou « Pas cette fois ») ; un point rouge sur Amis tant qu’elle attend ta réponse.",
+      "Vos sorties longues le même jour : « Partir ensemble ? » montre la partie commune et qui continue.",
+      "Assistant de course : ce que tu prépares pour une sortie longue, une course ou une séance spéciale (trace, lièvre, annonces) est gardé avec elle pour le jour J ; plan de course identique à celui d’Inf"
     ]
   },
   "dev": {
