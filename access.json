@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.7.11",
-    "code": 40711,
-    "build": "b299",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.11/star-coach.apk",
-    "sha256": "ee5ab147130ae5b845088e1ab89e7f247154820a0b994774bf2b644c16469f8f",
+    "version": "4.7.12",
+    "code": 40712,
+    "build": "b300",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.12/star-coach.apk",
+    "sha256": "421eec7aa42af5b94a269c94c452ea0632d80b94bc90c7922f2ea6563c954f22",
     "notes": [
-      "Assistant, en course : la carte « Plan de course » d’Infos course, mise à jour en direct : ravitos passés à leur heure réelle, suivants à l’heure prévue d’après ta position, marges sur les barrières r",
-      "Heure d’arrivée prévue à un ravito (annonces, carte du plan, écran de ton assistance) : une seule règle, qui suit ton plan point par point, relief compris ; au départ, ce sont exactement les heures d’",
-      "Plan de course : une ligne « Assistance » donne le prénom de l’ami qui t’attend à ce ravito, juste avant l’alimentation.",
-      "Assistance aux ravitos : les ravitos cochés par ton ami sont enregistrés et t’arrivent ; son écran lui dit quoi te donner à chaque rencontre, jusqu’à la suivante, et l’itinéraire mène au bon kilomètre",
-      "Essai : questions à la voix pendant une sortie lancée (Réglages de l’assistance → Questions à la voix) : dis « Star Coach » puis ta question (combien jusqu’au ravito, ma marge, le dénivelé, mon allure"
+      "Alimentation : les flasques d’iso complètent seulement les glucides qui manquent pour atteindre le repère de la durée, le reste en eau ; la même chose partout (carte Alimentation, plan de course, anno",
+      "Sortie longue : une baisse que tu as acceptée ne la protège plus de la règle « jamais plus d’une demi-heure au-dessus de la plus longue du mois d’avant » ; une hausse acceptée reste telle quelle.",
+      "Une course un samedi ne transforme plus la semaine en week-end choc : c’est une semaine de course (affûtage, puis lendemain de course).",
+      "Ultra sans club : une seule séance dure par semaine dès la semaine type, sans message répété chaque semaine.",
+      "Demander : une question sur une date ou un moment de ton programme (week-end choc, affûtage, une course) reçoit le détail de cette semaine et tes temps forts jusqu’au défi ; le coach compare durée, dé"
     ]
   },
   "ouvert": true,
