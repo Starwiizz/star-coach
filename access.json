@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.12",
-    "code": 40712,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.12/star-coach.apk",
-    "sha256": "421eec7aa42af5b94a269c94c452ea0632d80b94bc90c7922f2ea6563c954f22",
+    "version": "4.7.13",
+    "code": 40713,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.13/star-coach.apk",
+    "sha256": "67575f11ad9ab3d52f499a29ef687452f7a10baa2baa6748265f6766542479e1",
     "notes": [
-      "Alimentation : les flasques d’iso complètent seulement les glucides qui manquent pour atteindre le repère de la durée, le reste en eau ; la même chose partout (carte Alimentation, plan de course, anno",
-      "Sortie longue : une baisse que tu as acceptée ne la protège plus de la règle « jamais plus d’une demi-heure au-dessus de la plus longue du mois d’avant » ; une hausse acceptée reste telle quelle.",
-      "Une course un samedi ne transforme plus la semaine en week-end choc : c’est une semaine de course (affûtage, puis lendemain de course).",
-      "Ultra sans club : une seule séance dure par semaine dès la semaine type, sans message répété chaque semaine.",
-      "Demander : une question sur une date ou un moment de ton programme (week-end choc, affûtage, une course) reçoit le détail de cette semaine et tes temps forts jusqu’au défi ; le coach compare durée, dé"
+      "Plan de course : une ligne « Arrêt prévu » à chaque ravito ; le crayon ouvre une petite fenêtre où tu entres le temps en minutes, et toutes les heures suivantes se recalculent (une minute par défaut à",
+      "Tes chances : ton temps prévu (le même que le plan de course) et ta chance de finir dans les barrières.",
+      "Limite d’arrivée : celle de ton règlement ; sinon elle est estimée (dernière barrière et ton temps prévu jusqu’à l’arrivée) et tu peux entrer la vraie.",
+      "Assistance : Sophie voit directement ton plan de course, avec « J’y serai » et « Itinéraire » sur chaque ravito, à l’heure du jour et sans barrière inventée.",
+      "Suivi de l’assistance pendant ta course : tes chiffres, le prochain ravito, quoi te donner, la carte, ton plan en direct et les encouragements ; elle peut changer de ravito sur place."
     ]
   },
   "dev": {
