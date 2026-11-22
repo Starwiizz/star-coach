@@ -19,16 +19,16 @@
     ]
   },
   "dev": {
-    "version": "4.7.14",
-    "code": 40714,
-    "build": "b302",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.14/star-coach.apk",
-    "sha256": "191d5baf57cf295b4bb5e9cadb2e9c399ed01b8bb4dffeab5cc0363fc8ec519f",
+    "version": "4.7.15",
+    "code": 40715,
+    "build": "b303",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.15/star-coach.apk",
+    "sha256": "6644b663ea05d437993fd2fe2fc4452ea7a1554f2404ae4187378a7f46864bf9",
     "notes": [
+      "Limite d’arrivée estimée : elle suit le rythme imposé par l’organisation entre tes deux dernières barrières (dénivelé compris) ; elle ne bouge plus avec ta prévision.",
       "Tes chances : de nouveau le temps où ta chance de finir est la plus haute (ta limite d’arrivée, arrêts aux ravitos compris) ; quand ta chance atteint neuf sur dix, ce temps descend. Ton temps prévu re",
       "Heure de départ : ton défi et sa course ont toujours la même ; ton défi n’en avait plus (en-tête, Jour J, barrières, écran de ton assistance), il reprend celle de ta course.",
       "Plan de course : une ligne « Arrêt prévu » à chaque ravito ; le crayon ouvre une petite fenêtre où tu entres le temps en minutes, et toutes les heures suivantes se recalculent (une minute par défaut à",
-      "Limite d’arrivée : celle de ton règlement ; sinon elle est estimée (dernière barrière et ton temps prévu jusqu’à l’arrivée) et tu peux entrer la vraie.",
       "Assistance : Sophie voit directement ton plan de course, avec « J’y serai » et « Itinéraire » sur chaque ravito, à l’heure du jour et sans barrière inventée."
     ]
   },
