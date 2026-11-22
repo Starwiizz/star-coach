@@ -6,15 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.17",
-    "code": 40717,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.17/star-coach.apk",
-    "sha256": "fcf40cb9c2da28871bbffc02528677c637dda64cb6f7318950e449d9c1f49995",
+    "version": "4.7.18",
+    "code": 40718,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.18/star-coach.apk",
+    "sha256": "3204329a6b537da23aa8860062286bbb256828f88d2c0e8d2acf8e4f23e6b102",
     "notes": [
-      "Compte rendu des séances par blocs (seuil, VMA, club sur le plat) : prévu et fait côte à côte, un tableau par bloc, ce que ça dit, ce que ça a travaillé et le conseil pour la prochaine fois.",
-      "Allures toujours en min/km : en vert dans la cible, en rouge trop rapide, en jaune trop lente. Chaque cardio affiché prend la couleur de sa zone.",
-      "Si ta séance ne ressemble pas au prévu, ton coach te demande de l’expliquer en quelques lignes avant d’écrire le compte rendu.",
-      "Plus de fenêtre des nouveautés après la mise à jour : elles sont ici, avant de l’installer."
+      "Le même compte rendu pour toutes les séances : pyramide et fartlek effort par effort, circuit en côtes tour par tour, footing, sortie longue, trail et tapis en trois parties (allure, cardio, D+, march",
+      "Une trace GPX d’un seul tour ne change plus la distance de la course (boucle à faire plusieurs fois) : la prévision et l’allure des séances pour la course sont justes.",
+      "Prépa : le vrai chrono de ta montre pour tes courses, les kilomètres à ton allure visée comptés effort par effort, la séance pour ta course dite faite, le même D+ par semaine que le bilan.",
+      "Assistant : départ au mouvement surveillé même téléphone verrouillé, chrono parti du premier pas, pas de « un peu lent » en récupération ni au début d’un bloc.",
+      "Ton coach te demande si tu vas au club quand ta semaine est allégée ou qu’une course approche ; jauge de l’IA égale au compte du relais ; nouvel accord pour joindre le journal de tes sorties à ta sauv"
     ]
   },
   "dev": {
