@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.7.15",
-    "code": 40715,
-    "build": "b303",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.15/star-coach.apk",
-    "sha256": "6644b663ea05d437993fd2fe2fc4452ea7a1554f2404ae4187378a7f46864bf9",
+    "version": "4.7.16",
+    "code": 40716,
+    "build": "b304",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.16/star-coach.apk",
+    "sha256": "624c687df7e71271a682a289eb5e0c960ca07bf77da38e6e46ee82b59abcd3b4",
     "notes": [
+      "Course d’entraînement : à l’ajout d’une course, et dans « Modifier la course », choisis « Un objectif » ou « Un entraînement ». Une course d’entraînement prend la place de la séance de son jour, sans ",
+      "Chronos : un chrono, une course ou un effort maximal prend le temps de ta montre (avant : le temps en mouvement d’intervals.icu, quelques secondes plus court) ; ton chrono et le résultat de la course ",
       "Limite d’arrivée estimée : elle suit le rythme imposé par l’organisation entre tes deux dernières barrières (dénivelé compris) ; elle ne bouge plus avec ta prévision.",
       "Tes chances : de nouveau le temps où ta chance de finir est la plus haute (ta limite d’arrivée, arrêts aux ravitos compris) ; quand ta chance atteint neuf sur dix, ce temps descend. Ton temps prévu re",
-      "Heure de départ : ton défi et sa course ont toujours la même ; ton défi n’en avait plus (en-tête, Jour J, barrières, écran de ton assistance), il reprend celle de ta course.",
-      "Plan de course : une ligne « Arrêt prévu » à chaque ravito ; le crayon ouvre une petite fenêtre où tu entres le temps en minutes, et toutes les heures suivantes se recalculent (une minute par défaut à",
-      "Assistance : Sophie voit directement ton plan de course, avec « J’y serai » et « Itinéraire » sur chaque ravito, à l’heure du jour et sans barrière inventée."
+      "Heure de départ : ton défi et sa course ont toujours la même ; ton défi n’en avait plus (en-tête, Jour J, barrières, écran de ton assistance), il reprend celle de ta course."
     ]
   },
   "ouvert": true,
