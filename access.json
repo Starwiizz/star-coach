@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.7.10",
-    "code": 40710,
-    "build": "b298",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.10/star-coach.apk",
-    "sha256": "7d1b78a9b0f3cf71cf247dd333c95005857c8faa0f0ab61b246379002db18d37",
+    "version": "4.7.11",
+    "code": 40711,
+    "build": "b299",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.11/star-coach.apk",
+    "sha256": "ee5ab147130ae5b845088e1ab89e7f247154820a0b994774bf2b644c16469f8f",
     "notes": [
-      "Plus aucune fenêtre de présentation à l’ouverture des pages.",
-      "Nouveau coureur : juste après l’analyse, un écran de questions (cardio avec toutes les valeurs trouvées, VMA, chronos de ta montre), puis le récapitulatif complet ; « Créer mon programme » ouvre direc",
-      "Plus de question sur une séance d’avant ton programme.",
-      "Plan de course : une ligne par information, le kilomètre et le D+ en étiquettes, les heures alignées à droite ; la marge sur chaque barrière est la marge prévue (en course, l’Assistant la recalcule à ",
-      "Plan de course : le total montre aussi les flasques d’eau, sans les phrases en trop."
+      "Assistant, en course : la carte « Plan de course » d’Infos course, mise à jour en direct : ravitos passés à leur heure réelle, suivants à l’heure prévue d’après ta position, marges sur les barrières r",
+      "Heure d’arrivée prévue à un ravito (annonces, carte du plan, écran de ton assistance) : une seule règle, qui suit ton plan point par point, relief compris ; au départ, ce sont exactement les heures d’",
+      "Plan de course : une ligne « Assistance » donne le prénom de l’ami qui t’attend à ce ravito, juste avant l’alimentation.",
+      "Assistance aux ravitos : les ravitos cochés par ton ami sont enregistrés et t’arrivent ; son écran lui dit quoi te donner à chaque rencontre, jusqu’à la suivante, et l’itinéraire mène au bon kilomètre",
+      "Essai : questions à la voix pendant une sortie lancée (Réglages de l’assistance → Questions à la voix) : dis « Star Coach » puis ta question (combien jusqu’au ravito, ma marge, le dénivelé, mon allure"
     ]
   },
   "ouvert": true,
