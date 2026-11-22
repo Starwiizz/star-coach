@@ -6,16 +6,15 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.16",
-    "code": 40716,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.16/star-coach.apk",
-    "sha256": "624c687df7e71271a682a289eb5e0c960ca07bf77da38e6e46ee82b59abcd3b4",
+    "version": "4.7.17",
+    "code": 40717,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.17/star-coach.apk",
+    "sha256": "fcf40cb9c2da28871bbffc02528677c637dda64cb6f7318950e449d9c1f49995",
     "notes": [
-      "Course d’entraînement : à l’ajout d’une course, et dans « Modifier la course », choisis « Un objectif » ou « Un entraînement ». Une course d’entraînement prend la place de la séance de son jour, sans ",
-      "Chronos : un chrono, une course ou un effort maximal prend le temps de ta montre (avant : le temps en mouvement d’intervals.icu, quelques secondes plus court) ; ton chrono et le résultat de la course ",
-      "Limite d’arrivée estimée : elle suit le rythme imposé par l’organisation entre tes deux dernières barrières (dénivelé compris) ; elle ne bouge plus avec ta prévision.",
-      "Tes chances : de nouveau le temps où ta chance de finir est la plus haute (ta limite d’arrivée, arrêts aux ravitos compris) ; quand ta chance atteint neuf sur dix, ce temps descend. Ton temps prévu re",
-      "Heure de départ : ton défi et sa course ont toujours la même ; ton défi n’en avait plus (en-tête, Jour J, barrières, écran de ton assistance), il reprend celle de ta course."
+      "Compte rendu des séances par blocs (seuil, VMA, club sur le plat) : prévu et fait côte à côte, un tableau par bloc, ce que ça dit, ce que ça a travaillé et le conseil pour la prochaine fois.",
+      "Allures toujours en min/km : en vert dans la cible, en rouge trop rapide, en jaune trop lente. Chaque cardio affiché prend la couleur de sa zone.",
+      "Si ta séance ne ressemble pas au prévu, ton coach te demande de l’expliquer en quelques lignes avant d’écrire le compte rendu.",
+      "Plus de fenêtre des nouveautés après la mise à jour : elles sont ici, avant de l’installer."
     ]
   },
   "dev": {
