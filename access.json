@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.7.9",
-    "code": 40709,
-    "build": "b297",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.9/star-coach.apk",
-    "sha256": "af1fa7c17c707f96c1c52583dd4a5c321d3113c02e7512c59490e64cb27bf6f1",
+    "version": "4.7.10",
+    "code": 40710,
+    "build": "b298",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.10/star-coach.apk",
+    "sha256": "7d1b78a9b0f3cf71cf247dd333c95005857c8faa0f0ab61b246379002db18d37",
     "notes": [
-      "Trace GPX : importée depuis la page de la course ou du défi, elle sert aux deux ; le dénivelé du fichier est mieux mesuré (les petites oscillations d’altitude ne gonflent plus les montées).",
-      "Plan de course : le D+ de chaque tronçon et de chaque ravito s’affiche quand il vient de ta trace GPX ou de ton règlement.",
-      "Points d’eau d’un GPX : l’appli les compare à tes ravitos et te propose d’ajouter ceux qui manquent ou de prendre le kilomètre du fichier ; une heure limite ne change jamais.",
-      "Trace GPX d’une course : chaque ravito et barrière est posé à son vrai kilomètre sur la carte et le profil, et l’Assistant suit ta position au bon kilomètre (avant : plusieurs kilomètres trop loin en ",
-      "Nouveau coureur : « Voici ce que je retiens » montre la VMA utilisée ; ce que ton bilan estime (VMA, FC max) t’est demandé à cette étape, et les chronos trouvés dans ta montre (distances de course) so"
+      "Plus aucune fenêtre de présentation à l’ouverture des pages.",
+      "Nouveau coureur : juste après l’analyse, un écran de questions (cardio avec toutes les valeurs trouvées, VMA, chronos de ta montre), puis le récapitulatif complet ; « Créer mon programme » ouvre direc",
+      "Plus de question sur une séance d’avant ton programme.",
+      "Plan de course : une ligne par information, le kilomètre et le D+ en étiquettes, les heures alignées à droite ; la marge sur chaque barrière est la marge prévue (en course, l’Assistant la recalcule à ",
+      "Plan de course : le total montre aussi les flasques d’eau, sans les phrases en trop."
     ]
   },
   "ouvert": true,
