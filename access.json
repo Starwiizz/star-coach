@@ -6,15 +6,15 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.20",
-    "code": 40720,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.20/star-coach.apk",
-    "sha256": "2c1889dcdb7afd95d133233f066354569fcb6354bcf65336a42a29ebcf2a086a",
+    "version": "4.7.21",
+    "code": 40721,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.21/star-coach.apk",
+    "sha256": "b631a7c72f3fec5725abab6f78f115cc0993e98a299851f473927caf3948eb3d",
     "notes": [
-      "Ta réponse à la question d’un compte rendu sert vraiment : même écrite librement, elle remplace la séance prévue pour retrouver tes efforts.",
-      "Les questions et conseils sur ton programme (semaine, club, sorties longues, douleur) s’affichent seulement dans la page Programme, marquée d’un « ! ».",
-      "Plus d’alerte « aucun jour de repos » une semaine où tu as une course.",
-      "Demander à ton coach : la conversation défile, puis la page continue."
+      "La carte de ton parcours dans Infos course : touche-la pour l’ouvrir en grand, en plan ou en satellite, en 2D ou en 3D avec le relief, et survoler tout le parcours.",
+      "Vos sorties longues (Amis) : chaque sortie longue se touche pour voir son détail et proposer de la faire ensemble.",
+      "Quand tu expliques une séance faite à la place de celle prévue, elle la remplace dans ton programme et compte comme faite.",
+      "Le résumé d’une séance que tu as décrite dit « conforme à ce que tu as décrit »."
     ]
   },
   "dev": {
