@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.18",
-    "code": 40718,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.18/star-coach.apk",
-    "sha256": "3204329a6b537da23aa8860062286bbb256828f88d2c0e8d2acf8e4f23e6b102",
+    "version": "4.7.19",
+    "code": 40719,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.19/star-coach.apk",
+    "sha256": "dc626b9e0123d913d23e9a1af08ba8f477c37e5cf6f3f668e4bff5bbea181dad",
     "notes": [
-      "Le même compte rendu pour toutes les séances : pyramide et fartlek effort par effort, circuit en côtes tour par tour, footing, sortie longue, trail et tapis en trois parties (allure, cardio, D+, march",
-      "Une trace GPX d’un seul tour ne change plus la distance de la course (boucle à faire plusieurs fois) : la prévision et l’allure des séances pour la course sont justes.",
-      "Prépa : le vrai chrono de ta montre pour tes courses, les kilomètres à ton allure visée comptés effort par effort, la séance pour ta course dite faite, le même D+ par semaine que le bilan.",
-      "Assistant : départ au mouvement surveillé même téléphone verrouillé, chrono parti du premier pas, pas de « un peu lent » en récupération ni au début d’un bloc.",
-      "Ton coach te demande si tu vas au club quand ta semaine est allégée ou qu’une course approche ; jauge de l’IA égale au compte du relais ; nouvel accord pour joindre le journal de tes sorties à ta sauv"
+      "Comptes rendus vérifiés sur plus de 300 vraies séances, avec et sans planning du club : un effort coupé par un arrêt (feu, croisement) est reconnu d’un seul tenant.",
+      "Échauffement et retour au calme mesurés sans les pauses de la montre ; efforts du club jamais pris dans l’échauffement ; un effort court suivi d’un arrêt mesuré sur sa vraie distance.",
+      "Une séance d’efforts faite un jour de footing ou de sortie longue n’est plus jugée comme un footing (« ralentis ») : ton coach te demande ce que tu as fait.",
+      "Quand l’appli ne retrouve pas tous les efforts prévus alors qu’il en reste dans ta courbe, elle te demande au lieu d’écrire « 1 sur 3 ».",
+      "Plus de question quand tu t’arrêtes pendant une séance (attente au club, feu, pause) : l’arrêt est simplement noté dans le compte rendu."
     ]
   },
   "dev": {
