@@ -6,16 +6,15 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.19",
-    "code": 40719,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.19/star-coach.apk",
-    "sha256": "dc626b9e0123d913d23e9a1af08ba8f477c37e5cf6f3f668e4bff5bbea181dad",
+    "version": "4.7.20",
+    "code": 40720,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.20/star-coach.apk",
+    "sha256": "2c1889dcdb7afd95d133233f066354569fcb6354bcf65336a42a29ebcf2a086a",
     "notes": [
-      "Comptes rendus vérifiés sur plus de 300 vraies séances, avec et sans planning du club : un effort coupé par un arrêt (feu, croisement) est reconnu d’un seul tenant.",
-      "Échauffement et retour au calme mesurés sans les pauses de la montre ; efforts du club jamais pris dans l’échauffement ; un effort court suivi d’un arrêt mesuré sur sa vraie distance.",
-      "Une séance d’efforts faite un jour de footing ou de sortie longue n’est plus jugée comme un footing (« ralentis ») : ton coach te demande ce que tu as fait.",
-      "Quand l’appli ne retrouve pas tous les efforts prévus alors qu’il en reste dans ta courbe, elle te demande au lieu d’écrire « 1 sur 3 ».",
-      "Plus de question quand tu t’arrêtes pendant une séance (attente au club, feu, pause) : l’arrêt est simplement noté dans le compte rendu."
+      "Ta réponse à la question d’un compte rendu sert vraiment : même écrite librement, elle remplace la séance prévue pour retrouver tes efforts.",
+      "Les questions et conseils sur ton programme (semaine, club, sorties longues, douleur) s’affichent seulement dans la page Programme, marquée d’un « ! ».",
+      "Plus d’alerte « aucun jour de repos » une semaine où tu as une course.",
+      "Demander à ton coach : la conversation défile, puis la page continue."
     ]
   },
   "dev": {
