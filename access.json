@@ -18,16 +18,15 @@
     ]
   },
   "dev": {
-    "version": "4.7.21",
-    "code": 40721,
-    "build": "b309",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.21/star-coach.apk",
-    "sha256": "b631a7c72f3fec5725abab6f78f115cc0993e98a299851f473927caf3948eb3d",
+    "version": "4.7.22",
+    "code": 40722,
+    "build": "b310",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.22/star-coach.apk",
+    "sha256": "8e40a5daafd08fb920b0a61bf276434e9d0f762c90861b53d3817073d09f1429",
     "notes": [
-      "La carte de ton parcours dans Infos course : touche-la pour l’ouvrir en grand, en plan ou en satellite, en 2D ou en 3D avec le relief, et survoler tout le parcours.",
-      "Vos sorties longues (Amis) : chaque sortie longue se touche pour voir son détail et proposer de la faire ensemble.",
-      "Quand tu expliques une séance faite à la place de celle prévue, elle la remplace dans ton programme et compte comme faite.",
-      "Le résumé d’une séance que tu as décrite dit « conforme à ce que tu as décrit »."
+      "Carte du parcours : bien affichée dans Infos course, la trace visible tout de suite en 3D, un survol plus fluide qui ne colle plus la caméra au point, et les vignettes Plan / Satellite remplies.",
+      "Amis : la carte « Vos sorties longues » reprend sa largeur.",
+      "Une séance que tu as décrite et qui remplace la séance prévue porte l’étiquette « Intensité »."
     ]
   },
   "ouvert": true,
