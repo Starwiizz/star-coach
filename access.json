@@ -17,17 +17,17 @@
     ]
   },
   "dev": {
-    "version": "4.7.23",
-    "code": 40723,
-    "build": "b311",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.23/star-coach.apk",
-    "sha256": "f1ff9505048b19f8d70a72b1f3339c34d1582e8dae90e3a3250ea00bec0046ef",
+    "version": "4.7.24",
+    "code": 40724,
+    "build": "b312",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.24/star-coach.apk",
+    "sha256": "f2851e467d78116a25f9106e632578c39ec5cad0299e9f080a10a787db557e24",
     "notes": [
-      "Assistant : la fin prévue d’une séance ne met plus ta sortie en pause, elle continue jusqu’à « Arrêter ».",
-      "Chute : l’alarme sonne aussi quand le GPS est perdu, l’alerte à tes contacts insiste tant qu’elle n’est pas partie, et le numéro de ton proche est à confirmer une fois.",
-      "Une sortie interrompue (appli fermée par le téléphone) peut être reprise ou gardée à la réouverture.",
-      "En course : la marge aux barrières se compte depuis le départ officiel et tient compte du retard déjà pris.",
-      "Prévisions : un chrono de moins de 8 semaines passe avant la VMA ; plus de ralentissement de nuit sur route."
+      "Ta sortie est aussi enregistrée par ton téléphone en dehors de l’appli : écran verrouillé ou appli fermée, la distance et le tracé ne sont plus perdus.",
+      "Série d’efforts courts dans une sortie sans séance prévue : ton coach la voit et te demande ce que tu as fait, au lieu d’en parler comme d’un footing.",
+      "Compte rendu : le verdict et le tableau disent la même chose (« plus vite que prévu » au lieu de « conforme au plan »).",
+      "Courses jusqu’au semi-marathon : la semaine avant la course est toujours une semaine normale un peu réduite, jamais une semaine allégée par hasard.",
+      "Durée de tes séances : le chrono de ta montre pour toutes tes sorties, plus seulement les sorties longues et les courses."
     ]
   },
   "ouvert": true,
