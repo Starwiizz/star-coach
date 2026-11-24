@@ -17,17 +17,16 @@
     ]
   },
   "dev": {
-    "version": "4.7.26",
-    "code": 40726,
-    "build": "b314",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.26/star-coach.apk",
-    "sha256": "7f5d1e1674bf086843091cab54acd368745168cf961fdf07306e9c5cc219d671",
+    "version": "4.7.27",
+    "code": 40727,
+    "build": "b315",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.27/star-coach.apk",
+    "sha256": "729e0d8d5a6ca833bb8c40a403b2d5e3a3d282ad45a88318762f445cdeca0495",
     "notes": [
-      "Carte du parcours : le tracé revient sur la petite carte ; survol plus fluide (la caméra suit en continu, entrée et sortie du vol, point bien visible, tracé parcouru qui suit le point, relief plus fin",
-      "Tu peux supprimer la trace GPX d’une course (« Supprimer », à côté de « Remplacer la trace »).",
-      "Appel d’un proche : le SMS se règle à part, avec l’explication quand Android le refuse ; l’appel part de toute façon.",
-      "Ton téléphone fait avancer ta sortie écran verrouillé : annonces et alarme suivent ses positions quand l’appli dort.",
-      "Test de seuil guidé à la voix dans l’Assistant, à côté du test VMA."
+      "Carte du parcours : le tracé est de retour sur la petite carte d’Infos course.",
+      "Survol du parcours : caméra plus posée (elle regarde dans le sens général du parcours), vol plus lent avec un bouton de vitesse, et il attend que la carte soit chargée.",
+      "Carte en 3D : belle par défaut (ombrage des pentes, relief détaillé) ; elle s’allège toute seule si ton téléphone peine, et tu choisis « Belle » ou « Fluide » dans le bouton des couches.",
+      "Historique : le nombre de fractions d’une séance reprend celui de son compte rendu."
     ]
   },
   "ouvert": true,
