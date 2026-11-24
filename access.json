@@ -17,16 +17,17 @@
     ]
   },
   "dev": {
-    "version": "4.7.25",
-    "code": 40725,
-    "build": "b313",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.25/star-coach.apk",
-    "sha256": "b8ccf58d944d55b83faa2a5a869835d91c8bf3050f10f69b8ce5d6d232a0cb8b",
+    "version": "4.7.26",
+    "code": 40726,
+    "build": "b314",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.26/star-coach.apk",
+    "sha256": "7f5d1e1674bf086843091cab54acd368745168cf961fdf07306e9c5cc219d671",
     "notes": [
-      "Ta réponse à la question de ton coach, même courte, lui sert : il lit ta séance dans ta courbe, et s’il ne retrouve pas tes efforts il te demande le détail.",
-      "Une pyramide dite simplement (la suite des durées, « récup la moitié ») est comprise.",
-      "« C’est un chrono » n’est plus proposé pour une séance avec des arrêts ou des efforts répétés ; la question de ton coach se voit sur la ligne de la séance.",
-      "La fiche d’une activité affiche le même compte rendu que sa fenêtre (tableau, lecture, conseil)."
+      "Carte du parcours : le tracé revient sur la petite carte ; survol plus fluide (la caméra suit en continu, entrée et sortie du vol, point bien visible, tracé parcouru qui suit le point, relief plus fin",
+      "Tu peux supprimer la trace GPX d’une course (« Supprimer », à côté de « Remplacer la trace »).",
+      "Appel d’un proche : le SMS se règle à part, avec l’explication quand Android le refuse ; l’appel part de toute façon.",
+      "Ton téléphone fait avancer ta sortie écran verrouillé : annonces et alarme suivent ses positions quand l’appli dort.",
+      "Test de seuil guidé à la voix dans l’Assistant, à côté du test VMA."
     ]
   },
   "ouvert": true,
