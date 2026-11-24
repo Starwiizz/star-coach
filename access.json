@@ -17,17 +17,16 @@
     ]
   },
   "dev": {
-    "version": "4.7.24",
-    "code": 40724,
-    "build": "b312",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.24/star-coach.apk",
-    "sha256": "f2851e467d78116a25f9106e632578c39ec5cad0299e9f080a10a787db557e24",
+    "version": "4.7.25",
+    "code": 40725,
+    "build": "b313",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.25/star-coach.apk",
+    "sha256": "b8ccf58d944d55b83faa2a5a869835d91c8bf3050f10f69b8ce5d6d232a0cb8b",
     "notes": [
-      "Ta sortie est aussi enregistrée par ton téléphone en dehors de l’appli : écran verrouillé ou appli fermée, la distance et le tracé ne sont plus perdus.",
-      "Série d’efforts courts dans une sortie sans séance prévue : ton coach la voit et te demande ce que tu as fait, au lieu d’en parler comme d’un footing.",
-      "Compte rendu : le verdict et le tableau disent la même chose (« plus vite que prévu » au lieu de « conforme au plan »).",
-      "Courses jusqu’au semi-marathon : la semaine avant la course est toujours une semaine normale un peu réduite, jamais une semaine allégée par hasard.",
-      "Durée de tes séances : le chrono de ta montre pour toutes tes sorties, plus seulement les sorties longues et les courses."
+      "Ta réponse à la question de ton coach, même courte, lui sert : il lit ta séance dans ta courbe, et s’il ne retrouve pas tes efforts il te demande le détail.",
+      "Une pyramide dite simplement (la suite des durées, « récup la moitié ») est comprise.",
+      "« C’est un chrono » n’est plus proposé pour une séance avec des arrêts ou des efforts répétés ; la question de ton coach se voit sur la ligne de la séance.",
+      "La fiche d’une activité affiche le même compte rendu que sa fenêtre (tableau, lecture, conseil)."
     ]
   },
   "ouvert": true,
