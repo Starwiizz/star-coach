@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.28",
-    "code": 40728,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.28/star-coach.apk",
-    "sha256": "79be6484303eb32674c67a02db92c83113d3f81aa01cf4534737437db1056f27",
+    "version": "4.7.29",
+    "code": 40729,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.29/star-coach.apk",
+    "sha256": "63396564d1b5a31b82d30fe69534e6caa6133a4934fb8df793ef2745edda009b",
     "notes": [
-      "Une course avec une trace GPX prend le D+ de sa trace, partout ; le D+ annoncé reste visible à côté et revient si tu supprimes la trace.",
-      "Footing couru trop vite : ton coach te donne l’allure à tenir, avec le footing où ton cardio est resté dans ta zone.",
-      "Si ton cardio dépasse ta zone même à allure lente, ton coach te demande de vérifier ta FC max et ta FC de repos.",
-      "Comptes rendus : une allure cible écrite en fourchette est jugée sur toute la fourchette ; une séance à l’allure de ta course, en répétitions, est lue comme une séance.",
-      "Points d’eau d’un GPX : un point visiblement mal placé dans le fichier est signalé, ton ravito garde son km."
+      "Carte du défi : le pourcentage de chances est une pastille pleine.",
+      "Ouvrir ton défi ne te ramène plus dans la course regardée juste avant.",
+      "Historique : « Refaire le compte rendu » est aussi dans la fiche d’une activité.",
+      "Le dimanche, la fenêtre qui s’ouvre est l’analyse de la semaine de Progrès : une seule analyse, la même partout.",
+      "Analyse du défi : le texte de ton coach s’écrit tout seul et reste après un redémarrage tant que les chiffres affichés n’ont pas changé."
     ]
   },
   "dev": {
