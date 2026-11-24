@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.29",
-    "code": 40729,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.29/star-coach.apk",
-    "sha256": "63396564d1b5a31b82d30fe69534e6caa6133a4934fb8df793ef2745edda009b",
+    "version": "4.7.30",
+    "code": 40730,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.30/star-coach.apk",
+    "sha256": "f41ec156eb35667617d182fd379dbe751a0ab769d7f5859dccbb21245226a02c",
     "notes": [
-      "Carte du défi : le pourcentage de chances est une pastille pleine.",
-      "Ouvrir ton défi ne te ramène plus dans la course regardée juste avant.",
-      "Historique : « Refaire le compte rendu » est aussi dans la fiche d’une activité.",
-      "Le dimanche, la fenêtre qui s’ouvre est l’analyse de la semaine de Progrès : une seule analyse, la même partout.",
-      "Analyse du défi : le texte de ton coach s’écrit tout seul et reste après un redémarrage tant que les chiffres affichés n’ont pas changé."
+      "Comptes rendus : une séance du club faite d’efforts de durées différentes en tours est lue en entier ; sans séance prévue, tes efforts sont montrés tels qu’ils sont lus, sans question.",
+      "Moins de demandes : plus de question sur la douleur sur la carte du jour ; une question de compte rendu seulement pour la séance du jour ou de la veille.",
+      "Après ton défi, la récupération dépend de la course : les séances à ne pas faire sont barrées avec leur raison, puis ton programme continue en entretien.",
+      "Une douleur s’éteint seule quelques jours après son dernier signalement si tu as recouru sans la resignaler.",
+      "Prévision : un chrono qui vieillit pèse de moins en moins, sans saut d’un jour à l’autre."
     ]
   },
   "dev": {
