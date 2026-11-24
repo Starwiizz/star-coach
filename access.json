@@ -6,14 +6,15 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.22",
-    "code": 40722,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.22/star-coach.apk",
-    "sha256": "8e40a5daafd08fb920b0a61bf276434e9d0f762c90861b53d3817073d09f1429",
+    "version": "4.7.27",
+    "code": 40727,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.27/star-coach.apk",
+    "sha256": "729e0d8d5a6ca833bb8c40a403b2d5e3a3d282ad45a88318762f445cdeca0495",
     "notes": [
-      "Carte du parcours : bien affichée dans Infos course, la trace visible tout de suite en 3D, un survol plus fluide qui ne colle plus la caméra au point, et les vignettes Plan / Satellite remplies.",
-      "Amis : la carte « Vos sorties longues » reprend sa largeur.",
-      "Une séance que tu as décrite et qui remplace la séance prévue porte l’étiquette « Intensité »."
+      "Carte du parcours : le tracé est de retour sur la petite carte d’Infos course.",
+      "Survol du parcours : caméra plus posée (elle regarde dans le sens général du parcours), vol plus lent avec un bouton de vitesse, et il attend que la carte soit chargée.",
+      "Carte en 3D : belle par défaut (ombrage des pentes, relief détaillé) ; elle s’allège toute seule si ton téléphone peine, et tu choisis « Belle » ou « Fluide » dans le bouton des couches.",
+      "Historique : le nombre de fractions d’une séance reprend celui de son compte rendu."
     ]
   },
   "dev": {
