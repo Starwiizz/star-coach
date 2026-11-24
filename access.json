@@ -17,15 +17,17 @@
     ]
   },
   "dev": {
-    "version": "4.7.22",
-    "code": 40722,
-    "build": "b310",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.22/star-coach.apk",
-    "sha256": "8e40a5daafd08fb920b0a61bf276434e9d0f762c90861b53d3817073d09f1429",
+    "version": "4.7.23",
+    "code": 40723,
+    "build": "b311",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.23/star-coach.apk",
+    "sha256": "f1ff9505048b19f8d70a72b1f3339c34d1582e8dae90e3a3250ea00bec0046ef",
     "notes": [
-      "Carte du parcours : bien affichée dans Infos course, la trace visible tout de suite en 3D, un survol plus fluide qui ne colle plus la caméra au point, et les vignettes Plan / Satellite remplies.",
-      "Amis : la carte « Vos sorties longues » reprend sa largeur.",
-      "Une séance que tu as décrite et qui remplace la séance prévue porte l’étiquette « Intensité »."
+      "Assistant : la fin prévue d’une séance ne met plus ta sortie en pause, elle continue jusqu’à « Arrêter ».",
+      "Chute : l’alarme sonne aussi quand le GPS est perdu, l’alerte à tes contacts insiste tant qu’elle n’est pas partie, et le numéro de ton proche est à confirmer une fois.",
+      "Une sortie interrompue (appli fermée par le téléphone) peut être reprise ou gardée à la réouverture.",
+      "En course : la marge aux barrières se compte depuis le départ officiel et tient compte du retard déjà pris.",
+      "Prévisions : un chrono de moins de 8 semaines passe avant la VMA ; plus de ralentissement de nuit sur route."
     ]
   },
   "ouvert": true,
