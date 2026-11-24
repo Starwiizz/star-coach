@@ -6,15 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.27",
-    "code": 40727,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.27/star-coach.apk",
-    "sha256": "729e0d8d5a6ca833bb8c40a403b2d5e3a3d282ad45a88318762f445cdeca0495",
+    "version": "4.7.28",
+    "code": 40728,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.28/star-coach.apk",
+    "sha256": "79be6484303eb32674c67a02db92c83113d3f81aa01cf4534737437db1056f27",
     "notes": [
-      "Carte du parcours : le tracé est de retour sur la petite carte d’Infos course.",
-      "Survol du parcours : caméra plus posée (elle regarde dans le sens général du parcours), vol plus lent avec un bouton de vitesse, et il attend que la carte soit chargée.",
-      "Carte en 3D : belle par défaut (ombrage des pentes, relief détaillé) ; elle s’allège toute seule si ton téléphone peine, et tu choisis « Belle » ou « Fluide » dans le bouton des couches.",
-      "Historique : le nombre de fractions d’une séance reprend celui de son compte rendu."
+      "Une course avec une trace GPX prend le D+ de sa trace, partout ; le D+ annoncé reste visible à côté et revient si tu supprimes la trace.",
+      "Footing couru trop vite : ton coach te donne l’allure à tenir, avec le footing où ton cardio est resté dans ta zone.",
+      "Si ton cardio dépasse ta zone même à allure lente, ton coach te demande de vérifier ta FC max et ta FC de repos.",
+      "Comptes rendus : une allure cible écrite en fourchette est jugée sur toute la fourchette ; une séance à l’allure de ta course, en répétitions, est lue comme une séance.",
+      "Points d’eau d’un GPX : un point visiblement mal placé dans le fichier est signalé, ton ravito garde son km."
     ]
   },
   "dev": {
