@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.37",
-    "code": 40737,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.37/star-coach.apk",
-    "sha256": "2bc4315e265db372263b89361fd8751cd7b8c79b54a48f99dc8c608a1da11e45",
+    "version": "4.7.38",
+    "code": 40738,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.38/star-coach.apk",
+    "sha256": "08b6174ff7b8f62f317cbbe451dd78b182561d7393f6e599722347b284f49ec9",
     "notes": [
+      "Analyse d’une course sur route : tes efforts à l’allure de la course ces 8 semaines (distance et allure), ce que ça dit pour le jour J et un conseil de départ.",
+      "Analyse d’une course : plus de ligne « Séances de VMA », plus de liste des séances jusqu’à la course.",
       "Analyse de ta course : « Ta préparation » se lit seule, avec la période, l’objectif et ce que tu as fait.",
       "Profil de la course : la pente en couleur, du vert au rouge, d’après ta trace.",
-      "Séances du club pas encore faites : toutes les formes sont lues (répétitions, récups à part, pyramide), avec l’allure visée et la récup de chaque effort.",
-      "Après une mise à jour, ta sauvegarde part même si la limite d’envois du jour est atteinte.",
-      "Compte rendu d’une séance lue dans ta courbe : le bloc s’appelle « Efforts »."
+      "Séances du club pas encore faites : toutes les formes sont lues (répétitions, récups à part, pyramide), avec l’allure visée et la récup de chaque effort."
     ]
   },
   "dev": {
