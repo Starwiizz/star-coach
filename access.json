@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.35",
-    "code": 40735,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.35/star-coach.apk",
-    "sha256": "52aace58f4ae32cf803ebbfedd12d6bbb5f051986904b9b97cde33fc7ba61039",
+    "version": "4.7.36",
+    "code": 40736,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.36/star-coach.apk",
+    "sha256": "154b16c27681bb069bb5426134917fcd939928c8ed117efbeb0106896444d7c6",
     "notes": [
+      "Séances du club pas encore faites : toutes les formes sont lues (répétitions, récups à part, pyramide), avec l’allure visée et la récup de chaque effort.",
+      "Après une mise à jour, ta sauvegarde part même si la limite d’envois du jour est atteinte.",
+      "Compte rendu d’une séance lue dans ta courbe : le bloc s’appelle « Efforts ».",
       "Une seule page par séance : le récap, le compte rendu, les courbes et la carte, puis « Retour au programme » en bas. Plus de fenêtre.",
-      "Programme : un bouton « Voir le détail » sous chaque séance, à la place du petit résumé.",
-      "Séances du club : elles s’ouvrent comme un compte rendu, vides avant, remplies après, avec une explication écrite par l’appli.",
-      "Comptes rendus : chaque bloc porte ses titres de colonnes et le prévu tient en une phrase ; « bpm » est la moyenne, « bpm max » le plus haut.",
-      "Comptes rendus : les footings et sorties longues sont découpés au kilomètre, avec le D+ et la marche de chaque morceau ; le prévu d’un bloc s’écrit sur sa ligne."
+      "Programme : un bouton « Voir le détail » sous chaque séance, à la place du petit résumé."
     ]
   },
   "dev": {
