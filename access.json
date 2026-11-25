@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.30",
-    "code": 40730,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.30/star-coach.apk",
-    "sha256": "f41ec156eb35667617d182fd379dbe751a0ab769d7f5859dccbb21245226a02c",
+    "version": "4.7.31",
+    "code": 40731,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.31/star-coach.apk",
+    "sha256": "1257bad3e0d79d62bfe107976b50123c3fee57a437b50de8be7d5f536256090e",
     "notes": [
-      "Comptes rendus : une séance du club faite d’efforts de durées différentes en tours est lue en entier ; sans séance prévue, tes efforts sont montrés tels qu’ils sont lus, sans question.",
-      "Moins de demandes : plus de question sur la douleur sur la carte du jour ; une question de compte rendu seulement pour la séance du jour ou de la veille.",
-      "Après ton défi, la récupération dépend de la course : les séances à ne pas faire sont barrées avec leur raison, puis ton programme continue en entretien.",
-      "Une douleur s’éteint seule quelques jours après son dernier signalement si tu as recouru sans la resignaler.",
-      "Prévision : un chrono qui vieillit pèse de moins en moins, sans saut d’un jour à l’autre."
+      "Base de séances types : une centaine de séances classiques rangées par familles (VMA courte et longue, pyramide, fartlek, allures de course du cinq kilomètres au marathon, seuil, tempo, côtes, descent",
+      "Programme : la VMA longue, les séances à l’allure de ta course et les côtes longues progressent d’échelon en échelon, comme le seuil et la VMA courte ; la VMA courte change de forme d’une semaine à l’",
+      "Demande à ton coach : tu peux demander une pyramide, un fartlek, des côtes longues, des descentes, ou une séance pour ton prochain chrono : la séance vient de la base, à ton niveau du moment.",
+      "Comptes rendus : une séance guidée par ta montre est lue dans ses étapes ; une séance lue sans rien de prévu porte le nom de la séance type à laquelle elle ressemble, avec la séance suivante pour prog",
+      "Analyses de la semaine et Infos course : ce que tes séances ont travaillé (VMA, seuil, côtes, allure de course) sur quatre semaines, et ce qui manque pour ta course."
     ]
   },
   "dev": {
