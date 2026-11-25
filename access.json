@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.7.33",
-    "code": 40733,
-    "build": "b321",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.33/star-coach.apk",
-    "sha256": "9454be35afd1e77c7f3ddeb2aee7c08a8ecf644712bfde13867f14b89229e9a4",
+    "version": "4.7.34",
+    "code": 40734,
+    "build": "b322",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.34/star-coach.apk",
+    "sha256": "6c4d573ea34c518f749dcb637a127f9515dbf015570236a8a0d1c3576cfc9ee4",
     "notes": [
-      "Comptes rendus : le même tableau pour toutes les séances (pyramide, circuit, footing, sortie longue) : échauffement, la séance avec ce qui était prévu, ses parties, retour au calme.",
-      "Programme : quand la semaine a de la place (une seule séance soutenue, rien la veille ni le lendemain), un footing devient un fartlek ou un footing progressif, à durée égale.",
-      "Nouveau coureur sans chrono ni VMA : la carte de sa course dit comment avoir une prévision (saisir un chrono, courir sa prochaine sortie, ou faire un test), puis la prévision s’affiche en fourchette t",
-      "Comptes rendus : chaque séance par blocs est montrée en un seul tableau, dans l’ordre : échauffement, temps morts (les arrêts où le cardio redescend), efforts avec ce qui était prévu, retour au calme.",
-      "Programme : le premier footing simple de la semaine se finit par quelques lignes droites, sans allonger la séance."
+      "Comptes rendus : plus de légende sous les tableaux, le sens de chaque colonne est dans son en-tête.",
+      "Analyse du défi : tes barrières et ta préparation en deux tableaux, ce que la course demande en face de ce que tu as fait.",
+      "Un chrono couru au milieu d’une sortie plus longue t’est proposé dans « C’est un chrono ? ».",
+      "Tes séances du club comptent dans « Ce que tu as travaillé » et dans Infos course d’après leurs efforts et leur programme.",
+      "Version de développement : à chaque nouvelle version, tes derniers comptes rendus sont refaits tout seuls, avec une barre de progression, puis ta sauvegarde part, pour tout contrôler."
     ]
   },
   "ouvert": true,
