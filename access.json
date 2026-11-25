@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.31",
-    "code": 40731,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.31/star-coach.apk",
-    "sha256": "1257bad3e0d79d62bfe107976b50123c3fee57a437b50de8be7d5f536256090e",
+    "version": "4.7.32",
+    "code": 40732,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.32/star-coach.apk",
+    "sha256": "8268297fb050f3b3c90c7b6407890c08b026843d12da54572cea79b8a0eb3ff9",
     "notes": [
-      "Base de séances types : une centaine de séances classiques rangées par familles (VMA courte et longue, pyramide, fartlek, allures de course du cinq kilomètres au marathon, seuil, tempo, côtes, descent",
-      "Programme : la VMA longue, les séances à l’allure de ta course et les côtes longues progressent d’échelon en échelon, comme le seuil et la VMA courte ; la VMA courte change de forme d’une semaine à l’",
-      "Demande à ton coach : tu peux demander une pyramide, un fartlek, des côtes longues, des descentes, ou une séance pour ton prochain chrono : la séance vient de la base, à ton niveau du moment.",
-      "Comptes rendus : une séance guidée par ta montre est lue dans ses étapes ; une séance lue sans rien de prévu porte le nom de la séance type à laquelle elle ressemble, avec la séance suivante pour prog",
-      "Analyses de la semaine et Infos course : ce que tes séances ont travaillé (VMA, seuil, côtes, allure de course) sur quatre semaines, et ce qui manque pour ta course."
+      "Comptes rendus : chaque séance par blocs est montrée en un seul tableau, dans l’ordre : échauffement, temps morts (les arrêts où le cardio redescend), efforts avec ce qui était prévu, retour au calme.",
+      "Programme : le premier footing simple de la semaine se finit par quelques lignes droites, sans allonger la séance.",
+      "Comptes rendus : plus de ligne qui redit que les efforts sont retrouvés, plus de « Comparé à la dernière fois » quand il n’y a rien à comparer ; le texte du coach a son titre.",
+      "Comptes rendus : quand plusieurs lectures d’une séance sont possibles (le prévu, les étapes de la montre, la courbe), l’appli les note toutes sur les mêmes indices et garde la meilleure.",
+      "Base de séances types : une centaine de séances classiques rangées par familles (VMA courte et longue, pyramide, fartlek, allures de course du cinq kilomètres au marathon, seuil, tempo, côtes, descent"
     ]
   },
   "dev": {
