@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.34",
-    "code": 40734,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.34/star-coach.apk",
-    "sha256": "6c4d573ea34c518f749dcb637a127f9515dbf015570236a8a0d1c3576cfc9ee4",
+    "version": "4.7.35",
+    "code": 40735,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.35/star-coach.apk",
+    "sha256": "52aace58f4ae32cf803ebbfedd12d6bbb5f051986904b9b97cde33fc7ba61039",
     "notes": [
-      "Comptes rendus : plus de légende sous les tableaux, le sens de chaque colonne est dans son en-tête.",
-      "Analyse du défi : tes barrières et ta préparation en deux tableaux, ce que la course demande en face de ce que tu as fait.",
-      "Un chrono couru au milieu d’une sortie plus longue t’est proposé dans « C’est un chrono ? ».",
-      "Tes séances du club comptent dans « Ce que tu as travaillé » et dans Infos course d’après leurs efforts et leur programme.",
-      "Version de développement : à chaque nouvelle version, tes derniers comptes rendus sont refaits tout seuls, avec une barre de progression, puis ta sauvegarde part, pour tout contrôler."
+      "Une seule page par séance : le récap, le compte rendu, les courbes et la carte, puis « Retour au programme » en bas. Plus de fenêtre.",
+      "Programme : un bouton « Voir le détail » sous chaque séance, à la place du petit résumé.",
+      "Séances du club : elles s’ouvrent comme un compte rendu, vides avant, remplies après, avec une explication écrite par l’appli.",
+      "Comptes rendus : chaque bloc porte ses titres de colonnes et le prévu tient en une phrase ; « bpm » est la moyenne, « bpm max » le plus haut.",
+      "Comptes rendus : les footings et sorties longues sont découpés au kilomètre, avec le D+ et la marche de chaque morceau ; le prévu d’un bloc s’écrit sur sa ligne."
     ]
   },
   "dev": {
