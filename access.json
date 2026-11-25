@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.36",
-    "code": 40736,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.36/star-coach.apk",
-    "sha256": "154b16c27681bb069bb5426134917fcd939928c8ed117efbeb0106896444d7c6",
+    "version": "4.7.37",
+    "code": 40737,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.37/star-coach.apk",
+    "sha256": "2bc4315e265db372263b89361fd8751cd7b8c79b54a48f99dc8c608a1da11e45",
     "notes": [
+      "Analyse de ta course : « Ta préparation » se lit seule, avec la période, l’objectif et ce que tu as fait.",
+      "Profil de la course : la pente en couleur, du vert au rouge, d’après ta trace.",
       "Séances du club pas encore faites : toutes les formes sont lues (répétitions, récups à part, pyramide), avec l’allure visée et la récup de chaque effort.",
       "Après une mise à jour, ta sauvegarde part même si la limite d’envois du jour est atteinte.",
-      "Compte rendu d’une séance lue dans ta courbe : le bloc s’appelle « Efforts ».",
-      "Une seule page par séance : le récap, le compte rendu, les courbes et la carte, puis « Retour au programme » en bas. Plus de fenêtre.",
-      "Programme : un bouton « Voir le détail » sous chaque séance, à la place du petit résumé."
+      "Compte rendu d’une séance lue dans ta courbe : le bloc s’appelle « Efforts »."
     ]
   },
   "dev": {
