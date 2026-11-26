@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.39",
-    "code": 40739,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.39/star-coach.apk",
-    "sha256": "1743ab6921b938237d6b602848c87f2c2a32c54151ccd7196fb7ba988bc0ec97",
+    "version": "4.7.40",
+    "code": 40740,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.40/star-coach.apk",
+    "sha256": "478c7f51ec128c23898096c3792fdf3086bd7cbde37d3a3f06f6db5ceb1c048e",
     "notes": [
+      "Envoyer sur ma montre : chaque étape (footing, efforts, récups) se termine quand tu appuies sur le bouton tour ; l’aperçu écrit « Effort 1 : 7 min à 5’08/km » ; l’avertissement sur l’allure seuil disp",
       "Séance du club à faire : un bouton « Envoyer sur ma montre » (par intervals.icu) : l’appli écrit la séance étape par étape avec tes allures, vérifie ce qu’intervals.icu a compris, et remplace un envoi",
       "Organiser ma semaine : le choix du programme principal du club, quand ton club en a deux.",
       "Footing sur tapis : le compte rendu suit la distance que tu as corrigée.",
-      "Mon sac : les longs éléments passent à la ligne ; la fenêtre « Impact sur mon programme » porte le nom de son bouton.",
-      "Comptes rendus et analyses : l’en-tête de chaque tableau va d’un bord à l’autre de la carte ; « bpm » est la moyenne, « bpm max » le plus haut, plus jamais « bpm fin »."
+      "Mon sac : les longs éléments passent à la ligne ; la fenêtre « Impact sur mon programme » porte le nom de son bouton."
     ]
   },
   "dev": {
