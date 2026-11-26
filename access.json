@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.7.41",
-    "code": 40741,
-    "build": "b329",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.41/star-coach.apk",
-    "sha256": "4757df8a1509b37fa6c22b1f7eed24e0fa8c4306854534ea4992df8130dc9ecb",
+    "version": "4.7.42",
+    "code": 40742,
+    "build": "b330",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.42/star-coach.apk",
+    "sha256": "dd011a64167de57d9536ee825f6f66aaa11302822db7dc33dc490a366ff8fbfb",
     "notes": [
-      "Carte « Aujourd’hui » : plus d’encadré sous la séance du club ; « Voir le détail › » ouvre la séance, comme dans Programme (séances avec un détail seulement).",
-      "Nouveau thème « Néon Floride » à la place de Cyber (Réglages → Apparence) : coucher de soleil sur la mer et palmiers sur toute la largeur de l’en-tête, boutons en relief, titres façon affiche, grandes",
-      "Envoyer sur ma montre : chaque étape (footing, efforts, récups) se termine quand tu appuies sur le bouton tour ; l’aperçu écrit chaque effort avec son numéro, sa durée et son allure ; l’avertissement ",
-      "Séance du club à faire : un bouton « Envoyer sur ma montre » (par intervals.icu) : l’appli écrit la séance étape par étape avec tes allures, vérifie ce qu’intervals.icu a compris, et remplace un envoi",
-      "Organiser ma semaine : le choix du programme principal du club, quand ton club en a deux."
+      "Comptes rendus : quand la séance prévue se retrouve dans les tours de ta montre, ce sont eux qui comptent ; des blocs à des allures de course différentes sont jugés chacun sur la sienne.",
+      "Séance du club mieux lue : récups et allures écrites en abrégé par l’entraîneur, répétitions en distance, et efforts écrits dans une note du club.",
+      "Efforts en côte : l’allure n’est plus comparée à une allure de plat, le compte rendu le dit.",
+      "Montre arrêtée puis relancée : l’échauffement (ou le retour au calme) enregistré à part est reconnu tout seul, sans question.",
+      "Plus de fenêtre après l’import d’une séance : l’appli ouvre directement la page de la séance, avec le choix des chaussures et « C’est un chrono »."
     ]
   },
   "ouvert": true,
