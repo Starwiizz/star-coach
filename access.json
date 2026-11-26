@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.38",
-    "code": 40738,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.38/star-coach.apk",
-    "sha256": "08b6174ff7b8f62f317cbbe451dd78b182561d7393f6e599722347b284f49ec9",
+    "version": "4.7.39",
+    "code": 40739,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.39/star-coach.apk",
+    "sha256": "1743ab6921b938237d6b602848c87f2c2a32c54151ccd7196fb7ba988bc0ec97",
     "notes": [
-      "Analyse d’une course sur route : tes efforts à l’allure de la course ces 8 semaines (distance et allure), ce que ça dit pour le jour J et un conseil de départ.",
-      "Analyse d’une course : plus de ligne « Séances de VMA », plus de liste des séances jusqu’à la course.",
-      "Analyse de ta course : « Ta préparation » se lit seule, avec la période, l’objectif et ce que tu as fait.",
-      "Profil de la course : la pente en couleur, du vert au rouge, d’après ta trace.",
-      "Séances du club pas encore faites : toutes les formes sont lues (répétitions, récups à part, pyramide), avec l’allure visée et la récup de chaque effort."
+      "Séance du club à faire : un bouton « Envoyer sur ma montre » (par intervals.icu) : l’appli écrit la séance étape par étape avec tes allures, vérifie ce qu’intervals.icu a compris, et remplace un envoi",
+      "Organiser ma semaine : le choix du programme principal du club, quand ton club en a deux.",
+      "Footing sur tapis : le compte rendu suit la distance que tu as corrigée.",
+      "Mon sac : les longs éléments passent à la ligne ; la fenêtre « Impact sur mon programme » porte le nom de son bouton.",
+      "Comptes rendus et analyses : l’en-tête de chaque tableau va d’un bord à l’autre de la carte ; « bpm » est la moyenne, « bpm max » le plus haut, plus jamais « bpm fin »."
     ]
   },
   "dev": {
