@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.43",
-    "code": 40743,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.43/star-coach.apk",
-    "sha256": "20af934fab965e92f9c8db1ed8d3db7cd9843cf12739fac442a4e0e520dade93",
+    "version": "4.7.44",
+    "code": 40744,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.44/star-coach.apk",
+    "sha256": "06e4e32152322556681e41041b7d12b23fde625fd320b937406d7a977a0b4b7d",
     "notes": [
-      "Comptes rendus des séances d’efforts : l’IA la plus avancée lit ta séance en arrière-plan et repère tes efforts ; l’appli vérifie chacun dans ta courbe et calcule elle-même tous les chiffres. Pendant ",
-      "Une seule page pour chaque séance : « Voir le détail » et le texte d’une séance ouvrent sa page (club, renfo, footing, séance de qualité, sortie longue) ; plus aucune fenêtre.",
-      "Carte « Aujourd’hui » : plus aucun encadré, seulement tes séances et « Voir le détail ».",
-      "Jour de repos côté course avec un renfo : le renfo n’apparaît plus deux fois.",
-      "Efforts en côte : le compte rendu le dit en clair (plus lent que l’allure prévue, c’est normal en côte)."
+      "Planning du club : ton coach lit le PDF lui-même et comprend chaque séance (étapes, côtes, séances au choix) ; l’appli vérifie chaque texte, nombre et date. Réimporte tes plans de décembre.",
+      "Page d’une séance : « Autres séances possibles » (autre séance au choix, autre programme du club, séance du club un dimanche, course), chacune avec son tableau et « Je fais celle-ci ».",
+      "Après ta dernière course : la récupération puis ton programme d’entretien, avec tes séances du club, visibles d’avance dans Programme ; une course ajoutée recalcule tout.",
+      "Comptes rendus : la lecture de l’appli reste quand elle retrouve toute la séance (ton club du 24/11 retrouve ses allures) ; côtes « en côte », récup en descente.",
+      "Produit (recherche, photo d’étiquette) et règlement d’une course lus par Opus ; séance du club effacée par un import reprise ; mise à jour réessayée seule si GitHub ne répond pas."
     ]
   },
   "dev": {
