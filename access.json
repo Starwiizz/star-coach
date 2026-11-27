@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.42",
-    "code": 40742,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.42/star-coach.apk",
-    "sha256": "dd011a64167de57d9536ee825f6f66aaa11302822db7dc33dc490a366ff8fbfb",
+    "version": "4.7.43",
+    "code": 40743,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.43/star-coach.apk",
+    "sha256": "20af934fab965e92f9c8db1ed8d3db7cd9843cf12739fac442a4e0e520dade93",
     "notes": [
-      "Comptes rendus : quand la séance prévue se retrouve dans les tours de ta montre, ce sont eux qui comptent ; des blocs à des allures de course différentes sont jugés chacun sur la sienne.",
-      "Séance du club mieux lue : récups et allures écrites en abrégé par l’entraîneur, répétitions en distance, et efforts écrits dans une note du club.",
-      "Efforts en côte : l’allure n’est plus comparée à une allure de plat, le compte rendu le dit.",
-      "Montre arrêtée puis relancée : l’échauffement (ou le retour au calme) enregistré à part est reconnu tout seul, sans question.",
-      "Plus de fenêtre après l’import d’une séance : l’appli ouvre directement la page de la séance, avec le choix des chaussures et « C’est un chrono »."
+      "Comptes rendus des séances d’efforts : l’IA la plus avancée lit ta séance en arrière-plan et repère tes efforts ; l’appli vérifie chacun dans ta courbe et calcule elle-même tous les chiffres. Pendant ",
+      "Une seule page pour chaque séance : « Voir le détail » et le texte d’une séance ouvrent sa page (club, renfo, footing, séance de qualité, sortie longue) ; plus aucune fenêtre.",
+      "Carte « Aujourd’hui » : plus aucun encadré, seulement tes séances et « Voir le détail ».",
+      "Jour de repos côté course avec un renfo : le renfo n’apparaît plus deux fois.",
+      "Efforts en côte : le compte rendu le dit en clair (plus lent que l’allure prévue, c’est normal en côte)."
     ]
   },
   "dev": {
