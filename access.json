@@ -19,17 +19,17 @@
     ]
   },
   "dev": {
-    "version": "4.7.44",
-    "code": 40744,
-    "build": "b332",
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.44/star-coach.apk",
-    "sha256": "06e4e32152322556681e41041b7d12b23fde625fd320b937406d7a977a0b4b7d",
+    "version": "4.7.45",
+    "code": 40745,
+    "build": "b333",
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.45/star-coach.apk",
+    "sha256": "9d87a4dfe77679f971ce76987c2378cccc7a36a286fef2890d574a15b32ccf68",
     "notes": [
-      "Planning du club : ton coach lit le PDF lui-même et comprend chaque séance (étapes, côtes, séances au choix) ; l’appli vérifie chaque texte, nombre et date. Réimporte tes plans de décembre.",
-      "Page d’une séance : « Autres séances possibles » (autre séance au choix, autre programme du club, séance du club un dimanche, course), chacune avec son tableau et « Je fais celle-ci ».",
-      "Après ta dernière course : la récupération puis ton programme d’entretien, avec tes séances du club, visibles d’avance dans Programme ; une course ajoutée recalcule tout.",
-      "Comptes rendus : la lecture de l’appli reste quand elle retrouve toute la séance (ton club du 24/11 retrouve ses allures) ; côtes « en côte », récup en descente.",
-      "Produit (recherche, photo d’étiquette) et règlement d’une course lus par Opus ; séance du club effacée par un import reprise ; mise à jour réessayée seule si GitHub ne répond pas."
+      "Comptes rendus sans le bouton tour : l’appli retrouve ta séance prévue en côte (le bas et le haut de chaque montée) et sur le plat (aux changements d’allure).",
+      "Si ta courbe contredit sa lecture, l’appli ne conclut pas et te demande ce que tu as fait ; une séance arrêtée avant la fin dit combien d’efforts tu as faits sur ceux prévus.",
+      "Ta description est mieux lue (nombres en lettres, minutes et secondes) ; la lecture par l’IA ne remplace plus celle de l’appli : elle rendait fausses des lectures justes.",
+      "Un seul compte rendu, sur la page de la séance : « Voir le détail › » y mène depuis Programme, l’Accueil et l’historique ; plus aucun bloc d’analyse ailleurs.",
+      "Séance du club d’un jour passé remplacée par l’autre programme lors d’un import : remise comme elle était."
     ]
   },
   "ouvert": true,
