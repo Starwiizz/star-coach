@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.45",
-    "code": 40745,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.45/star-coach.apk",
-    "sha256": "9d87a4dfe77679f971ce76987c2378cccc7a36a286fef2890d574a15b32ccf68",
+    "version": "4.7.46",
+    "code": 40746,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.46/star-coach.apk",
+    "sha256": "b6bf8e647a9e012762e0cc0eb61106797a03249fdc9992859c6e5f866d715d95",
     "notes": [
+      "Quand l’appli ne sait pas lire ta séance seule, ton coach te la propose en étapes, sans allure : « Oui, c’est ça » ou « Non, je corrige », puis l’appli calcule tout.",
+      "Sorties longues : plus de bloc d’analyse sous les sorties passées ; le compte rendu est sur la page de la séance.",
+      "Quand tu expliques ta séance sans donner d’allure, le compte rendu garde l’allure prévue par ton club ou ton programme.",
       "Comptes rendus sans le bouton tour : l’appli retrouve ta séance prévue en côte (le bas et le haut de chaque montée) et sur le plat (aux changements d’allure).",
-      "Si ta courbe contredit sa lecture, l’appli ne conclut pas et te demande ce que tu as fait ; une séance arrêtée avant la fin dit combien d’efforts tu as faits sur ceux prévus.",
-      "Ta description est mieux lue (nombres en lettres, minutes et secondes) ; la lecture par l’IA ne remplace plus celle de l’appli : elle rendait fausses des lectures justes.",
-      "Un seul compte rendu, sur la page de la séance : « Voir le détail › » y mène depuis Programme, l’Accueil et l’historique ; plus aucun bloc d’analyse ailleurs.",
-      "Séance du club d’un jour passé remplacée par l’autre programme lors d’un import : remise comme elle était."
+      "Si ta courbe contredit sa lecture, l’appli ne conclut pas et te demande ce que tu as fait ; une séance arrêtée avant la fin dit combien d’efforts tu as faits sur ceux prévus."
     ]
   },
   "dev": {
