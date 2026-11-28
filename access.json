@@ -6,16 +6,16 @@
   ],
   "revoked": [],
   "latest": {
-    "version": "4.7.46",
-    "code": 40746,
-    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.46/star-coach.apk",
-    "sha256": "b6bf8e647a9e012762e0cc0eb61106797a03249fdc9992859c6e5f866d715d95",
+    "version": "4.7.47",
+    "code": 40747,
+    "apk": "https://github.com/Starwiizz/star-coach/releases/download/dev-4.7.47/star-coach.apk",
+    "sha256": "ebb8dec052910be86a5323853336ac35285d6e8db61fcad2508c8705da27d000",
     "notes": [
-      "Quand l’appli ne sait pas lire ta séance seule, ton coach te la propose en étapes, sans allure : « Oui, c’est ça » ou « Non, je corrige », puis l’appli calcule tout.",
-      "Sorties longues : plus de bloc d’analyse sous les sorties passées ; le compte rendu est sur la page de la séance.",
-      "Quand tu expliques ta séance sans donner d’allure, le compte rendu garde l’allure prévue par ton club ou ton programme.",
-      "Comptes rendus sans le bouton tour : l’appli retrouve ta séance prévue en côte (le bas et le haut de chaque montée) et sur le plat (aux changements d’allure).",
-      "Si ta courbe contredit sa lecture, l’appli ne conclut pas et te demande ce que tu as fait ; une séance arrêtée avant la fin dit combien d’efforts tu as faits sur ceux prévus."
+      "Semaine de ton défi : ta semaine habituelle, club compris ; les séances dures et le renfo jambes des derniers jours sont barrés avec la raison, et tu gardes un footing court la veille.",
+      "Jamais de renfo jambes la veille d’une course, même d’entraînement.",
+      "Quand ton club prévoit une séance à part pour les coureurs d’une course, l’appli garde celle qui te concerne ; celle prévue pour ta course n’est pas barrée.",
+      "Séance du club qui change selon la VMA : l’appli garde celle de ta VMA, sans couper le texte.",
+      "VO2max : d’après ton test VMA quand tu en as un ; tes chronos servent à tes prévisions de course."
     ]
   },
   "dev": {
